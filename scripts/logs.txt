@@ -1,0 +1,986 @@
+ID: None
+
+ID: None
+public: None
+day: 13
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 13th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 4
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 4th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 14
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 14th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 15
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 15th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 16
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 16th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 1
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 1st Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 5
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 5th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 9
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 9th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 10
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 10th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 11
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 11th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 27
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 7
+name: 27th Mirtul, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 28
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 7
+name: 28th Mirtul, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 29
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 7
+name: 29th Mirtul, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 30
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 7
+name: 30th Mirtul, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 12
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 12th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 17
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 17th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 18
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 18th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 19
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 19th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 20
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 20th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 21
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 21st Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 22
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 22nd Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 23rd Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 24
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 24th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 25th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 26
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 26th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 27
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 27th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 28
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 28th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 29
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 29th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 30
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 8
+name: 30th Kythorn, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 1
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 1st Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 2
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 2nd Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 3
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 3rd Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 4
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 4th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 5
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 5th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 6
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 6th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 8
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 8th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 7
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 7th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 9
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 9th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 10
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 10th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 11
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 11th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 12
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 12th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 13
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 13th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 14
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 14th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 15
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 15th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 16
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 16th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 17
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 17th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 18
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 18th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 19
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 19th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 20
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 20th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 21
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 21st Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 21
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 22
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 22
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 22nd Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 23
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 23rd Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 24
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 24th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 24
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 25th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 25th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+year: 1491
+
+ID: None
+public: None
+day: 25
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 25th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 26
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 26th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 27
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 27th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+public: None
+day: 28
+epoch: DR
+gmlogentry: 
+					
+logentry: 
+					
+month: 9
+name: 28th Flamerule, 1491 DR
+year: 1491
+
+ID: None
+
+ID: None
+b: v7
+
+ID: None
+li: Updated to support July FGU core update
+
+ID: None
+b: v6
+
+ID: None
+li: The Journal has been removed from this extension and created as separate extension. Available free to you using my Forge Upgrader extension. If you previously used the forge upgrader to request copy of Character Sheet Tweaks, you will be gifted a copy automatically. A new totally rewritten and improved version of the journal is also available MNM Player Journal+1 at a discount to you.
+
+ID: None
+b: v5
+
+ID: None
+li: Restored functionality of the journals drag and drop
+li: Fixed minor label conflict with Consitutional Amendments
+li: Added warning messages for common detectable issues.
+
+ID: None
+b: v 4.0
+
+ID: None
+li: Added compatibility with Constitutional Amendments(disable Scried Raven's compatability extension if you were using it)
+li: Added compatibility with Friend Zone extension and other extensions effecting character sheet tabs
+li: Changed file structure to match other MNM extensions
+
+ID: None
+
+ID: None
+
+ID: None
+li: HP Flicker Issue
+li: Next Level XP not updating for some
+li: Unintended removal of rest button
+li: Always showing 3 inspiration bubbles
+li: Annoying lead script error that didn't cause issues but caused error message and confusion
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: Local Dice Tower 5e
+li: Hero Points 5e
+li: Sanity/Horor Add on
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: Updated to support July FGU core update
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: The Journal has been removed from this extension and created as separate extension. Available free to you using my Forge Upgrader extension. If you previously used the forge upgrader to request copy of Character Sheet Tweaks, you will be gifted a copy automatically. A new totally rewritten and improved version of the journal is also available MNM Player Journal+1 at a discount to you.
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: Restored functionality of the journals drag and drop
+li: Fixed minor label conflict with Consitutional Amendments
+li: Added warning messages for common detectable issues.
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: Added compatibility with Constitutional Amendments(disable Scried Raven's compatability extension if you were using it)
+li: Added compatibility with Friend Zone extension and other extensions effecting character sheet tabs
+li: Changed file structure to match other MNM extensions
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: HP Flicker Issue
+li: Next Level XP not updating for some
+li: Unintended removal of rest button
+li: Always showing 3 inspiration bubbles
+li: Annoying lead script error that didn't cause issues but caused error message and confusion
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+li: Local Dice Tower 5e
+li: Hero Points 5e
+li: Sanity/Horor Add on
+
+ID: None
+
+ID: None
+
+ID: None
+
+ID: None
+

@@ -1,0 +1,887 @@
+		<id-00001>
+			<holder name="GM" owner="true" />
+			<abilities>
+				<holder name="GM" owner="true" />
+				<charisma>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">6</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<holder name="GM" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">6</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class />
+				<recordname />
+			</backgroundlink>
+			<classes>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+					<hddie type="dice">d8</hddie>
+					<hdused type="number">0</hdused>
+					<level type="number">20</level>
+					<name type="string">Druid</name>
+					<rolls>
+						<holder name="GM" owner="true" />
+						<lvl-001 type="number">8</lvl-001>
+						<lvl-002 type="number">5</lvl-002>
+						<lvl-003 type="number">5</lvl-003>
+						<lvl-004 type="number">5</lvl-004>
+						<lvl-005 type="number">5</lvl-005>
+						<lvl-006 type="number">5</lvl-006>
+						<lvl-007 type="number">5</lvl-007>
+						<lvl-008 type="number">5</lvl-008>
+						<lvl-009 type="number">5</lvl-009>
+						<lvl-010 type="number">5</lvl-010>
+						<lvl-011 type="number">5</lvl-011>
+						<lvl-012 type="number">5</lvl-012>
+						<lvl-013 type="number">5</lvl-013>
+						<lvl-014 type="number">5</lvl-014>
+						<lvl-015 type="number">5</lvl-015>
+						<lvl-016 type="number">5</lvl-016>
+						<lvl-017 type="number">5</lvl-017>
+						<lvl-018 type="number">5</lvl-018>
+						<lvl-019 type="number">5</lvl-019>
+						<lvl-020 type="number">5</lvl-020>
+					</rolls>
+					<shortcut type="windowreference">
+						<class>reference_class</class>
+						<recordname>reference.classdata.druid@DD PHB Deluxe</recordname>
+					</shortcut>
+				</id-00001>
+			</classes>
+			<defenses>
+				<holder name="GM" owner="true" />
+				<ac>
+					<holder name="GM" owner="true" />
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<encumbrance>
+				<holder name="GM" owner="true" />
+				<load type="number">0</load>
+			</encumbrance>
+			<featlist>
+				<holder name="GM" owner="true" />
+			</featlist>
+			<featurelist>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Spellcasting</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 10 for the general rules of spellcasting and chapter 11 for the druid spell list.</p>
+						<linklist>
+							<link class="reference_colindex" recordname="reference.spelllists.druid@DD PHB Deluxe">Druid Spells</link>
+						</linklist>
+						<p>
+							<b>Cantrips</b>
+						</p>
+						<p>At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.</p>
+						<p>
+							<b>Preparing and Casting Spells</b>
+						</p>
+						<p>The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+						<p>You prepare the list of druid spells that are available for you to cast, choosing from the druid spelllist. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minumum of one spell). The spells must be of a level for which you have spell slots.</p>
+						<p>For example, if you are, a 3rd level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-Level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p>
+						<p>You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.</p>
+						<p>
+							<b>Spellcasting Ability</b>
+						</p>
+						<p>Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.</p>
+						<p>
+							<b>Spell Save DC </b>= 8 + your Wisdom modifier + your proficiency bonus</p>
+						<p>
+							<b>Spell Attack Bonus </b>= your Wisdom modifier + your proficiency bonus</p>
+						<p>
+							<b>Ritual Casting</b>
+						</p>
+						<p>You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared. To cast a spell as a ritual, you must add 10 minutes to the spell's casting time, as normal.</p>
+						<p>
+							<b>Spellcasting Focus</b>
+						</p>
+						<p>You can use a druidic focus, such as a yew wand or a sprig of mistletoe, as the material component for a druid spell, as described in chapter 10.</p>
+					</text>
+				</id-00001>
+				<id-00002>
+					<holder name="GM" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Druidic</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.</p>
+					</text>
+				</id-00002>
+				<id-00003>
+					<holder name="GM" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Circle of the Land</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or stone to whisper primal secrets in Druidic. The circle's wisest members serve as the chief priests of communities that hold to the Old Faith and as advisors to the rulers of those folk.</p>
+						<p>As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysteries.</p>
+						<h>Features</h>
+						<linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.bonuscantrip2@DD PHB Deluxe">Bonus Cantrip</link>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.naturalrecovery2@DD PHB Deluxe">Natural Recovery</link>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.circlespells3@DD PHB Deluxe">Circle Spells</link>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.land_sstride6@DD PHB Deluxe">Land's Stride</link>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.nature_sward10@DD PHB Deluxe">Nature's Ward</link>
+							<link class="reference_classfeature" recordname="reference.classdata.druid.features.nature_ssanctuary14@DD PHB Deluxe">Nature's Sanctuary</link>
+						</linklist>
+					</text>
+				</id-00003>
+				<id-00004>
+					<holder name="GM" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Wild Shape</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast. You can use this feature twice, and you regain expended uses when you finish a short or long rest.</p>
+						<p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a Challenge Rating of 1/4 or lower that doesn't have a fly or swim speed.</p>
+						<p>
+							<b>Beast Shapes</b>
+						</p>
+						<table>
+							<tr>
+								<td>
+									<b>Level</b>
+								</td>
+								<td>
+									<b>Max. CR</b>
+								</td>
+								<td>
+									<b>Limitations</b>
+								</td>
+								<td>
+									<b>Example</b>
+								</td>
+							</tr>
+							<tr>
+								<td>2nd</td>
+								<td>1/4</td>
+								<td>No flying or swimming speed</td>
+								<td>Wolf</td>
+							</tr>
+							<tr>
+								<td>4th</td>
+								<td>1/2</td>
+								<td>No fying speed</td>
+								<td>Crocodile</td>
+							</tr>
+							<tr>
+								<td>8th</td>
+								<td>1</td>
+								<td>-</td>
+								<td>Giant eagle</td>
+							</tr>
+						</table>
+						<p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature.</p>
+						<p>You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert to your normal form if you fall unconscious, drop to 0 hit points, or die.</p>
+						<p>While you are transformed, the following rules apply:</p>
+						<list>
+							<li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If both you and the creature have the same proficiency, use only the higher bonus.</li>
+							<li>When you transform, you assume the beast's hit points. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, however, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert to your normal form and take 9 damage.</li>
+							<li>You can't cast spells, speak, or take any action that requires hands. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell you've already cast, such as call lightning.</li>
+							<li>You retain the benefit of any feature from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.</li>
+							<li>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equioment, based on the creature's shape or size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.</li>
+						</list>
+					</text>
+				</id-00004>
+				<id-00005>
+					<holder name="GM" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Bonus Cantrip</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.</p>
+					</text>
+				</id-00005>
+				<id-00006>
+					<holder name="GM" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Natural Recovery</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.</p>
+						<p>For example, when you area 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>
+					</text>
+				</id-00006>
+				<id-00007>
+					<holder name="GM" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Circle Spells</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land-arctic, coast, desert, forest, grassland, mountain, or swamp-and consult the associated list of spells.</p>
+						<p>Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p>
+						<h>Arctic</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.holdperson@DD PHB Deluxe">Spell: 3rd - Hold Person</link>
+							<link class="reference_spell" recordname="reference.spelldata.spikegrowth@DD PHB Deluxe">Spell: 3rd - Spike Growth</link>
+							<link class="reference_spell" recordname="reference.spelldata.sleetstorm@DD PHB Deluxe">Spell: 5th - Sleet Storm</link>
+							<link class="reference_spell" recordname="reference.spelldata.slow@DD PHB Deluxe">Spell: 5th - Slow</link>
+							<link class="reference_spell" recordname="reference.spelldata.freedomofmovement@DD PHB Deluxe">Spell: 7th - Freedom of Movement</link>
+							<link class="reference_spell" recordname="reference.spelldata.icestorm@DD PHB Deluxe">Spell: 7th - Ice Storm</link>
+							<link class="reference_spell" recordname="reference.spelldata.communewithnature@DD PHB Deluxe">Spell: 9th - Commune with Nature</link>
+							<link class="reference_spell" recordname="reference.spelldata.coneofcold@DD PHB Deluxe">Spell: 9th - Cone of Cold</link>
+						</linklist>
+						<h>Coast</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.mirrorimage@DD PHB Deluxe">Spell: 3rd - Mirror Image</link>
+							<link class="reference_spell" recordname="reference.spelldata.mistystep@DD PHB Deluxe">Spell: 3rd - Misty Step</link>
+							<link class="reference_spell" recordname="reference.spelldata.waterbreathing@DD PHB Deluxe">Spell: 5th - Water Breathing</link>
+							<link class="reference_spell" recordname="reference.spelldata.waterwalk@DD PHB Deluxe">Spell: 5th - Water Walk</link>
+							<link class="reference_spell" recordname="reference.spelldata.controlwater@DD PHB Deluxe">Spell: 7th - Control Water</link>
+							<link class="reference_spell" recordname="reference.spelldata.freedomofmovement@DD PHB Deluxe">Spell: 7th - Freedom of Movement</link>
+							<link class="reference_spell" recordname="reference.spelldata.conjureelemental@DD PHB Deluxe">Spell: 9th - Conjure Elemental</link>
+							<link class="reference_spell" recordname="reference.spelldata.scrying@DD PHB Deluxe">Spell: 9th - Scrying</link>
+						</linklist>
+						<h>Desert</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.blur@DD PHB Deluxe">Spell: 3rd - Blur</link>
+							<link class="reference_spell" recordname="reference.spelldata.silence@DD PHB Deluxe">Spell: 3rd - Silence</link>
+							<link class="reference_spell" recordname="reference.spelldata.createfoodandwater@DD PHB Deluxe">Spell: 5th - Create Food and Water</link>
+							<link class="reference_spell" recordname="reference.spelldata.protectionfromenergy@DD PHB Deluxe">Spell: 5th - Protection from Energy</link>
+							<link class="reference_spell" recordname="reference.spelldata.blight@DD PHB Deluxe">Spell: 7th - Blight</link>
+							<link class="reference_spell" recordname="reference.spelldata.hallucinatoryterrain@DD PHB Deluxe">Spell: 7th - Hallucinatory Terrain</link>
+							<link class="reference_spell" recordname="reference.spelldata.insectplague@DD PHB Deluxe">Spell: 9th - Insect Plague</link>
+							<link class="reference_spell" recordname="reference.spelldata.wallofstone@DD PHB Deluxe">Spell: 9th - Wall of Stone</link>
+						</linklist>
+						<h>Forest</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.barkskin@DD PHB Deluxe">3rd - Barkskin</link>
+							<link class="reference_spell" recordname="reference.spelldata.spiderclimb@DD PHB Deluxe">Spell: 3rd - Spider Climb</link>
+							<link class="reference_spell" recordname="reference.spelldata.calllightning@DD PHB Deluxe">Spell: 5th - Call Lightning</link>
+							<link class="reference_spell" recordname="reference.spelldata.plantgrowth@DD PHB Deluxe">Spell: 5th - Plant Growth</link>
+							<link class="reference_spell" recordname="reference.spelldata.divination@DD PHB Deluxe">Spell: 7th - Divination</link>
+							<link class="reference_spell" recordname="reference.spelldata.freedomofmovement@DD PHB Deluxe">Spell: 7th - Freedom of Movement</link>
+							<link class="reference_spell" recordname="reference.spelldata.communewithnature@DD PHB Deluxe">Spell: 9th - Commune with Nature</link>
+							<link class="reference_spell" recordname="reference.spelldata.treestride@DD PHB Deluxe">Spell: 9th - Tree Stride</link>
+						</linklist>
+						<h>Grassland</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.invisibility@DD PHB Deluxe">Spell: 3rd - Invisibility</link>
+							<link class="reference_spell" recordname="reference.spelldata.passwithouttrace@DD PHB Deluxe">Spell: 3rd - Pass without Trace</link>
+							<link class="reference_spell" recordname="reference.spelldata.daylight@DD PHB Deluxe">Spell: 5th - Daylight</link>
+							<link class="reference_spell" recordname="reference.spelldata.haste@DD PHB Deluxe">Spell: 5th - Haste</link>
+							<link class="reference_spell" recordname="reference.spelldata.freedomofmovement@DD PHB Deluxe">Spell: 7th - Freedom of Movement</link>
+							<link class="reference_spell" recordname="reference.spelldata.divination@DD PHB Deluxe">Spell: 7th - Divination</link>
+							<link class="reference_spell" recordname="reference.spelldata.dream@DD PHB Deluxe">Spell: 9th - Dream</link>
+							<link class="reference_spell" recordname="reference.spelldata.insectplague@DD PHB Deluxe">Spell: 9th - Insect Plague</link>
+						</linklist>
+						<h>Mountain</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.spiderclimb@DD PHB Deluxe">Spell: 3rd - Spider Climb</link>
+							<link class="reference_spell" recordname="reference.spelldata.spikegrowth@DD PHB Deluxe">Spell: 3rd - Spike Growth</link>
+							<link class="reference_spell" recordname="reference.spelldata.lightningbolt@DD PHB Deluxe">Spell: 5th - Lightning Bolt</link>
+							<link class="reference_spell" recordname="reference.spelldata.meldintostone@DD PHB Deluxe">Spell: 5th - Meld into Stone</link>
+							<link class="reference_spell" recordname="reference.spelldata.stoneshape@DD PHB Deluxe">Spell: 7th - Stone Shape</link>
+							<link class="reference_spell" recordname="reference.spelldata.stoneskin@DD PHB Deluxe">Spell: 7th - Stoneskin</link>
+							<link class="reference_spell" recordname="reference.spelldata.passwall@DD PHB Deluxe">Spell: 9th - Passwall</link>
+							<link class="reference_spell" recordname="reference.spelldata.wallofstone@DD PHB Deluxe">Spell: 9th - Wall of Stone</link>
+						</linklist>
+						<h>Swamp</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.darkness@DD PHB Deluxe">Spell: 3rd - Darkness</link>
+							<link class="reference_spell" recordname="reference.spelldata.melf_sacidarrow@DD PHB Deluxe">Spell: 3rd - Melf's Acid Arrow</link>
+							<link class="reference_spell" recordname="reference.spelldata.waterwalk@DD PHB Deluxe">Spell: 5th - Water Walk</link>
+							<link class="reference_spell" recordname="reference.spelldata.stinkingcloud@DD PHB Deluxe">Spell: 5th - Stinking Cloud</link>
+							<link class="reference_spell" recordname="reference.spelldata.freedomofmovement@DD PHB Deluxe">Spell: 7th - Freedom of Movement</link>
+							<link class="reference_spell" recordname="reference.spelldata.locatecreature@DD PHB Deluxe">Spell: 7th - Locate Creature</link>
+							<link class="reference_spell" recordname="reference.spelldata.insectplague@DD PHB Deluxe">Spell: 9th - Insect Plague</link>
+							<link class="reference_spell" recordname="reference.spelldata.scrying@DD PHB Deluxe">Spell: 9th - Scrying</link>
+						</linklist>
+						<h>Underdark</h>
+						<p>
+							<b>Druid Level - Spell</b>
+						</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.spiderclimb@DD PHB Deluxe">Spell: 3rd - Spider Climb</link>
+							<link class="reference_spell" recordname="reference.spelldata.web@DD PHB Deluxe">Spell: 3rd - Web</link>
+							<link class="reference_spell" recordname="reference.spelldata.gaseousform@DD PHB Deluxe">Spell: 5th - Gaseous Form</link>
+							<link class="reference_spell" recordname="reference.spelldata.stinkingcloud@DD PHB Deluxe">Spell: 5th - Stinking Cloud</link>
+							<link class="reference_spell" recordname="reference.spelldata.greaterinvisibility@DD PHB Deluxe">Spell: 7th - Greater Invisibility</link>
+							<link class="reference_spell" recordname="reference.spelldata.stoneshape@DD PHB Deluxe">Spell: 7th - Stone Shape</link>
+							<link class="reference_spell" recordname="reference.spelldata.cloudkill@DD PHB Deluxe">Spell: 9th - Cloudkill</link>
+							<link class="reference_spell" recordname="reference.spelldata.insectplague@DD PHB Deluxe">Spell: 9th - Insect Plague</link>
+						</linklist>
+					</text>
+				</id-00007>
+				<id-00009>
+					<holder name="GM" owner="true" />
+					<level type="number">6</level>
+					<locked type="number">1</locked>
+					<name type="string">Land's Stride</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p>
+						<p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</p>
+					</text>
+				</id-00009>
+				<id-00010>
+					<holder name="GM" owner="true" />
+					<level type="number">10</level>
+					<locked type="number">1</locked>
+					<name type="string">Nature's Ward</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.</p>
+					</text>
+				</id-00010>
+				<id-00011>
+					<holder name="GM" owner="true" />
+					<level type="number">14</level>
+					<locked type="number">1</locked>
+					<name type="string">Nature's Sanctuary</name>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<text type="formattedtext">
+						<p>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.</p>
+						<p>The creature is aware of this effect before it makes its attack against you.</p>
+					</text>
+				</id-00011>
+				<id-00012>
+					<holder name="GM" owner="true" />
+					<level type="number">18</level>
+					<locked type="number">1</locked>
+					<name type="string">Timeless Body</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>Starting at 18th level, the primal magic that you wield causes you age more slowly. For every 10 years that pass, your body ages only 1 year.</p>
+					</text>
+				</id-00012>
+				<id-00013>
+					<holder name="GM" owner="true" />
+					<level type="number">18</level>
+					<locked type="number">1</locked>
+					<name type="string">Beast Spells</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.</p>
+					</text>
+				</id-00013>
+				<id-00014>
+					<holder name="GM" owner="true" />
+					<level type="number">20</level>
+					<locked type="number">1</locked>
+					<name type="string">Archdruid</name>
+					<source type="string">Druid</source>
+					<text type="formattedtext">
+						<p>At 20th level, you can use your Wild Shape an unlimited number of times.</p>
+						<p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.</p>
+					</text>
+				</id-00014>
+			</featurelist>
+			<hp>
+				<holder name="GM" owner="true" />
+				<base type="number">103</base>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">103</total>
+				<wounds type="number">14</wounds>
+			</hp>
+			<initiative>
+				<holder name="GM" owner="true" />
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<languagelist>
+				<holder name="GM" owner="true" />
+			</languagelist>
+			<level type="number">20</level>
+			<name type="string">A Druid</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<powerdisplaymode type="string">action</powerdisplaymode>
+			<powergroup>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<castertype type="string">memorization</castertype>
+					<name type="string">Spells</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+				<id-00002>
+					<holder name="GM" owner="true" />
+					<atkmod type="number">0</atkmod>
+					<atkprof type="number">1</atkprof>
+					<name type="string">Druidic Power</name>
+					<prepared type="number">0</prepared>
+					<savemod type="number">0</savemod>
+					<saveprof type="number">1</saveprof>
+					<uses type="number">0</uses>
+				</id-00002>
+				<id-00003>
+					<holder name="GM" owner="true" />
+					<name type="string">Land Druid</name>
+				</id-00003>
+				<id-00004>
+					<holder name="GM" owner="true" />
+					<atkmod type="number">0</atkmod>
+					<atkprof type="number">1</atkprof>
+					<name type="string">Moon Druid</name>
+					<prepared type="number">0</prepared>
+					<savemod type="number">0</savemod>
+					<saveprof type="number">1</saveprof>
+					<uses type="number">0</uses>
+				</id-00004>
+			</powergroup>
+			<powermeta>
+				<holder name="GM" owner="true" />
+				<pactmagicslots1>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots1>
+				<pactmagicslots2>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots2>
+				<pactmagicslots3>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots3>
+				<pactmagicslots4>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots4>
+				<pactmagicslots5>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots5>
+				<pactmagicslots6>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots6>
+				<pactmagicslots7>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots7>
+				<pactmagicslots8>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots8>
+				<pactmagicslots9>
+					<holder name="GM" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots9>
+				<spellslots1>
+					<holder name="GM" owner="true" />
+					<max type="number">4</max>
+				</spellslots1>
+				<spellslots2>
+					<holder name="GM" owner="true" />
+					<max type="number">3</max>
+				</spellslots2>
+				<spellslots3>
+					<holder name="GM" owner="true" />
+					<max type="number">3</max>
+				</spellslots3>
+				<spellslots4>
+					<holder name="GM" owner="true" />
+					<max type="number">3</max>
+				</spellslots4>
+				<spellslots5>
+					<holder name="GM" owner="true" />
+					<max type="number">3</max>
+				</spellslots5>
+				<spellslots6>
+					<holder name="GM" owner="true" />
+					<max type="number">2</max>
+				</spellslots6>
+				<spellslots7>
+					<holder name="GM" owner="true" />
+					<max type="number">2</max>
+				</spellslots7>
+				<spellslots8>
+					<holder name="GM" owner="true" />
+					<max type="number">1</max>
+				</spellslots8>
+				<spellslots9>
+					<holder name="GM" owner="true" />
+					<max type="number">1</max>
+				</spellslots9>
+			</powermeta>
+			<powermode type="string">standard</powermode>
+			<powers>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+						<id-00001>
+							<holder name="GM" owner="true" />
+							<apply type="string">action</apply>
+							<durmod type="number">0</durmod>
+							<label type="string">Land's Stride; ADVSAV:all</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p>
+						<p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</p>
+					</description>
+					<group type="string">Land Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Land's Stride</name>
+					<prepared type="number">0</prepared>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+				</id-00001>
+				<id-00002>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day during a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.</p>
+						<p>For example, when you area 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>
+					</description>
+					<group type="string">Land Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Natural Recovery</name>
+					<prepared type="number">1</prepared>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+					<usesperiod type="string">enc</usesperiod>
+				</id-00002>
+				<id-00003>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+						<id-00001>
+							<holder name="GM" owner="true" />
+							<order type="number">1</order>
+							<savetype type="string">wisdom</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.</p>
+						<p>The creature is aware of this effect before it makes its attack against you.</p>
+					</description>
+					<group type="string">Land Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Nature's Sanctuary</name>
+					<prepared type="number">0</prepared>
+					<source type="string">Druid</source>
+					<specialization type="string">Circle of the Land</specialization>
+				</id-00003>
+				<id-00004>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast. You can use this feature twice, and you regain expended uses when you finish a short or long rest.</p>
+						<p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a Challenge Rating of 1/4 or lower that doesn't have a fly or swim speed.</p>
+						<p>
+							<b>Beast Shapes</b>
+						</p>
+						<table>
+							<tr>
+								<td>
+									<b>Level</b>
+								</td>
+								<td>
+									<b>Max. CR</b>
+								</td>
+								<td>
+									<b>Limitations</b>
+								</td>
+								<td>
+									<b>Example</b>
+								</td>
+							</tr>
+							<tr>
+								<td>2nd</td>
+								<td>1/4</td>
+								<td>No flying or swimming speed</td>
+								<td>Wolf</td>
+							</tr>
+							<tr>
+								<td>4th</td>
+								<td>1/2</td>
+								<td>No fying speed</td>
+								<td>Crocodile</td>
+							</tr>
+							<tr>
+								<td>8th</td>
+								<td>1</td>
+								<td>-</td>
+								<td>Giant eagle</td>
+							</tr>
+						</table>
+						<p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature.</p>
+						<p>You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert to your normal form if you fall unconscious, drop to 0 hit points, or die.</p>
+						<p>While you are transformed, the following rules apply:</p>
+						<list>
+							<li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If both you and the creature have the same proficiency, use only the higher bonus.</li>
+							<li>When you transform, you assume the beast's hit points. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, however, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert to your normal form and take 9 damage.</li>
+							<li>You can't cast spells, speak, or take any action that requires hands. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell you've already cast, such as call lightning.</li>
+							<li>You retain the benefit of any feature from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.</li>
+							<li>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equioment, based on the creature's shape or size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.</li>
+						</list>
+					</description>
+					<group type="string">Druidic Power</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Wild Shape</name>
+					<prepared type="number">2</prepared>
+					<source type="string">Druid</source>
+					<usesperiod type="string">enc</usesperiod>
+				</id-00004>
+				<id-00005>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+						<id-00001>
+							<holder name="GM" owner="true" />
+							<durmod type="number">0</durmod>
+							<label type="string">IMMUNE:poison; IMMUNE:poisoned; IFT:TYPE(elemental,fey); IMMUNE:charmed; IMMUNE:frightened</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+						<id-00003>
+							<holder name="GM" owner="true" />
+							<durmod type="number">0</durmod>
+							<label type="string">Nature's Ward; IMMUNE: disease</label>
+							<order type="number">2</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00003>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.</p>
+					</description>
+					<group type="string">Land Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Nature's Ward</name>
+					<prepared type="number">0</prepared>
+					<specialization type="string">Circle of the Land</specialization>
+				</id-00005>
+				<id-00006>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+						<id-00001>
+							<holder name="GM" owner="true" />
+							<heallist>
+								<holder name="GM" owner="true" />
+								<id-00001>
+									<holder name="GM" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice">d8</dice>
+								</id-00001>
+							</heallist>
+							<healtargeting type="string">self</healtargeting>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+						<id-00002>
+							<holder name="GM" owner="true" />
+							<heallist>
+								<holder name="GM" owner="true" />
+								<id-00001>
+									<holder name="GM" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice">2d8</dice>
+								</id-00001>
+							</heallist>
+							<healtargeting type="string">self</healtargeting>
+							<order type="number">2</order>
+							<type type="string">heal</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.</p>
+						<p>Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.</p>
+					</description>
+					<group type="string">Moon Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Combat Wild Shape</name>
+					<prepared type="number">0</prepared>
+					<specialization type="string">Circle of the Moon</specialization>
+					<usesperiod type="string">enc</usesperiod>
+				</id-00006>
+				<id-00007>
+					<holder name="GM" owner="true" />
+					<actions>
+						<holder name="GM" owner="true" />
+						<id-00001>
+							<holder name="GM" owner="true" />
+							<durmod type="number">0</durmod>
+							<label type="string">DMGTYPE:magic</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>Starting at 6th level, your attacks in beast form count as being magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>
+					</description>
+					<group type="string">Moon Druid</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Primal Strike</name>
+					<prepared type="number">0</prepared>
+					<ritual type="number">0</ritual>
+					<specialization type="string">Circle of the Moon</specialization>
+				</id-00007>
+			</powers>
+			<profbonus type="number">6</profbonus>
+			<proficiencylist>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<name type="string">Weapon: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears</name>
+				</id-00001>
+				<id-00002>
+					<holder name="GM" owner="true" />
+					<name type="string">Tool: Herbalism kit</name>
+				</id-00002>
+				<id-00003>
+					<holder name="GM" owner="true" />
+					<name type="string">Armor: light armor, medium armor, shields (druids will not wear armor or use shields made of metal)</name>
+				</id-00003>
+			</proficiencylist>
+			<racelink type="windowreference">
+				<class />
+				<recordname />
+			</racelink>
+			<skilllist>
+				<holder name="GM" owner="true" />
+				<id-00001>
+					<holder name="GM" owner="true" />
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+				<id-00002>
+					<holder name="GM" owner="true" />
+					<name type="string">Arcana</name>
+					<prof type="number">1</prof>
+					<stat type="string">intelligence</stat>
+				</id-00002>
+				<id-00003>
+					<holder name="GM" owner="true" />
+					<name type="string">Animal Handling</name>
+					<prof type="number">1</prof>
+					<stat type="string">wisdom</stat>
+				</id-00003>
+			</skilllist>
+			<speed>
+				<holder name="GM" owner="true" />
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token"></token>
+			<traitlist>
+				<holder name="GM" owner="true" />
+			</traitlist>
+			<weaponlist>
+				<holder name="GM" owner="true" />
+			</weaponlist>
+		</id-00001>
