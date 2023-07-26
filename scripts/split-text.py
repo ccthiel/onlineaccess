@@ -1,6 +1,7 @@
 import os
 import sys
 
+# This program just splits massive text files into smaller chunks.
 def split_text_file(input_file, output_dir, output_file_base):
     # Ensure the output directory exists
     os.makedirs(output_dir, exist_ok=True)
