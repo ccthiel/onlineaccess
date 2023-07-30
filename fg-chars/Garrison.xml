@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.4" dataversion="20230601" release="8.1|CoreRPG:6">
+	<character>
+		<abilities>
+			<charisma>
+				<bonus type="number">2</bonus>
+				<save type="number">2</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">0</saveprof>
+				<score type="number">14</score>
+			</charisma>
+			<constitution>
+				<bonus type="number">1</bonus>
+				<save type="number">1</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">0</saveprof>
+				<score type="number">13</score>
+			</constitution>
+			<dexterity>
+				<bonus type="number">2</bonus>
+				<save type="number">5</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">1</saveprof>
+				<score type="number">15</score>
+			</dexterity>
+			<intelligence>
+				<bonus type="number">2</bonus>
+				<save type="number">5</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">1</saveprof>
+				<score type="number">14</score>
+			</intelligence>
+			<strength>
+				<bonus type="number">1</bonus>
+				<save type="number">1</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">0</saveprof>
+				<score type="number">13</score>
+			</strength>
+			<wisdom>
+				<bonus type="number">1</bonus>
+				<save type="number">1</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">0</saveprof>
+				<score type="number">12</score>
+			</wisdom>
+		</abilities>
+		<adventurelist />
+		<age type="string">35</age>
+		<alignment type="string">CG</alignment>
+		<appearance type="string">Skin is dullish red, black hair, dull orange eyes</appearance>
+		<background type="string">Criminal</background>
+		<backgroundlink type="windowreference">
+			<class>reference_background</class>
+			<recordname>reference.backgrounddata.criminal@DD PHB Deluxe</recordname>
+		</backgroundlink>
+		<bonds type="string">Shoreclar clan, a clan of "robin hoods" carrying out good deeds in disregard of the law.</bonds>
+		<cards />
+		<classes>
+			<id-00001>
+				<casterlevelinvmult type="number">0</casterlevelinvmult>
+				<casterpactmagic type="number">0</casterpactmagic>
+				<hdbonusWS type="number">0</hdbonusWS>
+				<hddie type="dice">d8</hddie>
+				<hdused type="number">3</hdused>
+				<level type="number">6</level>
+				<name type="string">Rogue</name>
+				<rolls>
+					<lvl-001 type="number">8</lvl-001>
+					<lvl-002 type="number">5</lvl-002>
+					<lvl-003 type="number">5</lvl-003>
+					<lvl-004 type="number">5</lvl-004>
+					<lvl-005 type="number">5</lvl-005>
+					<lvl-006 type="number">6</lvl-006>
+				</rolls>
+				<shortcut type="windowreference">
+					<class>reference_class</class>
+					<recordname>reference.classdata.rogue@DD PHB Deluxe</recordname>
+				</shortcut>
+			</id-00001>
+		</classes>
+		<cohorts />
+		<coinitemshortcut type="windowreference">
+			<class>item</class>
+			<recordname>..inventorylist.id-00017</recordname>
+		</coinitemshortcut>
+		<coins>
+			<slot1>
+				<amount type="number">23</amount>
+				<name type="string">PP</name>
+			</slot1>
+			<slot2>
+				<amount type="number">141</amount>
+				<name type="string">GP</name>
+			</slot2>
+			<slot3>
+				<amount type="number">2</amount>
+				<name type="string">SP</name>
+			</slot3>
+			<slot4>
+				<amount type="number">4</amount>
+				<name type="string">CP</name>
+			</slot4>
+			<slot5>
+				<amount type="number">0</amount>
+			</slot5>
+			<slot6>
+				<amount type="number">0</amount>
+			</slot6>
+		</coins>
+		<defenses>
+			<ac>
+				<armor type="number">8</armor>
+				<dexbonus type="string">no</dexbonus>
+				<disstealth type="number">0</disstealth>
+				<misc type="number">0</misc>
+				<prof type="number">1</prof>
+				<shield type="number">0</shield>
+				<temporary type="number">0</temporary>
+				<total type="number">18</total>
+			</ac>
+		</defenses>
+		<effectlist>
+			<id-00001>
+				<ability_modifier type="number">0</ability_modifier>
+				<actiononly type="number">0</actiononly>
+				<durdice type="dice"></durdice>
+				<durmod type="number">0</durmod>
+				<effect type="string">Hellish Resistance; RESIST: fire</effect>
+				<effect_description type="string">[Hellish Resistance; RESIST: fire]</effect_description>
+				<misc_modifier type="number">0</misc_modifier>
+				<name type="string">Garrison</name>
+				<save_modifier type="number">0</save_modifier>
+				<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+			</id-00001>
+		</effectlist>
+		<encumbrance>
+			<encumbered type="number">65</encumbered>
+			<encumberedheavy type="number">130</encumberedheavy>
+			<liftpushdrag type="number">390</liftpushdrag>
+			<load type="number">141</load>
+			<max type="number">195</max>
+		</encumbrance>
+		<exp type="number">14000</exp>
+		<expneeded type="number">23000</expneeded>
+		<featlist>
+			<id-00001>
+				<hpadd type="number">0</hpadd>
+				<locked type="number">1</locked>
+				<name type="string">Mobile</name>
+				<prepared type="number">0</prepared>
+				<text type="formattedtext">
+					<p>You are exceptionally speedy and agile. You gain the following benefits:</p>
+					<list>
+						<li>Your speed increases by 10 feet.</li>
+						<li>When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.</li>
+						<li>When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.</li>
+					</list>
+				</text>
+			</id-00001>
+		</featlist>
+		<featurelist>
+			<id-00001>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Expertise</name>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p>
+					<p>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.</p>
+				</text>
+			</id-00001>
+			<id-00002>
+				<hpadd type="number">0</hpadd>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Thieves' Cant</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.</p>
+					<p>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</p>
+				</text>
+			</id-00002>
+			<id-00003>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Sneak Attack</name>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</p>
+					<p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</p>
+					<p>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.</p>
+				</text>
+			</id-00003>
+			<id-00004>
+				<actions />
+				<hpadd type="number">0</hpadd>
+				<locked type="number">1</locked>
+				<name type="string">Criminal Contact</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Criminal</source>
+				<text type="formattedtext">
+					<p>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.</p>
+				</text>
+			</id-00004>
+			<id-00005>
+				<actions />
+				<hpadd type="number">0</hpadd>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Cunning Action</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</p>
+				</text>
+			</id-00005>
+			<id-00006>
+				<actions />
+				<hpadd type="number">0</hpadd>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Scout</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter-these are just a few of the roles that Scouts assume as they range the world.</p>
+					<linklist>
+						<link class="imagewindow" recordname="reference.imagedata.img_scout_jpg@DD Xanathar's Guide to Everything">
+							<b>Image: </b>Scout</link>
+					</linklist>
+					<h>Features</h>
+					<linklist>
+						<link class="reference_classfeature" recordname="reference.classdata.rogue.features.skirmisher3@DD Xanathar's Guide to Everything">Skirmisher</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rogue.features.survivalist3@DD Xanathar's Guide to Everything">Survivalist</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rogue.features.superiormobility9@DD Xanathar's Guide to Everything">Superior Mobility</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rogue.features.ambushmaster13@DD Xanathar's Guide to Everything">Ambush Master</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rogue.features.suddenstrike17@DD Xanathar's Guide to Everything">Sudden Strike</link>
+					</linklist>
+				</text>
+			</id-00006>
+			<id-00007>
+				<hpadd type="number">0</hpadd>
+				<level type="number">3</level>
+				<locked type="number">1</locked>
+				<name type="string">Roguish Archetype</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<specializationchoice type="number">1</specializationchoice>
+				<text type="formattedtext">
+					<p>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Thief, Assassin, Arcane Trickster, Mastermind, or Swashbuckler, all detailed in their respective chapters. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
+				</text>
+			</id-00007>
+			<id-00008>
+				<hpadd type="number">0</hpadd>
+				<level type="number">3</level>
+				<locked type="number">1</locked>
+				<name type="string">Survivalist</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<specialization type="string">Scout</specialization>
+				<specializationchoice type="number">0</specializationchoice>
+				<text type="formattedtext">
+					<p>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</p>
+				</text>
+			</id-00008>
+			<id-00009>
+				<actions />
+				<hpadd type="number">0</hpadd>
+				<level type="number">3</level>
+				<locked type="number">1</locked>
+				<name type="string">Skirmisher</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<specialization type="string">Scout</specialization>
+				<specializationchoice type="number">0</specializationchoice>
+				<text type="formattedtext">
+					<p>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.</p>
+				</text>
+			</id-00009>
+			<id-00010>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00010>
+			<id-00011>
+				<hpadd type="number">0</hpadd>
+				<level type="number">5</level>
+				<locked type="number">1</locked>
+				<name type="string">Uncanny Dodge</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Rogue</source>
+				<text type="formattedtext">
+					<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
+				</text>
+			</id-00011>
+			<id-00012>
+				<hpadd type="number">0</hpadd>
+				<locked type="number">1</locked>
+				<name type="string">Know-It-All</name>
+				<prepared type="number">0</prepared>
+				<text type="formattedtext">
+					<p>You gain proficiency in the History and Nature skills. Additionally, as a reaction when you roll initiative, you can make an Intelligence (Nature) check to identify the weak points of one creature you can see. The DC for this check is equal to 10 + half the creature&#8217;s challenge rating (rounded down). On a success, you gain a bonus to attack rolls against that creature equal to your proficiency bonus, and which lasts for 1 minute.</p>
+				</text>
+				<titlename type="string">Know-It-All</titlename>
+			</id-00012>
+		</featurelist>
+		<flaws type="string">Extremely slow to trust people.</flaws>
+		<gender type="string">Male</gender>
+		<height type="string">5'10"</height>
+		<hp>
+			<adjust type="number">0</adjust>
+			<arcaneward type="number">0</arcaneward>
+			<base type="number">40</base>
+			<current type="number">0</current>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
+			<hdmod type="number">0</hdmod>
+			<lock type="string">false</lock>
+			<temporary type="number">0</temporary>
+			<total type="number">40</total>
+			<wounds type="number">10</wounds>
+		</hp>
+		<ideals type="string">Fighting for good.</ideals>
+		<initiative>
+			<misc type="number">0</misc>
+			<temporary type="number">0</temporary>
+			<total type="number">2</total>
+		</initiative>
+		<inspiration type="number">0</inspiration>
+		<inventorylist>
+			<id-00001>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">2 gp</cost>
+				<count type="number">3</count>
+				<damage type="string">1d4 piercing</damage>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Dagger</name>
+				<properties type="string">Finesse, light, thrown (range 20/60)</properties>
+				<subtype type="string">Simple Melee Weapons</subtype>
+				<type type="string">Weapon</type>
+				<volume type="number">0</volume>
+				<weight type="number">1</weight>
+				<width type="number">0</width>
+			</id-00001>
+			<id-00002>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">1 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Knife (Small)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">0.25</weight>
+				<width type="number">0</width>
+			</id-00002>
+			<id-00003>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="imagewindow" recordname="reference.imagedata.img_broom_of_flying_jpg@*">
+							<b>Image: </b>Broom of Flying</link>
+					</linklist>
+					<p>This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.</p>
+					<p>You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<displaygroup type="string">Magic Items</displaygroup>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Broom of Flying</name>
+				<nonid_name type="string">Broom</nonid_name>
+				<nonidentified type="string">This ordinary looking item has a wooden handle and a bunch of sorghum tassels tied securely to one end. It looks like you could sweep the floor with it.</nonidentified>
+				<powergroup type="string">Broom of Flying</powergroup>
+				<powers>
+					<id-00001>
+						<actions />
+						<charges type="number">2</charges>
+						<description type="formattedtext">
+							<p />
+						</description>
+						<group type="string">Broom of Flying</group>
+						<level type="number">0</level>
+						<name type="string">Broom of Flying: Fly</name>
+						<ritual type="number">0</ritual>
+						<value type="string">Broom of Flying: Fly</value>
+					</id-00001>
+				</powers>
+				<prepared type="number">2</prepared>
+				<properties type="string">Magic</properties>
+				<rarity type="string">Uncommon</rarity>
+				<rechargebonus type="number">1</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargeperiod type="string">daily</rechargeperiod>
+				<rechargesingle type="number">0</rechargesingle>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Broom of Flying</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Broom</name>
+					</id-00002>
+				</spells>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">3</weight>
+				<width type="number">0</width>
+			</id-00003>
+			<id-00004>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">2 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<effectlist />
+				<extraplanarcontents type="number">14</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Backpack</name>
+				<powergroup type="string">Spells</powergroup>
+				<powers />
+				<prepared type="number">0</prepared>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">5</weight>
+				<width type="number">0</width>
+			</id-00004>
+			<id-00005>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">2 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Clothes, Traveler's</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">4</weight>
+				<width type="number">0</width>
+			</id-00005>
+			<id-00006>
+				<ac type="number">0</ac>
+				<attune type="number">1</attune>
+				<bonus type="number">1</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<count type="number">1</count>
+				<damage type="string">1d6+1 piercing</damage>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>Forged by the sea elves, the Bane of Sekolah is a silver trident engraved with the deity Deep Sashelas' dolphin symbol, and enchanted against the elves' greatest foe: the sahuagin.</p>
+					<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>
+					<p>
+						<b>
+							<i>Shark's Bane. </i>
+						</b>When you hit a creature that has the Blood Frenzy feature with this trident, it must make a DC 13 Intelligence saving throw. On a failure, the creature is consumed by lust for its own blood, and is incapacitated until the end of its next turn.</p>
+					<p>
+						<b>
+							<i>Dolphin's Charge. </i>
+						</b>When you move at least 15 feet straight toward a target on your turn, it takes an extra 1d8 piercing damage the next time you hit it with this trident before the end of your turn.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice">d20</dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<displaygroup type="string">Magic Items</displaygroup>
+				<effectlist>
+					<id-00001>
+						<ability_modifier type="number">0</ability_modifier>
+						<actiononly type="number">0</actiononly>
+						<durdice type="dice"></durdice>
+						<durmod type="number">0</durmod>
+						<effect type="string">Sharks Bane; IFT: CUSTOM(Blood Frenzy); SDMGADDT: Sharks Bane</effect>
+						<effect_description type="string">[Sharks Bane; IFT: CUSTOM(Blood Frenzy); SDMGADDT: Sharks Bane]</effect_description>
+						<misc_modifier type="number">0</misc_modifier>
+						<name type="string">Bane of Sekolah</name>
+						<save_modifier type="number">0</save_modifier>
+						<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+					</id-00001>
+				</effectlist>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Bane of Sekolah</name>
+				<nonidentified type="string">Dolphin's Charge;DMG: 1d8; [ACTION]; [SELF]\n</nonidentified>
+				<powergroup type="string">Bane of Sekolah</powergroup>
+				<powers>
+					<id-00002>
+						<actions>
+							<id-00001>
+								<apply type="string">roll</apply>
+								<durmod type="number">1</durmod>
+								<label type="string">DMG: 1d8</label>
+								<order type="number">1</order>
+								<targeting type="string">self</targeting>
+								<type type="string">effect</type>
+							</id-00001>
+						</actions>
+						<chargeperiod type="string">never</chargeperiod>
+						<charges type="number">0</charges>
+						<group type="string">Bane of Sekolah</group>
+						<name type="string"> Bane of Sekolah: Dolphin's Charge</name>
+					</id-00002>
+				</powers>
+				<prepared type="number">0</prepared>
+				<properties type="string">Thrown (range 20/60), versatile (1d8)</properties>
+				<rarity type="string">Rare (requires attunement)</rarity>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<subtype type="string">Martial Weapons</subtype>
+				<type type="string">Weapon</type>
+				<volume type="number">0</volume>
+				<weight type="number">4</weight>
+				<width type="number">0</width>
+			</id-00006>
+			<id-00007>
+				<ac type="number">0</ac>
+				<attune type="number">1</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="imagewindow" recordname="image.img_necklace_of_adaptation_jpg@*">
+							<b>Image: </b>Necklace of Adaptation</link>
+					</linklist>
+					<p>While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as <i>cloudkill </i>and <i>stinking cloud </i>effects, inhaled poisons, and the breath weapons of some dragons).</p>
+					<p>
+						<b>Amulet Notes</b>
+					</p>
+					<p>A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. The Player's Handbook lists many gods in the multiverse and their typical symbols. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in chapter To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<effectlist>
+					<id-00001>
+						<ability_modifier type="number">0</ability_modifier>
+						<actiononly type="number">0</actiononly>
+						<durdice type="dice"></durdice>
+						<durmod type="number">0</durmod>
+						<effect type="string">Breathe normally any env, adv on throws vs harmful gases/vapors</effect>
+						<effect_description type="string">[Breathe normally any env, adv on throws vs harmful gases/vapors]</effect_description>
+						<misc_modifier type="number">0</misc_modifier>
+						<name type="string">Necklace of Adaptation</name>
+						<save_modifier type="number">0</save_modifier>
+						<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+					</id-00001>
+				</effectlist>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Necklace of Adaptation</name>
+				<nonid_name type="string">Necklace</nonid_name>
+				<nonidentified type="string">A delicate gold necklace adorned with red and yellow semi-precious stones.</nonidentified>
+				<powergroup type="string">Spells</powergroup>
+				<powers />
+				<prepared type="number">0</prepared>
+				<rarity type="string">Uncommon (Requires Attunement)</rarity>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Necklace of Adaptation</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Amulet</name>
+					</id-00002>
+				</spells>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">0.5</weight>
+				<width type="number">0</width>
+			</id-00007>
+			<id-00008>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">5 sp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch-or anything else with abundant, exposed fuel-takes an action. Lighting any other fire takes 1 minute.</p>
+				</description>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Tinderbox</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1</weight>
+			</id-00008>
+			<id-00009>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">5 sp</cost>
+				<count type="number">7</count>
+				<description type="formattedtext">
+					<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>
+				</description>
+				<locked type="number">1</locked>
+				<name type="string">Rations (1 Day)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">2</weight>
+			</id-00009>
+			<id-00011>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<name type="string">Dagger with Royal Seal</name>
+				<weight type="number">1</weight>
+			</id-00011>
+			<id-00012>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">75 gp</cost>
+				<count type="number">1</count>
+				<damage type="string">1d6 piercing</damage>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Crossbow, Hand</name>
+				<properties type="string">Ammunition (range 30/120), light, loading</properties>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<type type="string">Weapon</type>
+				<volume type="number">0</volume>
+				<weight type="number">3</weight>
+				<width type="number">0</width>
+			</id-00012>
+			<id-00014>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">1 gp</cost>
+				<count type="number">1</count>
+				<damage type="string">-</damage>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Net</name>
+				<properties type="string">Special, thrown (range 5/15)</properties>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<type type="string">Weapon</type>
+				<volume type="number">0</volume>
+				<weight type="number">3</weight>
+				<width type="number">0</width>
+			</id-00014>
+			<id-00015>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">2 sp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Waterskin</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">5</weight>
+			</id-00015>
+			<id-00016>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">10 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>Rope, made of silk, has 2 hit points and can be burst with a DC 17 Strength check. There is 50 feet in this coil.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Rope, Silk (50 Feet)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">5</weight>
+			</id-00016>
+			<id-00017>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">371.24 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<name type="string">Coins</name>
+				<type type="string">Wealth and Money</type>
+				<volume type="number">0</volume>
+				<weight type="number">3.4</weight>
+				<width type="number">0</width>
+			</id-00017>
+			<id-00018>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">5 cp</cost>
+				<count type="number">126</count>
+				<hitshots type="number">1</hitshots>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Quiver</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00025</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<missedshots type="number">3</missedshots>
+				<name type="string">Crossbow Bolt</name>
+				<subtype type="string">Ammunition</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.075</weight>
+			</id-00018>
+			<id-00019>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">5 cp</cost>
+				<count type="number">20</count>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Quiver</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00025</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<missedshots type="number">0</missedshots>
+				<name type="string">Arrow</name>
+				<subtype type="string">Ammunition</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.05</weight>
+			</id-00019>
+			<id-00020>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">2</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.</p>
+					<p>
+						<b>Potion Notes</b>
+					</p>
+					<p>Drinking or administering a potion takes an action.</p>
+				</description>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Potion of Water Breathing</name>
+				<nonid_name type="string">Potion</nonid_name>
+				<nonidentified type="string">This vial contains a cloudy green fluid which smells of the sea and has what appears to be a jellyfish-like bubble floating on it.</nonidentified>
+				<properties type="string">Magic</properties>
+				<rarity type="string">Uncommon</rarity>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Potion of Water Breathing</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Potion</name>
+					</id-00002>
+				</spells>
+				<type type="string">Potion</type>
+				<volume type="number">0</volume>
+				<weight type="number">0.5</weight>
+				<width type="number">0</width>
+			</id-00020>
+			<id-00021>
+				<ac type="number">0</ac>
+				<attune type="number">1</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="imagewindow" recordname="reference.imagedata.img_amulet_of_proof_against_detection_and_location_jpg@*">
+							<b>Image: </b>Amulet of Proof against Detection and Location</link>
+					</linklist>
+					<p>While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.</p>
+					<p>
+						<b>Amulet Notes</b>
+					</p>
+					<p>A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. The Player's Handbook lists many gods in the multiverse and their typical symbols. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in chapter To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<effectlist>
+					<id-00001>
+						<ability_modifier type="number">0</ability_modifier>
+						<actiononly type="number">0</actiononly>
+						<durdice type="dice"></durdice>
+						<durmod type="number">0</durmod>
+						<effect type="string">Hidden from Scrying</effect>
+						<effect_description type="string">[Hidden from Scrying]</effect_description>
+						<misc_modifier type="number">0</misc_modifier>
+						<name type="string">Amulet of Proof against Detection and Location</name>
+						<save_modifier type="number">0</save_modifier>
+						<susceptiblity type="string">cold</susceptiblity>
+						<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+						<susceptiblity_type type="string">resist</susceptiblity_type>
+					</id-00001>
+				</effectlist>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Amulet of Proof against Detection and Location</name>
+				<nonid_name type="string">Amulet</nonid_name>
+				<nonidentified type="string">A finely crafted amulet inlaid with precious stones with a silver chain.</nonidentified>
+				<powergroup type="string">Spells</powergroup>
+				<powers />
+				<prepared type="number">0</prepared>
+				<properties type="string">Magic</properties>
+				<rarity type="string">Uncommon (Requires Attunement)</rarity>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Amulet of Proof against Detection and Location</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Amulet</name>
+					</id-00002>
+				</spells>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">1</weight>
+				<width type="number">0</width>
+			</id-00021>
+			<id-00022>
+				<ac type="number">18</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>
+					<p>
+						<b>Plate Notes</b>
+					</p>
+					<p>Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.</p>
+					<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>
+				</description>
+				<dexbonus type="string">-</dexbonus>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Mithral Plate Armor</name>
+				<nonid_name type="string">Graceful Plate Armor</nonid_name>
+				<nonidentified type="string">This armor has been made with an extremely light and flexible metal.</nonidentified>
+				<properties type="string">Magic</properties>
+				<rarity type="string">uncommon</rarity>
+				<subtype type="string">Heavy Armor</subtype>
+				<type type="string">Armor</type>
+				<volume type="number">0</volume>
+				<weight type="number">65</weight>
+				<width type="number">0</width>
+			</id-00022>
+			<id-00023>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">200 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>A small leather pouch that holds a fine set of thieves' tools with ivory handles</p>
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Silver Thieves' Tools</name>
+				<subtype type="string">Kits</subtype>
+				<type type="string">Tools</type>
+				<volume type="number">0</volume>
+				<weight type="number">1</weight>
+				<width type="number">0</width>
+			</id-00023>
+			<id-00024>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">1 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make this save.&#34;</p>
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Ball Bearings (1,000)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">2</weight>
+				<width type="number">0</width>
+			</id-00024>
+			<id-00025>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">1 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>A quiver can hold up to 20 arrows.</p>
+				</description>
+				<extraplanarcontents type="number">10.5</extraplanarcontents>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Quiver</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1</weight>
+			</id-00025>
+			<id-00026>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">50 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Antitoxin (Vial)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.02</weight>
+			</id-00026>
+			<id-00027>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">1 cp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Candle</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.01</weight>
+			</id-00027>
+			<id-00028>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">25 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Holy Water (Flask)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1</weight>
+			</id-00028>
+			<id-00029>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">2 sp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Mess Kit</name>
+				<subtype type="string">Equipment Kits</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1</weight>
+			</id-00029>
+			<id-00030>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">50 gp</cost>
+				<count type="number">2</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargeaction type="string">destroy</dischargeaction>
+				<discharged type="number">0</discharged>
+				<dischargedice type="dice">d20</dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<displaygroup type="string">Potions</displaygroup>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Potion Of Healing</name>
+				<powergroup type="string">Potion of Healing</powergroup>
+				<powers>
+					<id-00001>
+						<actions>
+							<id-00001>
+								<heallist>
+									<id-00001>
+										<bonus type="number">2</bonus>
+										<dice type="dice">2d4</dice>
+										<statmult type="number">1</statmult>
+									</id-00001>
+								</heallist>
+								<order type="number">1</order>
+								<type type="string">heal</type>
+							</id-00001>
+						</actions>
+						<cast type="number">0</cast>
+						<charges type="number">1</charges>
+						<description type="formattedtext">
+							<p />
+						</description>
+						<group type="string">Potion of Healing</group>
+						<level type="number">0</level>
+						<locked type="number">1</locked>
+						<name type="string">Healing</name>
+						<ritual type="number">0</ritual>
+					</id-00001>
+				</powers>
+				<prepared type="number">1</prepared>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">0.5</weight>
+				<width type="number">0</width>
+			</id-00030>
+			<id-00031>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">1 cp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Whetstone</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1</weight>
+			</id-00031>
+			<id-00032>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">2 cp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Soap</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.01</weight>
+			</id-00032>
+			<id-00033>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<cost type="string">5 cp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Signal Whistle</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.01</weight>
+			</id-00033>
+			<id-00034>
+				<ac type="number">0</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="reference_spell" recordname="reference.spelldata.animalmessenger@*">
+							<b>Spell: </b>Animal Messenger</link>
+						<link class="npc" recordname="reference.npcdata.raven@*">
+							<b>NPC: </b>Raven</link>
+					</linklist>
+					<p>A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>
+					<p>This silver statuette of a raven can become a raven for up to 12 hours. While in raven form, the figurine allows you to cast the <i>animal messenger </i>spell on it at will. Once it has been used, it can't be used again until 2 days have passed.</p>
+					<p>The creature is friendly to you and your companions.</p>
+					<p>It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions. See the <i>Monster Manual </i>for the creature's statistics.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<discharged type="number">0</discharged>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<displaygroup type="string">Magic Items</displaygroup>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00004</recordname>
+				</locationshortcut>
+				<locked type="number">1</locked>
+				<name type="string">Figurine of Wondrous Power (Silver Raven)</name>
+				<nonid_name type="string">A Raven Figurine</nonid_name>
+				<nonidentified type="string">This figurine is cast in silver and depicts a raven in full flight. It has been so superbly carved that the creature looks incredibly life-like.</nonidentified>
+				<powergroup type="string">Figurine of Wonderous Power</powergroup>
+				<powers>
+					<id-00001>
+						<actions>
+							<id-00001>
+								<durmod type="number">1200</durmod>
+								<label type="string">Raven Duration</label>
+								<order type="number">1</order>
+								<targeting type="string">self</targeting>
+								<type type="string">effect</type>
+							</id-00001>
+						</actions>
+						<cast type="number">0</cast>
+						<charges type="number">2</charges>
+						<description type="formattedtext">
+							<p />
+						</description>
+						<level type="number">0</level>
+						<name type="string">Figurine of Wonderous Power: Raven</name>
+						<ritual type="number">0</ritual>
+					</id-00001>
+				</powers>
+				<prepared type="number">2</prepared>
+				<rarity type="string">Uncommon</rarity>
+				<rechargebonus type="number">1</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargeperiod type="string">daily</rechargeperiod>
+				<rechargesingle type="number">0</rechargesingle>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Figurine of Wondrous Power (Silver Raven)</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Figurine</name>
+					</id-00002>
+				</spells>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">0</weight>
+				<width type="number">0</width>
+			</id-00034>
+		</inventorylist>
+		<itemgroups>
+			<id-00001>
+				<name type="string">Rations (1 Day)</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Rope, Silk (50 Feet)</name>
+			</id-00002>
+			<id-00003>
+				<name type="string">Tinderbox</name>
+			</id-00003>
+			<id-00004>
+				<name type="string">Dagger with Royal Seal</name>
+			</id-00004>
+			<id-00007>
+				<name type="string">Knife (Small)</name>
+			</id-00007>
+			<id-00008>
+				<name type="string">Crossbow, Hand</name>
+			</id-00008>
+			<id-00011>
+				<name type="string">Net</name>
+			</id-00011>
+			<id-00012>
+				<name type="string">Ball Bearings (1,000)</name>
+			</id-00012>
+			<id-00013>
+				<name type="string">Mithral Plate Armor</name>
+			</id-00013>
+			<id-00014>
+				<name type="string">Coins</name>
+			</id-00014>
+			<id-00015>
+				<name type="string">Dagger</name>
+			</id-00015>
+			<id-00016>
+				<name type="string">Necklace of Adaptation</name>
+			</id-00016>
+			<id-00017>
+				<name type="string">Arrow</name>
+			</id-00017>
+			<id-00018>
+				<name type="string">Crossbow Bolt</name>
+			</id-00018>
+			<id-00019>
+				<name type="string">Waterskin</name>
+			</id-00019>
+			<id-00020>
+				<name type="string">Potion of Water Breathing</name>
+			</id-00020>
+			<id-00021>
+				<name type="string">Clothes, Traveler's</name>
+			</id-00021>
+			<id-00022>
+				<name type="string">Amulet of Proof against Detection and Location</name>
+			</id-00022>
+			<id-00023>
+				<name type="string">&lt;&lt; Unnamed Items &gt;&gt;</name>
+			</id-00023>
+			<id-00024>
+				<name type="string">Potions</name>
+			</id-00024>
+			<id-00025>
+				<name type="string">Silver Thieves' Tools</name>
+			</id-00025>
+			<id-00026>
+				<name type="string">Quiver</name>
+			</id-00026>
+			<id-00027>
+				<name type="string">Backpack</name>
+			</id-00027>
+			<id-00028>
+				<name type="string">Magic Items</name>
+			</id-00028>
+			<id-00029>
+				<name type="string">Antitoxin (Vial)</name>
+			</id-00029>
+			<id-00030>
+				<name type="string">Candle</name>
+			</id-00030>
+			<id-00031>
+				<name type="string">Holy Water (Flask)</name>
+			</id-00031>
+			<id-00032>
+				<name type="string">Mess Kit</name>
+			</id-00032>
+			<id-00033>
+				<name type="string">Whetstone</name>
+			</id-00033>
+			<id-00034>
+				<name type="string">Soap</name>
+			</id-00034>
+			<id-00035>
+				<name type="string">Signal Whistle</name>
+			</id-00035>
+		</itemgroups>
+		<languagelist>
+			<id-00001>
+				<name type="string">Common</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Infernal</name>
+			</id-00002>
+		</languagelist>
+		<level type="number">6</level>
+		<martialadvantages />
+		<name type="string">Garrison</name>
+		<notes type="string">Original Stats:\nSTR 12\nDEX 15\nCON 12\nINT 14\nWIS 12\nCHA 14\nLevel 4 improvement: +1 STR, CON\nOriginally born in Waterdeep, abandoned and left on the streets. Eventually adopted by the Shorclar clan. Was in an evil town, overwhelmed, captured and sold to slavers. Doesn't know anything about his family.\nShorclar clan is a bunch of "robin hoods" - steal from corrupt people and help in other ways with those less fortunate within the city. Operating in out of Waterdeep, looking to spread out from there.\n\nShorclar Clan Leader: TBD\nCriminal Contact/ best friend growing up: Armarius Menetrian\nAmarius: Born into the Shorclar clan. Not abandoned, but raised within the clan. His parents were kind of foster parents for Garrison. He has an estranged sister. Garrison never knew her well. As soon as she could leave the clan, she did, to set out on her own.</notes>
+		<perception type="number">17</perception>
+		<perceptionmodifier type="number">0</perceptionmodifier>
+		<personalitytraits type="string">Arrogant, likeable and brave. Hides emotions.</personalitytraits>
+		<powerdisplaymode type="string">action</powerdisplaymode>
+		<powergroup>
+			<id-00001>
+				<castertype type="string">memorization</castertype>
+				<name type="string">Spells</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Rogue Power</name>
+			</id-00002>
+			<id-00004>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
+				<domainsize type="number">1</domainsize>
+				<name type="string">Tiefling</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<uses type="number">1</uses>
+				<usesperiod type="string">enc</usesperiod>
+			</id-00004>
+		</powergroup>
+		<powermeta>
+			<pactmagicslots1>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots1>
+			<pactmagicslots2>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots2>
+			<pactmagicslots3>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots3>
+			<pactmagicslots4>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots4>
+			<pactmagicslots5>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots5>
+			<pactmagicslots6>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots6>
+			<pactmagicslots7>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots7>
+			<pactmagicslots8>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots8>
+			<pactmagicslots9>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</pactmagicslots9>
+			<spellslots1>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots1>
+			<spellslots2>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots2>
+			<spellslots3>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots3>
+			<spellslots4>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots4>
+			<spellslots5>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots5>
+			<spellslots6>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots6>
+			<spellslots7>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots7>
+			<spellslots8>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots8>
+			<spellslots9>
+				<max type="number">0</max>
+				<used type="number">0</used>
+			</spellslots9>
+		</powermeta>
+		<powers>
+			<id-00001>
+				<actions />
+				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V</components>
+				<description type="formattedtext">
+					<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p>
+					<list>
+						<li>Your voice booms up to three times as loud as normal for 1 minute.</li>
+						<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>
+						<li>You cause harmless tremors in the ground for 1 minute.</li>
+						<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</li>
+						<li>You instantaneously cause an unlocked door or window to fly open or slam shut.</li>
+						<li>You alter the appearance of your eyes for 1 minute.</li>
+					</list>
+					<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>
+				</description>
+				<duration type="string">Up to 1 minute</duration>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Thaumaturgy</name>
+				<prepared type="number">0</prepared>
+				<range type="string">30 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Transmutation</school>
+				<source type="string">Cleric</source>
+			</id-00001>
+			<id-00002>
+				<actions>
+					<id-00001>
+						<apply type="string">action</apply>
+						<burstsize type="number">0</burstsize>
+						<durmod type="number">1</durmod>
+						<label type="string">Uncanny Dodge; RESIST:bludgeoning,piercing,slashing,!magic</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
+				</actions>
+				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
+				</description>
+				<group type="string">Rogue Power</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Uncanny Dodge</name>
+				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+			</id-00002>
+			<id-00003>
+				<actions>
+					<id-00001>
+						<apply type="string">roll</apply>
+						<burstsize type="number">0</burstsize>
+						<durmod type="number">0</durmod>
+						<label type="string">DMG: 3d6</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
+				</actions>
+				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</p>
+					<p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</p>
+					<p>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.</p>
+				</description>
+				<group type="string">Rogue Power</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Sneak Attack</name>
+				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+				<source type="string">Rogue</source>
+			</id-00003>
+			<id-00004>
+				<actions>
+					<id-00001>
+						<burstsize type="number">0</burstsize>
+						<onmissdamage type="string">half</onmissdamage>
+						<order type="number">1</order>
+						<savetype type="string">dexterity</savetype>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<burstsize type="number">0</burstsize>
+						<damagelist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">2d10</dice>
+								<type type="string">fire</type>
+							</id-00001>
+						</damagelist>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+					</id-00002>
+				</actions>
+				<arcanewardlevel type="number">1</arcanewardlevel>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.</p>
+					<p>
+						<b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Tiefling</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Hellish Rebuke</name>
+				<prepared type="number">0</prepared>
+				<range type="string">60 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Evocation</school>
+				<source type="string">Warlock</source>
+			</id-00004>
+			<id-00005>
+				<actions>
+					<id-00001>
+						<burstsize type="number">0</burstsize>
+						<durmod type="number">10</durmod>
+						<durunit type="string">minute</durunit>
+						<label type="string">Darkness; (C)</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
+				</actions>
+				<arcanewardlevel type="number">2</arcanewardlevel>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, M (bat fur and a drop of pitch or piece of coal)</components>
+				<description type="formattedtext">
+					<p>Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners.</p>
+					<p>A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.</p>
+					<p>If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</p>
+					<p>If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</p>
+				</description>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<group type="string">Tiefling</group>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Darkness</name>
+				<prepared type="number">0</prepared>
+				<range type="string">60 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Evocation</school>
+				<source type="string">Druid Swamp Circle, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+			</id-00005>
+		</powers>
+		<profbonus type="number">3</profbonus>
+		<proficiencylist>
+			<id-00001>
+				<name type="string">Weapon: Simple weapons, hand crossbows, longswords, rapiers, shortswords</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Tool: Thieves' tools</name>
+			</id-00002>
+			<id-00003>
+				<name type="string">Armor: Light armor</name>
+			</id-00003>
+			<id-00004>
+				<name type="string">Tool: One type of gaming set</name>
+			</id-00004>
+		</proficiencylist>
+		<race type="string">Tiefling</race>
+		<racelink type="windowreference">
+			<class>reference_race</class>
+			<recordname>reference.racedata.tiefling@DD PHB Deluxe</recordname>
+		</racelink>
+		<resources />
+		<senses type="string">Darkvision 60</senses>
+		<size type="string">Medium</size>
+		<skilllist>
+			<id-00001>
+				<misc type="number">0</misc>
+				<name type="string">Perception</name>
+				<prof type="number">2</prof>
+				<stat type="string">wisdom</stat>
+				<total type="number">7</total>
+			</id-00001>
+			<id-00002>
+				<misc type="number">0</misc>
+				<name type="string">Acrobatics</name>
+				<prof type="number">1</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">5</total>
+			</id-00002>
+			<id-00003>
+				<misc type="number">0</misc>
+				<name type="string">Sleight of Hand</name>
+				<prof type="number">2</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">8</total>
+			</id-00003>
+			<id-00004>
+				<misc type="number">0</misc>
+				<name type="string">Stealth</name>
+				<prof type="number">2</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">8</total>
+			</id-00004>
+			<id-00005>
+				<misc type="number">0</misc>
+				<name type="string">Arcana</name>
+				<prof type="number">0</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">2</total>
+			</id-00005>
+			<id-00006>
+				<misc type="number">0</misc>
+				<name type="string">Persuasion</name>
+				<prof type="number">0</prof>
+				<stat type="string">charisma</stat>
+				<total type="number">2</total>
+			</id-00006>
+			<id-00007>
+				<misc type="number">0</misc>
+				<name type="string">Nature</name>
+				<prof type="number">2</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">8</total>
+			</id-00007>
+			<id-00008>
+				<misc type="number">0</misc>
+				<name type="string">Medicine</name>
+				<prof type="number">0</prof>
+				<stat type="string">wisdom</stat>
+				<total type="number">1</total>
+			</id-00008>
+			<id-00009>
+				<misc type="number">0</misc>
+				<name type="string">Survival</name>
+				<prof type="number">2</prof>
+				<stat type="string">wisdom</stat>
+				<total type="number">7</total>
+			</id-00009>
+			<id-00010>
+				<misc type="number">0</misc>
+				<name type="string">Performance</name>
+				<prof type="number">0</prof>
+				<stat type="string">charisma</stat>
+				<total type="number">2</total>
+			</id-00010>
+			<id-00011>
+				<misc type="number">0</misc>
+				<name type="string">Religion</name>
+				<prof type="number">0</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">2</total>
+			</id-00011>
+			<id-00012>
+				<misc type="number">0</misc>
+				<name type="string">Athletics</name>
+				<prof type="number">1</prof>
+				<stat type="string">strength</stat>
+				<total type="number">4</total>
+			</id-00012>
+			<id-00013>
+				<misc type="number">0</misc>
+				<name type="string">Insight</name>
+				<prof type="number">0</prof>
+				<stat type="string">wisdom</stat>
+				<total type="number">1</total>
+			</id-00013>
+			<id-00014>
+				<misc type="number">0</misc>
+				<name type="string">Intimidation</name>
+				<prof type="number">0</prof>
+				<stat type="string">charisma</stat>
+				<total type="number">2</total>
+			</id-00014>
+			<id-00015>
+				<misc type="number">0</misc>
+				<name type="string">Deception</name>
+				<prof type="number">2</prof>
+				<stat type="string">charisma</stat>
+				<total type="number">8</total>
+			</id-00015>
+			<id-00016>
+				<misc type="number">0</misc>
+				<name type="string">Investigation</name>
+				<prof type="number">0</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">2</total>
+			</id-00016>
+			<id-00017>
+				<misc type="number">0</misc>
+				<name type="string">History</name>
+				<prof type="number">0</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">2</total>
+			</id-00017>
+			<id-00018>
+				<misc type="number">0</misc>
+				<name type="string">Animal Handling</name>
+				<prof type="number">0</prof>
+				<stat type="string">wisdom</stat>
+				<total type="number">1</total>
+			</id-00018>
+			<id-00019>
+				<misc type="number">0</misc>
+				<name type="string">Tools/Items: Instrument</name>
+				<prof type="number">0</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">2</total>
+			</id-00019>
+			<id-00020>
+				<misc type="number">0</misc>
+				<name type="string">Tools/Items: Artisans Tools</name>
+				<prof type="number">0</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">2</total>
+			</id-00020>
+			<id-00021>
+				<misc type="number">0</misc>
+				<name type="string">Tools/Items: Thieves Tools</name>
+				<prof type="number">1</prof>
+				<stat type="string">dexterity</stat>
+				<total type="number">5</total>
+			</id-00021>
+			<id-00022>
+				<misc type="number">0</misc>
+				<name type="string">Tools/Items: Gaming Set</name>
+				<prof type="number">0</prof>
+				<stat type="string">intelligence</stat>
+				<total type="number">2</total>
+			</id-00022>
+		</skilllist>
+		<speed>
+			<armor type="number">0</armor>
+			<base type="number">30</base>
+			<misc type="number">10</misc>
+			<temporary type="number">0</temporary>
+			<total type="number">40</total>
+		</speed>
+		<storedtargets />
+		<subracelink type="windowreference">
+			<class />
+			<recordname />
+		</subracelink>
+		<temp />
+		<token type="token">portrait_id-00005_token</token>
+		<traitlist>
+			<id-00001>
+				<locked type="number">1</locked>
+				<name type="string">Infernal Legacy</name>
+				<source type="string">Tiefling</source>
+				<text type="formattedtext">
+					<p>You know the thaumaturgy cantrip. After you reach 3rd level, you can cast the hellish rebuke spell once per day as a 2nd level spell (after completion of a long rest). Once you reach 5th level, you can also cast the darkness spell once per day (after completion of a long rest). Charisma is your spellcasting ability for these spells.</p>
+				</text>
+				<type type="string">racial</type>
+			</id-00001>
+			<id-00002>
+				<hpadd type="number">0</hpadd>
+				<locked type="number">1</locked>
+				<name type="string">Hellish Resistance</name>
+				<prepared type="number">0</prepared>
+				<source type="string">Tiefling</source>
+				<text type="formattedtext">
+					<p>You have resistance to fire damage.</p>
+				</text>
+				<type type="string">racial</type>
+			</id-00002>
+		</traitlist>
+		<units />
+		<weapon>
+			<critdicebonus>
+				<melee type="number">0</melee>
+				<ranged type="number">0</ranged>
+			</critdicebonus>
+			<critrange>
+				<melee type="number">20</melee>
+				<ranged type="number">20</ranged>
+			</critrange>
+			<twoweaponfighting type="number">0</twoweaponfighting>
+		</weapon>
+		<weaponlist>
+			<id-00001>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+					<missedshots type="number">0</missedshots>
+					<missrecoverypercentage type="number">50</missrecoverypercentage>
+				</ammunitionmanager>
+				<attackbonus type="number">0</attackbonus>
+				<attackstat type="string">dexterity</attackstat>
+				<button_reload type="number">0</button_reload>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d4</dice>
+						<stat type="string">dexterity</stat>
+						<statmult type="number">1</statmult>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">0</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Dagger</name>
+				<prof type="number">1</prof>
+				<properties type="string">Finesse, light, thrown (range 20/60)</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00001</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00001>
+			<id-00002>
+				<ammo type="number">0</ammo>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+					<missedshots type="number">0</missedshots>
+					<missrecoverypercentage type="number">100</missrecoverypercentage>
+				</ammunitionmanager>
+				<attackbonus type="number">0</attackbonus>
+				<attackstat type="string">dexterity</attackstat>
+				<button_reload type="number">0</button_reload>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d4</dice>
+						<stat type="string">dexterity</stat>
+						<statmult type="number">1</statmult>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">0</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">6</maxammo>
+				<name type="string">Dagger</name>
+				<prof type="number">1</prof>
+				<properties type="string">Finesse, light, thrown (range 20/60)</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00001</recordname>
+				</shortcut>
+				<type type="number">2</type>
+			</id-00002>
+			<id-00005>
+				<ammo type="number">0</ammo>
+				<ammunitionmanager>
+					<ammopicker type="string">Crossbow Bolt</ammopicker>
+					<hitammopicker type="string">Return to Original Item</hitammopicker>
+					<hitrecoverypercentage type="number">50</hitrecoverypercentage>
+					<hitshots type="number">1</hitshots>
+					<isloaded type="number">0</isloaded>
+					<missammopicker type="string">Return to Original Item</missammopicker>
+					<missedshots type="number">2</missedshots>
+					<missrecoverypercentage type="number">50</missrecoverypercentage>
+				</ammunitionmanager>
+				<attackbonus type="number">0</attackbonus>
+				<button_reload type="number">0</button_reload>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d6</dice>
+						<stat type="string">base</stat>
+						<statmult type="number">1</statmult>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">0</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">100</maxammo>
+				<name type="string">Crossbow, Hand</name>
+				<prof type="number">1</prof>
+				<properties type="string">Ammunition (range 30/120), light, loading</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00012</recordname>
+				</shortcut>
+				<type type="number">1</type>
+			</id-00005>
+			<id-00008>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+				</ammunitionmanager>
+				<attackbonus type="number">0</attackbonus>
+				<button_reload type="number">0</button_reload>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice"></dice>
+						<stat type="string">base</stat>
+					</id-00001>
+				</damagelist>
+				<handling type="number">0</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Net</name>
+				<prof type="number">1</prof>
+				<properties type="string">Special, thrown (range 5/15)</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00014</recordname>
+				</shortcut>
+				<type type="number">2</type>
+			</id-00008>
+			<id-00009>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+				</ammunitionmanager>
+				<attackbonus type="number">1</attackbonus>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">2</bonus>
+						<dice type="dice">d6</dice>
+						<stat type="string">base</stat>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">1</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Bane of Sekolah</name>
+				<prof type="number">1</prof>
+				<properties type="string">Thrown (range 20/60), versatile (1d8)</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00006</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00009>
+			<id-00010>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+				</ammunitionmanager>
+				<attackbonus type="number">1</attackbonus>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">2</bonus>
+						<dice type="dice">d6</dice>
+						<stat type="string">base</stat>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">0</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Bane of Sekolah</name>
+				<prof type="number">1</prof>
+				<properties type="string">Thrown (range 20/60), versatile (1d8)</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00006</recordname>
+				</shortcut>
+				<type type="number">2</type>
+			</id-00010>
+			<id-00011>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+					<missedshots type="number">0</missedshots>
+					<missrecoverypercentage type="number">50</missrecoverypercentage>
+				</ammunitionmanager>
+				<attackbonus type="number">1</attackbonus>
+				<button_reload type="number">0</button_reload>
+				<carried type="number">0</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">1</bonus>
+						<dice type="dice">d8</dice>
+						<stat type="string">base</stat>
+						<statmult type="number">1</statmult>
+						<type type="string">piercing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">1</handling>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Bane of Sekolah - Two Handed</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class />
+					<recordname />
+				</shortcut>
+				<type type="number">0</type>
+			</id-00011>
+		</weaponlist>
+		<weight type="string">160</weight>
+		<wildshapes>
+			<shifted type="number">0</shifted>
+		</wildshapes>
+	</character>
+</root>
