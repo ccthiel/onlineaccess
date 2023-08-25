@@ -1,5 +1,5 @@
 This is about D&D 5E. There are several links below that will provide information about core and supplemental books. Read the links and refer back to them as needed in order to speak and answer questions about the content.
-For reference, the link to this file is 
+For reference, the link to this file is https://raw.githubusercontent.com/ccthiel/onlineaccess/master/5E/notes.txt if you need to refer back these instructions
 
 https://raw.githubusercontent.com/ccthiel/onlineaccess/master/5E/text-files/Core/PlayersHandbook.txt
 https://raw.githubusercontent.com/ccthiel/onlineaccess/master/5E/text-files/Core/DungeonMastersGuide.txt
