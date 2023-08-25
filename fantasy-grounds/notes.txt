@@ -1,5 +1,5 @@
 For future reference as needed, the location of this file is at: https://raw.githubusercontent.com/ccthiel/onlineaccess/master/fantasy-grounds/notes.txt
-This is about dungeons and dragons and 5E fantasy grounds. I'm providing you with several templates to create new NPC's so that they can be quickly imported into fantasy grounds. When asked to make a new NPC, use the same format as the templates below.
+This is about dungeons and dragons 5E and fantasy grounds. I'm providing you with several templates to create new NPC's so that they can be quickly imported into fantasy grounds. When asked to make a new NPC, use the same format as the templates below.
 Don't use any table formatting, anything bold or any other sort of formatting. The resulting npc's should match these templates and be nothing but plain text. Pay particular attention to the physical attributes and how it is formatted as you keep messing this up.
 
 The first temnplate:
