@@ -1,0 +1,3219 @@
+A GOING CONCERN
+A GOING CONCERN
+
+ADVANCED RULES FOR OWNING
+ADVANCED RULES FOR OWNING
+ & OPERATING A BUSINESS
+ & OPERATING A BUSINESS
+IN  5TH EDITION DUNGEONS & DRAGONS
+IN  5TH EDITION DUNGEONS & DRAGONS
+
+GRUMPY DOG GAME DESIGN
+GRUMPY DOG GAME DESIGN
+
+Foreword
+
+This product was first published back in 2017. Many copies 
+have been sold since then, and hopefully many fun gaming 
+memories have been created using the optional rules 
+presented herein. This latest revision to the product has a 
+specific purpose: To teach me how to build a large product 
+file in Adobe InDesign. The fact that the end product should 
+be more readable and visually appealing is a nice bonus.
+
+For those of you new to this product, welcome! And thank 
+
+you for supporting GDGD. If there’s one complaint I’ve 
+heard over the last few years about A Going Concern, it’s that 
+it’s too complicated. And yes, that did tempt me to revisit this 
+product in an attempt to simplify the rules. But in the end, I 
+chose not to. The Dungeon Master’s Guide already has simple 
+rules for running a business during adventuring downtime 
+and I don’t see a reason to overlap those rules with more 
+of the same.
+
+A Going Concern is intended to be a set of advanced rules 
+for players (and dungeon masters) who want to make the 
+running of a business a dynamic and significant element 
+in their D&D campaign. To that end, these rules allow 
+player characters to influence the success of their business 
+endeavours through meaningful investments of their 
+characters’ time and effort. There’s some bookkeeping to be 
+done here, but the goal is that this supplement lets you feel 
+like you’re running a business rather than simply making an 
+occasional roll on an abstract table.
+
+And so to you I say, good luck! Remember that nothing 
+
+worthwhile is easy, and running a successful business 
+is one of the most challenging, and most rewarding, 
+things you can do.
+
+P. Daniel Johnson, Autumn 2022
+
+Credits
+
+Design: P. Daniel Johnson
+Artwork Courtesy Of:
+Rijksmuseum
+Adobe Creative Cloud
+
+InDesign template: Nathanaël Roux (http://www.
+
+barkalotdesigns.com)
+
+Thanks to Christopher Dyer, whose excellent book Making 
+a Living in the Middle Ages was an invaluable reference and 
+inspiration for this supplement.
+
+Grumpy Dog Game Design
+Grumpy Dog Game Design
+“Slightly above average gaming products for slightly 
+
+below average prices”
+
+DUNGEONS & DRAGONS, D&D, Wizards of the 
+Coast, Forgotten Realms, Ravenloft, Eberron, the dragon 
+ampersand, Ravnica and all other Wizards of the Coast 
+product names, and their respective logos are trademarks of 
+Wizards of the Coast in the USA and other countries.
+
+This work contains material that is copyright Wizards of 
+the Coast and/or other authors. Such material is used with 
+permission under the Community Content Agreement for 
+Dungeon Masters Guild.
+
+All other original material in this work is copyright 2017 by 
+Paul Johnson and published under the Community Content 
+Agreement for Dungeon Masters Guild.
+
+ 
+introduCtion 
+
+overview 
+
+starting a Business 
+
+Contents
+Contents
+
+4
+
+5
+
+6
+
+interest 
+
+goodwill 
+
+return on investment  
+
+19
+
+21
+
+21
+
+Step 1: Base Return on Investment ................................. 21
+Step 2: Market Environment ........................................... 21
+Step 3: Random Events .................................................... 21
+Step 4: Management Actions ........................................... 21
+Step 5: Finalize Market Environment ............................ 21
+Step 6: Finalize Investment.............................................. 21
+Step 7: Finalize Return on Investment ........................... 21
+Step 8: Apply Risk Factor ................................................ 21
+Step 9: Determine Gross Return ..................................... 21
+Step 10: Calculate Interest ............................................... 22
+Step 11: Determine Net Return ...................................... 22
+Step 12: Determine Monthly Performance .................... 22
+Step 13: Update Business Sheet ....................................... 22
+
+monthly perFormanCe 
+
+22
+
+Profit .................................................................................. 22
+Reinvestment .................................................................... 22
+Debt .................................................................................... 23
+Shrinkage ........................................................................... 23
+Divestiture ......................................................................... 23
+Bankruptcy ........................................................................ 23
+Profit and Loss Considerations for Shared Investments 
+and Business Combinations .................................................... 24
+new BaCkground – Family Business 
+
+25
+
+Feature: Investment Heir ................................................. 25
+Suggested Characteristics ................................................. 25
+
+Feudal and Capitalist eConomies 
+
+magiC 
+
+adventure hooks 
+
+Business examples 
+
+26
+
+26
+
+27
+
+29
+
+Business Example 1: The Emblazoned Escutcheon ....... 29
+Business Example 2: The Orc’s Fork Tavern and 
+Flophouse .................................................................................. 30
+appendix: the Business sheet 
+
+33
+
+Types of Businesses ............................................................ 6
+Resource .............................................................................. 6
+Manufacturing .................................................................... 6
+Resale ................................................................................... 7
+Service .................................................................................. 7
+Shared investments ............................................................ 8
+Business Combinations ...................................................... 8
+Buying a Business ............................................................... 9
+Starting from Scratch ......................................................... 9
+
+Business Culture 
+
+10
+
+Criminal ............................................................................. 10
+Cut-throat ......................................................................... 10
+Front .................................................................................. 10
+Innovative ......................................................................... 10
+None ................................................................................... 10
+Traditional ......................................................................... 10
+Trendy ............................................................................... 10
+Changing Culture ............................................................. 11
+
+the risk FaCtor 
+
+operating a Business 
+
+11
+
+12
+
+The Monthly Business Cycle ........................................... 12
+Market Environment ....................................................... 12
+Economic ........................................................................... 12
+Political .............................................................................. 13
+Strife ................................................................................... 13
+Competition ...................................................................... 13
+Developing a Narrative for Market Conditions ............ 13
+
+random events  
+
+15
+
+Devaluation ....................................................................... 15
+Malfunction ....................................................................... 15
+Cancelled contract ............................................................ 15
+Theft .................................................................................. 15
+Illness ................................................................................. 15
+Fair ..................................................................................... 15
+Appreciation...................................................................... 15
+
+management aCtions 
+
+16
+
+Contract Labour ............................................................... 16
+Espionage........................................................................... 17
+Expansion .......................................................................... 17
+Invention ........................................................................... 17
+Maintenance ...................................................................... 18
+Marketing .......................................................................... 18
+Negotiation ........................................................................ 18
+Sabotage ............................................................................. 19
+Training ............................................................................. 19
+
+We don’t have much time.”
+
+The lad wore a confused expression. He clearly didn’t share 
+
+his companions’ concern. “I don’t see why we need to sneak 
+around and spy on them,” he said, “they have as much right to do 
+business as we do.”
+
+The half-elf darted a sharp glare at the big human, but Kiln 
+raised a hand to stop any rebuke. “Listen Rig, there’s hardly enough 
+logging in this area to support two workshops as it is, and now it 
+seems our competition is building two more workshops on top of 
+the one they already run.”
+
+The lad stared back at the dwarf and blinked. Nothing in 
+
+his expression showed he grasped the implication of what 
+Kiln was saying.
+
+The dwarf thought for a second and then asked, “how many 
+
+workers do we keep employed here, Rig?”
+
+The boy’s eyes drifted towards the ceiling. After a moment he 
+
+replied, “a lot”.
+
+“Right. And what would happen to them if our competitors drove 
+
+us out of business?”
+
+The tactic worked. Rig’s eyes widened and his mouth dropped 
+open. “But the money they earn here feeds their families, pays their 
+rent,” the human said softly, “they’d all be out of work!”
+
+More likely they would just go work for our competitors, Kiln 
+thought, but the lad doesn’t need to be bothered with details. There 
+was a time he was reluctant to work with someone with so many 
+morals, but now he saw how easily they could be manipulated and 
+wished he’d realized it decades ago.
+
+The half-elf was already gliding out the back door. “We’ll take 
+
+the long way and come up from the river bank in case there’s a 
+watch. Come on now, they might have guards,” she said as she 
+disappeared into the darkness.
+
+“It won’t matter if they do,” Rig said slowly as he stood up from 
+the table, his chair screeching against the floor as he shoved it back. 
+He reached down to where his maul leaned against a workbench, 
+hefting the massive cudgel effortlessly. “You know something, 
+Kiln? It was a lot easier when we used to make money fighting 
+monsters and such.”
+
+The dwarf clapped Rig on a well-muscled arm as he followed 
+him out into the night air. “You have the right of it, lad, but there 
+are only so many lost temples to plunder, so many evil wizards to 
+thwart. And a man has to make a living.”
+
+At the far end of the alley, Veneranda’s shadow detached 
+itself from a wall and led them across a deserted street. The city 
+slumbered; the constables dozed at their posts. The wet murmur of 
+the river in the distance grew louder. Not loud enough to drown the 
+noise of a pair of construction sites being smashed into kindling, 
+but they’d be quick about it. A man needed to make a living after 
+all, and tonight was as good a night as any for it.
+
+introduCtion
+introduCtion
+
+ The workshop smelled of sawdust and machine oil. 
+
+Kiln traced the parallel paths left by the legs of 
+the table he now hunched over through the wood 
+shavings that littered the floor from where he 
+had dragged it across the room. It wasn’t a large 
+workshop. During the day this space was filled 
+
+with craftsmen and labourers, but at night it made for a decent 
+meeting space, even if the furniture needed to be rearranged for it. 
+The table top was the only visible surface not piled with tools and 
+half-finished bits of carpentry.
+
+Across the table, the half-elf was studying a parchment roll she 
+
+held open with spread fingers. He couldn’t read anything on it 
+from where he sat. There was some sort of diagram surrounded by 
+incomprehensible scratches. Some kind of proprietary shorthand, so 
+no one else could read her work he guessed.
+
+“Couldn’t you have just brought the originals?” He asked.
+The half-elf didn’t look up. After a moment she distractedly 
+muttered, “yes, and then they would know they had been stolen. 
+We would have lost all chance of surprise.”
+
+Kiln shrugged and resumed his inspection of the room. The 
+only other occupant was a human lad, seated to Kiln’s right, arms 
+crossed and looking both bored and mildly uncomfortable. There 
+wasn’t truly enough space for the boy between the table in front of 
+him and the workbench behind. There wasn’t enough space for him 
+anywhere, it seemed, unless he was outside. Kiln watched as the 
+human worked his thick fingers under his gorget to rub the raw 
+flesh beneath. The lad had outgrown another set of armour and 
+they couldn’t afford to keep replacing it.
+
+He returned his eyes to the half-elf, Veneranda was her name, 
+who was now tapping one finger on the diagram as though she’d 
+just noticed something new. Kiln knew better than to interrupt 
+with a question, so he waited. She had been away longer than 
+he’d hoped this time. Most of the night was now gone, the faintest 
+ruddiness in the eastern sky showing through the missing slats 
+in the shutters promising that morning wasn’t far off. But she’d 
+been successful, that was certain, though she hadn’t said as much. 
+When the half-elf had slipped in through the back door, silent as 
+a bat in flight and without a word spoken, he’d recognized the 
+hint of a smile, more in the lines around her eyes than the shape 
+of her mouth.
+
+Any indication of a smile was gone when she finally looked up 
+
+from the page. “It’s two. Each is at least as big as what they have 
+now, maybe bigger.”
+
+Kiln’s heart sunk. Dwarves weren’t known for optimism, but this 
+
+was worse than even he had thought. “How…” he began to ask.
+
+Veneranda anticipated his question. “The construction sites were 
+disguised to look residential. They’ve been at this for a while now. 
+
+4
+
+A GOING CONCERNoverview
+overview
+
+The intent of these rules is to present 
+
+players with options for owning and 
+operating a business, balanced between the 
+goal of simulating the problems faced by real 
+business owners with the need to not bog 
+down the game with dreary complexities.
+
+What is a business? Technically, any endeavour intended 
+to generate a profit could be called a business. From that 
+perspective, a lone musician busking on a street corner and 
+the pickpocket working his way through the passing crowd 
+are both “businesses”. Even a party of adventurers making 
+their way into a dungeon in search of treasure is a business, 
+of a sort. But the rules contained herein are not intended to 
+reduce the fun of adventuring down to a few abstractions, 
+nor are they intended to reflect temporary efforts on the part 
+of one individual.
+
+There is a term useful in describing a business: A going 
+
+concern. A going concern describes the underlying 
+assumption that a business is financially viable – that it will 
+continue to exist and operate from month to month for an 
+extended, usually indefinite period of time. This distinction 
+is important because while a player character may engage in 
+a range of activities designed to generate income, a business 
+is an independent entity that can (and does) operate apart 
+from the player characters who own it.
+
+For the purpose of the rules contained here then, we 
+will define a business as a going concern owned by, but 
+with an existence separate from, one or more of the player 
+characters. Importantly, this implies that the business has 
+relatively competent and trustworthy employees ready and 
+capable of running things while the player characters are off 
+adventuring.
+
+The Dungeon Master’s Guide contains rules for running a 
+business during adventuring downtime. For most players 
+and dungeon masters, those rules are perfectly serviceable. 
+They do have some limitations, however. One of the most 
+noticeable of these is that the degree of profit a business 
+generates is calculated without respect to the size of the 
+business. Another is that the player character has only the 
+most abstract ability to influence the business’s operations, 
+which some players may find unsatisfying. 
+
+The optional rules laid out herein expand on the notion 
+of player-owned businesses. Within, you’ll find information 
+on different types of businesses and how to invest in them, 
+as well as the varying degrees of risk they invite. A system 
+for determining market conditions, random events, and the 
+impact of management initiatives gives player characters 
+a more hands-on approach to running a business. Other 
+topics include adventure hooks resulting from player-owned 
+businesses and the impact of magic on the economy of your 
+Dungeons & Dragons game.
+
+In order to accomplish this goal, business operations 
+and the results of those operations are distilled to a few 
+rule elements. Each is detailed fully further on, but a 
+brief overview is presented here to familiarize the reader 
+with the principal concepts before launching into a 
+comprehensive discussion.
+
+To begin, the nearly endless variety of different businesses 
+is distilled down to two concepts – type and culture. This 
+doesn’t limit player creativity: They can absolutely still 
+invent any specific sort of business they would like, be it a 
+prosaic choice like a turnip farm or blacksmithy, something 
+a bit more atypical like a theatre troupe or mercenary 
+company, or something truly unusual like a gorgon ranch 
+or interdimensional travel agency. But for the purpose 
+of owning a business in Dungeons & Dragons, this 
+complexity is reduced to a selection of four business types 
+and six cultures.
+
+Having identified a business by its type and culture, we 
+then look at representing the fact that some businesses have 
+a higher chance of extraordinary profits, while inviting the 
+possibility of extraordinary losses. This is defined by the risk 
+factor, which is simply a number from 1 to 4 based on the 
+inherent riskiness of the business’s type.
+
+The next concept is investment. In the real world, 
+accounting for a business is a lot of work. There are assets 
+and liabilities, revenues and expenses and that’s just the 
+beginning. All of that detail is reduced in these rules to one 
+simple concept – investment.
+
+A business’s investment is a single monetary value, 
+
+typically expressed in gold pieces, that represents the basis 
+for determining profits and losses (discussed more below) 
+and also acts as a measure of the size of a business. This last 
+point is somewhat subjective: A 750-gold piece farm may 
+well be larger than a 500-gold piece farm, but the higher 
+value could be due to something else, like a bigger barn or 
+better access to fresh water. All of this variability in the 
+size, assets and relative value of a business is captured by its 
+investment value.
+
+The final set of concepts all have to do with determining 
+
+the results of running a business. In other words, did the 
+business generate a profit or suffer a loss? At its most basic 
+level, this is determined by a simple formula: the value of 
+the investment multiplied by a percentage representing the 
+return on investment. Most of the rules herein are involved 
+with determining what that return on investment (or 
+ROI) percentage is.
+
+5
+
+A GOING CONCERN 
+Briefly, the influences on ROI are these:
+
+• The market environment, broken down into the 
+individual elements of economic, political, strife, and 
+competition, which determine how favourable conditions 
+are to doing business;
+• Management actions, which range from marketing 
+initiatives to industrial espionage and sabotage, give player 
+character business owners an opportunity to directly lend a 
+hand in their business’s success;
+• Random events, sometimes fortuitous and sometimes 
+not, add an unexpected element to the business cycle.
+
+Beyond these principal drivers of return on investment, 
+
+profits can be further impacted by interest costs if the 
+business is carrying any debt as well as a handful of other 
+factors. These returns are calculated on a monthly basis.
+Now that the fundamentals of these rules have been 
+introduced, the remainder of this supplement delves more 
+fully into each concept.
+
+6
+
+starting a Business
+starting a Business
+
+Whether a player character starts a 
+
+business by building one up from scratch 
+or by purchasing an existing concern, 
+the most important thing to remember 
+is that owning a business is a financial 
+investment, and the reason to own 
+
+one – in almost all cases – is to generate a return on that 
+investment. The concepts of investment and return on 
+investment are expanded upon in greater detail further on 
+(see “Return on Investment” on page 21), but first it’s 
+worth examining the different types of business a player 
+character can invest in.
+
+types oF Businesses
+Most fantasy campaigns are modelled to a greater or lesser 
+extent on a medieval time period. That assumption is carried 
+through these rules. This assumption simplifies things, 
+because a medieval economy is significantly simpler than a 
+modern one. Having said that, even a medieval economy is 
+still complex, with a dizzying array of raw material inputs, 
+goods manufactured, and services provided.
+
+In order to meaningfully categorize the huge number of 
+different types of businesses, they are organized into four 
+groups: resource, manufacturing, resale, and service.
+
+resourCe
+Any business that concerns itself with acquiring the basic 
+raw material inputs to the economy is a resource business. 
+Mining operations produce stone, metal, gemstones, and 
+salt. Agricultural endeavours produce meat and vegetable 
+crops as well as hides, wool, tallow, bone, flax, cotton, and 
+silk. Fisheries gather resources from lakes and the sea, while 
+forestry operations produce wood. This is by no means an 
+exhaustive list, but it does begin to illustrate the diverse 
+range of materials a medieval economy makes use of.
+
+The assets of resource-type businesses are varied, but 
+typically are focused on ownership of (or at least the rights 
+to make use of) relatively large amounts of land. They also 
+usually need heavy tools and equipment like ploughs, mining 
+carts, and saws. 
+
+manuFaCturing
+A massive variety of goods are manufactured from the raw 
+materials generated by resource-type businesses. Most of 
+these goods are also further manufactured into other goods, 
+many of which are further manufactured into yet other 
+goods, and so on. Although it would be impossible to fully 
+list all the sorts of manufacturing businesses that can exist 
+in a medieval economy, it can be helpful to work backwards 
+from a particular type of finished good, envisioning all of the 
+manufacturing steps required to produce that item.
+The sidebar presents a rather detailed view of the 
+manufacturing process of wool clothing, but it serves to 
+illustrate how many different businesses can be involved in 
+manufacturing even a common item like a shirt. Between the 
+sheep rancher who produces raw wool and the tailor who 
+
+A GOING CONCERNManufacturing a Wool Shirt
+Using a common item of clothing, a wool shirt, as an example, 
+the manufacturing steps are these: First, the raw wool supplied 
+by the rancher (a resource business) needs to be sorted by 
+length and quality of fibre. Then the wool is washed, usually with 
+solutions of lye or urine, and worked or beaten to further clean 
+and untangle the wool. Next the wool may be dyed before being 
+greased with fat or oil to prepare it for combing and carding, 
+where the fibres are more fully separated and straightened. 
+After combing, the wool is spun into yarn using a drop spindle or 
+spinning wheel. Once the wool yarn is complete, weavers take 
+over and use a loom to weave the yarn into wool cloth. The wool 
+cloth is not yet ready to be used for clothing, though; first it 
+needs to be further washed through a process known as “fulling” 
+where the wool cloth is strengthened and thickened either by 
+manually stepping on it or by beating it with wooden hammers 
+while soaking the cloth, again using lye or urine. Water-powered 
+fulling mills may also be employed to partly automate this 
+process. Once the cloth dries, it must be sheared and napped 
+to remove any roughness from stray bits of fibre. Lastly, the 
+cloth may be pressed and further dyed before it is complete. 
+The finished wool cloth is then cut and sewn by a tailor into a 
+finished wool shirt, possibly with the addition of wood, metal, or 
+bone buttons. Many other processes would intersect with those 
+described above, as the various tools and other products used to 
+make the wool all have manufacturing processes of their own.
+
+sells an article of clothing are as many as a half dozen other 
+businesses critical to the process. If you’re inclined to start 
+a manufacturing business, it’s worthwhile to research how 
+things were made in the middle ages to gain a deeper insight 
+into what sort of opportunities there are.
+
+Manufacturing businesses typically comprise one or more 
+buildings that serve as workshops or mills. These contain all 
+of the tools needed by the business, which can be anything 
+from tiny sewing needles to massive smelting furnaces.
+
+resale
+The line between manufacturing and resale is defined by 
+whether or not the business made the goods it is selling. 
+Many manufacturing businesses, from blacksmiths to tailors, 
+sell the products they make. A resale business is different: 
+Resale businesses purchase goods from another business and 
+then sell them again at a higher price, making their profits 
+on the difference between what they paid and what they 
+were able to sell for. Most resale operations are known as 
+merchants or traders.
+
+It’s tempting to think of resale as the final step in the 
+
+supply chain: Materials flow from those who gather 
+resources to those who manufacture goods and finally to 
+those who sell the finished products. This is not always true, 
+however. Many merchants provide an important logistical 
+role, moving goods through the supply chain. Using the 
+
+prior example of wool cloth, a merchant likely collects 
+bundles of raw wool from sheep ranchers and farmers, 
+then resells it to the workshops who produce wool cloth. 
+Merchants step in again to buy the cloth bolts in bulk, often 
+transporting them great distances over land and sea to be 
+sold again in distant markets.
+
+Other merchants and traders are less involved in the 
+transport of goods and focus instead on operating shops or 
+market stalls. These resellers earn their profits by offering 
+the convenience of goods for sale at a single point. It’s much 
+easier to purchase fruits from a fruit stall at the market, 
+for example, than to hike about from orchard to orchard 
+searching for the fruits you like.
+
+What assets are owned by a resale business is dependent 
+
+on whether the focus of the business is distribution over 
+large distances or operation of a store that serves a local 
+clientele. In the former case, assets typically comprise one or 
+more warehouses along with vehicles: A single mule-drawn 
+cart, a fleet of ships or something in between. In the latter 
+case, the retail outlet can range from a market stall to a large 
+trading post.
+
+serviCe
+Service businesses tend to be less focused on assets and 
+material goods than other business types are. Instead, they 
+specialize in offering labour of various skill levels.
+
+The value of labour follows the same laws of supply and 
+
+demand as the rest of the economy, meaning that when 
+workers are in short supply even unskilled labour can be 
+valuable, and skilled labour even more so. Successful service-
+oriented businesses capitalize on this by providing specialized 
+services where they are most in demand.
+
+Examples of service business are inns and hostels, 
+messengers, cartage, security, stables, animal training, 
+brothels, colleges and universities, guilds, theatres, and 
+mercenaries, just to name a handful of possibilities.
+
+Remember that the rules laid out here are intended to 
+reflect ongoing businesses where an investment has been 
+made and a return is expected. The income of individual 
+service providers such as the lone mercenary, bounty hunter, 
+or thespian is better gauged by the lifestyle expense rules 
+given in the Player’s Handbook, or by the dungeon master’s 
+own determination if the task forms a part of an adventure.
+The assets of service businesses tend to comprise those 
+
+tools specific to the individual labourer’s occupation. 
+A craftsperson requires the tools of her trade, where a 
+mercenary requires armour and weaponry. 
+
+7
+
+A GOING CONCERNinvestment
+
+Where a business’s type indicates the 
+
+nature of its operations, a business’s 
+investment is an indicator of its value. It 
+is an amount of money that represents the 
+sum of the worth of the business’s assets, 
+including land, buildings, vehicles, tools, 
+
+equipment, and inventory. In short, the investment is a 
+representative measure of everything that gives the business 
+the ability to operate and generate revenue, and thus – with a 
+little luck – produce a return on that investment.
+
+One important point to remember is that investment 
+encompasses a going concern’s entire ability to generate a 
+return. Flipping through the pages of the Player’s Handbook, 
+one would be forgiven for noting that the price of a longship 
+is 10,000 gold, and from that assuming the investment 
+needed to start up a shipping company with a longship is 
+also 10,000 gold. Remember though that the ship requires a 
+crew to man it, food and supplies for the crew, cargo to sell, 
+working capital for docking fees and bribes, and so on.
+
+Because of this, the gross investment value of a business 
+is almost always significantly more than the direct cost of its 
+major assets.
+
+This is true whether the assets are ships, wagons, 
+buildings of some sort, mines, quarries, or perhaps even 
+a forest or some other source of raw materials. Whatever 
+the obvious elements of the business are, be sure that there 
+are always many other necessary parts included in the gross 
+investment value.
+
+While investment is an abstract concept, it does give some 
+guidance as to the likely relative size and characteristics of a 
+business. Virtually any size investment can be suitable to any 
+type of business. Certainly, some may take a bit more effort 
+to explain. A farm worth 100,000 gold would need to be vast 
+and amazingly fertile. A gold mine worth only 50 gold might 
+be just a small panning operation in a promising creek.
+
+One final point on the topic of investment is that a single 
+
+investment can, in some circumstances, comprise several 
+businesses at once. This option is best employed when one or 
+more owners invest in several similar businesses located near 
+one another. For example, if a player character owns a dozen 
+farms surrounding a single town, it makes sense to treat 
+
+that as one large investment rather than twelve small ones. If 
+the businesses are significantly different from each other, for 
+instance if a player character owns a farm, a blacksmith, and 
+a cooperage (a workshop that manufactures barrels) all in the 
+same town, it would be best to treat that as three separate 
+investments. Similarly, if a player character owns a dozen 
+farms all a fair distance away from one another, it too would 
+be preferable to treat those as separate investments.
+
+shared investments
+A business need not be owned by a single person. An 
+inherited business could have more than one heir; a new 
+business could be started by several partners pooling their 
+resources; an existing business could accept a new investor to 
+help fund an expansion.
+
+In any event that a business has multiple owners, use the 
+rules provided in this supplement to account for the entire 
+business as a whole, single investment exactly as if there was 
+a single owner. When monthly profit or loss is calculated, 
+special rules apply to divide the results among the owners 
+(see “Profit and Loss Considerations for Shared Investments 
+and Business Combinations” on page 24).
+
+Business ComBinations
+Not all businesses fit neatly into one of the four business 
+types listed above. Consider the typical inn with a dining 
+room or bar attached. The inn would be considered a 
+service, while a dining room would be manufacturing, 
+and a bar would probably be resale. Another common 
+example is a resource business that also performs some basic 
+manufacturing processes, such as a mine that also smelts 
+ore into useable metals or a forestry operation that also 
+mills tree trunks into lumber. In these cases, there are three 
+options available.
+
+The first option is to divide the business into smaller 
+businesses of different types. This works best for larger 
+investments where the individual pieces are worth at least 
+several thousand gold on their own. A large inn could 
+represent a 25,000-gold investment, but if that investment 
+includes a dining room and bar, it might make sense to treat 
+it as three businesses, perhaps a 12,000-gold inn, 8,000-gold 
+dining room, and 5,000-gold bar. Using this option, each 
+
+Investment Examples
+
+Investment 
+Value
+
+Resource
+
+Manufacturing
+
+100 gp
+
+Share of a small farm
+
+Outdoor one-man smithy
+
+500 gp
+
+2,500 gp
+
+10,000 gp
+
+Salt mine suitable for 
+supplying a town or small city
+Local forestry and lumber 
+operation
+Large farm with abundant 
+fresh water and pastureland
+
+100,000 gp
+
+Mid-sized gold mine
+
+Modest workshop
+
+Foundry or similar mid-sized 
+workshop
+Simple mill, water- or wind-
+powered
+Complex water-powered mill 
+such as a fulling mill
+
+500,000 gp
+
+Rich gemstone mine
+
+Large shipyard
+
+Resale
+Market stall with small 
+inventory of local goods
+Several mule-drawn carts 
+with drivers and cargo
+Small to mid-sized shop with 
+basic inventory
+Larger trading post with 
+diverse inventory
+Pair of longships with crews 
+and trade goods
+Trio of large galleys, crewed 
+and loaded with goods
+
+Service
+
+Small rat-catching service
+
+Traveling theatre troupe
+
+Well-equipped stable
+
+Guildhall capable of serving a 
+good-sized city
+Large inn with kitchen and 
+stables
+
+Small mercenary army
+
+8
+
+A GOING CONCERNbusiness would be accounted for separately even though they 
+are physically attached.
+
+The second option is to treat the business as a single 
+
+entity and simply choose the business type that most closely 
+reflects the business’s operations. If the business is a mine 
+with a smelting operation attached, it might be reasonable to 
+declare that the mine is the larger and more significant part 
+of the business, and hence the entire operation should be 
+simply treated as a resource business without worrying about 
+the relatively small manufacturing component.
+
+The third and final option is to characterize the business 
+as being of mixed type, such as resource/manufacturing or 
+service/manufacturing/resale. This works best in situations 
+where a business is roughly equal parts the different types 
+and cannot be easily subdivided and accounted for separately 
+because the components are too intertwined. The best way 
+to judge whether business components are not suitable to 
+be accounted for as separate businesses is to imagine what 
+would happen if one of them went bankrupt. If the bar 
+in an inn went bankrupt, the inn could likely continue to 
+operate. On the other hand, if a mine went bankrupt could 
+the attached smelting operation continue? Likely not if 
+the smelter’s entire input was from a mine that no longer 
+functions. Using this option, the risk factor of the business 
+becomes the average of each of the types included (see “The 
+Risk Factor” on page 11). 
+
+Buying a Business
+Purchasing all or part of an existing operation is quick and 
+easy, but there is a premium to pay for this convenience. The 
+current owners will expect to be compensated not just for 
+the value of the business’s assets, but also for the earnings 
+potential the business has demonstrated. See the discussion 
+of goodwill on page 21 for more on this concept, but in 
+the meantime it’s enough to know that the purchase price 
+of an existing business is equal to the value of the gross 
+investment plus 10%. (This calculation is more complex for 
+player characters selling a business (see page 21 again), but 
+when purchasing an investment from a non-player character, 
+a simple 10% mark-up is used).
+
+This 10% premium is not reflected in the gross investment 
+
+value of the business once it has been purchased. For 
+example, purchasing an existing business with an investment 
+value of 2,000 gold pieces would cost 2,200 gold pieces, but 
+the gross investment value of the business is 2,000 gold, 
+not 2,200 gold.
+
+starting From sCratCh
+An advantage to buying into an existing concern, or fully 
+purchasing one outright, is that it avoids the complication 
+of needing to construct the business from scratch. In many 
+cases, building from scratch might not be possible to avoid, 
+particularly if the business is of an unusual nature or located 
+somewhere one wouldn’t normally find a business operating.
+The general assumption is that construction proceeds at 
+a pace of 150 gold pieces worth of investment per day. At 
+this rate, a 1,000-gold piece investment would take 7 days to 
+complete. It is possible to increase the speed of construction. 
+This requires the use of an expansion management action 
+(see “Management Actions” on page 16). This is the only 
+time a management action can be used prior to the business 
+beginning actual operations.
+
+Realistically speaking, there are many other considerations 
+
+beyond construction when starting a business. Staff need 
+to be hired and trained; inventory and tools need to be 
+purchased. For many businesses, there is also a lengthy 
+operational process to conduct in order to make goods 
+saleable. Consider a tannery, where animal hides may need 
+to be soaked in tanning pits for a year or more before being 
+ready to be used in leather goods. Other examples include 
+almost anything in the agricultural industry: Raising animals 
+and growing crops takes anywhere from a season to a 
+number of years – you can’t just build a farmhouse and a 
+barn and expect to take your products to sell at the market 
+the next day.
+
+Because of the staggering variety of businesses, no set 
+
+assumptions on start-up time are set beyond the basic 
+assumptions on construction time given above. It is within 
+the dungeon master’s purview to rule that additional time 
+must be spent on business operations before revenue 
+starts coming in; however, for the sake of abstraction this 
+additional time can normally be ignored. It can be assumed, 
+for example, that a new business acquires saleable inventory 
+wholesale to start its sales process prior to its own inventory 
+being ready. Or perhaps the business engages in other, 
+shorter term activities outside of its normal operations to 
+help kick off its revenue streams. In any event, the process 
+of starting a business should be handled in the spirit of the 
+game: Fun and rewarding, not burdensome and punishing.
+
+9
+
+A GOING CONCERNCut-throat cultures gain access to the 
+
+espionage management action (see “Management 
+Actions” on page 16).
+
+Front
+One of the few examples of a business for which the primary 
+goal is not profit, a front is intended to conceal some other 
+activity behind a mask of routine commerce. This could be 
+an underground political resistance movement, a temple to 
+an outlawed religion, a devil-worshiping conspiracy, or any 
+other organization that needs to keep its existence a secret.
+
+Due to their lack of focus on actually running a successful 
+
+business, fronts gain no special abilities or benefits related 
+specifically to business; however, any employees of the front 
+gain advantage on stealth rolls made to disguise their true 
+activities as mundane operations of the business.
+
+innovative
+In many ways the opposite of traditional is the innovative 
+culture. A business with an innovative culture values 
+progress and finding new and better ways to do things, 
+whether it’s a manufacturing process or a sales technique.
+Having an innovative culture gives a business access to 
+the invention management action (see “Management 
+Actions” on page 16).
+
+none
+It’s entirely possible for a business to have no culture at all. 
+Having no culture imparts no particular benefit, however. In 
+practice, the only businesses that operate without a culture 
+are those that are in the process of changing their culture.
+
+traditional
+The most common culture in most campaigns, traditional 
+cultures value how business is done and who it is done 
+with over profits. A business that has been handed 
+down from generation to generation is likely to have 
+a traditional culture, but even newer businesses can be 
+traditional-minded.
+
+Because they are generally seen as low-risk, traditional 
+
+businesses pay only half normal interest costs (see 
+“Interest” on page 19).
+
+trendy
+When trade caravans and merchant vessels travel to distant 
+lands, they inevitably carry with them goods and ideas that 
+become popular for the simple reason of their novelty. 
+Businesses with a trendy culture latch onto these novelties 
+in order to profit from them. The difference between trendy 
+and innovative is that trends aren’t about doing anything 
+
+Business Culture
+Business Culture
+
+Not every tavern is run the same way. Nor 
+
+every blacksmith, guildhall, copper mine, or any 
+other sort of business. To help simulate this, 
+each business has a culture which provides an 
+ability or other benefit not enjoyed by 
+businesses with different cultures. When 
+
+starting a business, select one of the following cultures. If 
+purchasing an existing business, the DM can choose what 
+culture the business has, if any. The table below summarizes 
+the different cultures available and their benefit, if any.
+
+Business Cultures
+
+Culture
+Criminal
+Cut-throat
+Front
+Innovative
+None
+Traditional
+Trendy
+
+Benefit
+Sabotage action
+Espionage action
+Disguise advantage
+Invention action
+No benefit
+Interest discount
+Marketing advantage
+
+Criminal
+Some businesses are ethical, some are unethical, and some 
+are simply criminal. A criminal culture will break any law 
+in order to defraud a customer, undermine a competitor, 
+or otherwise break the rules in their own favour. In most 
+societies, such a business would quickly find itself at best 
+with no customers and at worst on the receiving end of 
+the local justice system. In a less lawful society, however, 
+a criminal culture may be the norm and caveat emptor the 
+general rule.
+
+A business with a criminal culture has access to the 
+sabotage management action (see “Management Actions” 
+on page 16). 
+
+Cut-throat
+For some businesses, morality is of little concern when 
+profits are at stake. This is known as having a cut-throat 
+culture. Customers are not always comfortable patronizing 
+businesses that wantonly display a lack of ethics, so most 
+cut-throat cultures try to present themselves as being 
+traditional or some other culture to help obfuscate their 
+shadier dealings.
+
+10
+
+A GOING CONCERNbetter, they’re just about doing things differently. And once 
+that difference becomes ordinary, the trendy business just 
+goes out and find a new trend.
+
+A trendy business gives its investors advantage when 
+they take the marketing action (see “Management Actions” 
+on page 16). 
+
+Changing Culture
+It has been said that it takes years to build a reputation and 
+only seconds to destroy it. For the purpose of these rules, 
+business culture can be changed in three months. (If your 
+campaign world doesn’t use ‘months’, substitute a similar 
+length of time appropriate to the world you’re playing 
+in). This represents the space of time required for the 
+change of direction from management to be adopted by the 
+business’s employees and, if applicable, recognized by the 
+business’s customers.
+Once the decision has been made to change a business’s 
+culture, the existing culture is immediately removed. While 
+the business has no culture, it loses access to any abilities 
+or benefits it received from its former culture. For three 
+months the business operates with no culture. On the fourth 
+month the business adopts its new culture and gains access to 
+whatever ability or benefit that culture imparts.
+
+the risk FaCtor
+
+the risk FaCtorNot every business venture is a profitable 
+
+one, and even successful businesses have bad 
+months. It takes someone with an 
+entrepreneurial spirit to be willing to risk the 
+perils of investment. Even among entrepreneurs 
+there are varying appetites for risk, though. 
+While the potential for loss exists in all businesses, some 
+types of business are inherently riskier – trading the 
+potential for great losses for the chance at great profit. The 
+metric for this potential is called the risk factor. It functions 
+as a coefficient, magnifying the profits or losses for riskier 
+businesses.
+
+Risk Factors
+
+Business Type
+Service
+Resource
+Manufacturing
+Resale
+
+Risk Factor
+x1
+x2
+x3
+x4
+
+Resale businesses have the highest risk factor. This is 
+because they carry significant inventory that they have to 
+purchase. If that inventory is lost at sea, stolen by bandits, 
+spoils due to age, or simply needs to be sold at a loss, the 
+investment suffers; however, resale businesses also have a 
+chance for large profits if they find buyers willing to pay a 
+premium for goods in short supply.
+
+Manufacturing operations are less risky, as their 
+inventories tend to be relatively smaller and aren’t 
+transported as often or as far. Resource operations are 
+less risky still, and service businesses the least risky 
+because they have little inventory and low expenses 
+in general. At the same time, labour rarely sells for a 
+premium, and so service businesses have a smaller 
+chance to produce large returns. 
+The table below summarizes the risk factors for 
+different business types.
+For businesses with a mixed type, the risk 
+factor should be averaged among the types 
+included. The resulting risk factor should 
+then be rounded up to the nearest whole 
+
+number. A service/ manufacturing 
+business would have a risk factor of (1 + 
+3) ÷ 2, or 2. A service/ manufacturing/ 
+resale business would have a risk 
+factor of (1 + 3 + 4) ÷ 3, which 
+rounds up to 3.
+Risk factor is used when 
+calculating a business’s return 
+on investment (see “Return on 
+Investment” on page 21).
+
+11
+
+A GOING CONCERNthe business owner completes these tasks is left somewhat 
+open. Generally, it’s best to determine random events early 
+in the month so that corrective management actions can be 
+planned, if necessary. That’s not to say that all random events 
+occur on the first of the month. Once the occurrences of the 
+month are known, it can all be considered when developing 
+a descriptive narrative that helps give life to the mechanics 
+given here (see page 13 for more thoughts on narratives 
+for business activity).
+
+market environment
+One of the sad truths of running a business is that many 
+factors that greatly influence the business’s success are 
+completely outside of the owner’s control. To simulate this, 
+for every month a business operates four aspects of the 
+market environment are randomly determined with a 3d6 
+die roll. These aspects of the environment are economic, 
+political, strife and competition.
+
+Consult the table above to determine the condition of each 
+
+market aspect for the month.
+
+Market conditions normally change slowly. It would 
+be unusual for the economy to be terrible one month, 
+outstanding the next, and back to terrible the month after. 
+The roll modifier column is used to simulate this. This 
+modifier doesn’t affect the current month’s roll, instead it 
+is used to modify the following month’s determination of 
+market conditions. For example, if the economic market 
+condition is propitious in one month, the next month’s check 
+for the economic market condition is made with a +4 bonus.
+
+It should be noted that these market conditions are 
+
+determined independently for every business, even 
+businesses that are located close to each other. At first 
+that might seem odd. One could expect these conditions 
+to be ubiquitous, that a shop on Maple Street wouldn’t be 
+experiencing a booming economy while a shop on Beech 
+Avenue suffers in a recession. The reason each business rolls 
+market environment independently is that the conditions 
+are meant to reflect the market relative to that specific 
+business, not relative to the market as a whole. It’s possible, 
+for example, for the iron horseshoe industry to be booming 
+while the linen tablecloths industry stagnates. More detail is 
+provided for each aspect of the market environment below.
+
+eConomiC
+If currency is the life’s blood of the economy, this market 
+condition determines the heart rate. The economic condition 
+reflects how much available money people have to spend 
+and how optimistic they are that they can afford to spend 
+it, rather than saving it for some unforeseen need. It also 
+
+operating a Business
+
+operating a BusinessAll businesses are assumed to be in 
+
+continuous operation, with the consideration 
+that shops are only open for normal business 
+hours, that caravans set up camp for the night 
+and so forth. The concept of a going concern 
+is that other than for normal interruptions, 
+
+a business is an enduring operation, one that functions 
+independently of the player character or player characters 
+who own it.
+
+While businesses operate continuously, generating 
+revenue and incurring expenses on an ongoing basis, 
+the results of business activity are accounted for using a 
+monthly cycle.
+
+the monthly Business CyCle
+Every business has an operating cycle. This cycle comprises 
+all the activity and time needed to gather materials, prepare 
+those materials for sale, conduct the sales process and begin 
+again. The specifics vary from one business to another. For 
+resource businesses, the procurement of materials occupies 
+most of the cycle, where preparation for sale and sales 
+processes are generally simple and quick. In resale businesses 
+the opposite is true, with the process of selling goods being 
+their principal effort. The time it takes to cycle through 
+these operations also varies. A bakery could conduct all of 
+its manufacturing and sales in a single day, starting each 
+day fresh with zero inventory. An iron mine might spend 
+many days building up an inventory of ore, only selling once 
+massive quantities have been accumulated.
+
+To smooth out these differences and allow for uniformity 
+
+in determining business results, a month is used as the 
+common denomination of time to meaningfully aggregate 
+profits or losses. Every month that the business is in 
+operation, a combination of market environment, 
+management actions and random events determines the 
+relative success of the business in that month.
+
+Every month, a business owner will generally do 
+
+the following:
+
+ » Determine the market environment;
+ » Check for random events;
+ » Declare and resolve any management actions;
+ » Calculate all the impacts to the business’s ROI;
+ » Determine the closing gross investment;
+ » Calculate the net profit or loss.
+
+These steps are given a detailed treatment starting on 
+page 21. The specific timing during the month as to when 
+
+12
+
+A GOING CONCERNMarket Environment
+
+3d6
+16 or higher
+13-15
+9-12
+6-8
+5 or lower
+
+Condition
+Propitious
+Favourable
+Neutral
+Unfavourable
+Adverse
+
+ROI Impact
++3%
++1%
+none
+-1%
+-3%
+
+Roll Modifier
++4
++2
+none
+-2
+-4
+
+measures how much wealth is flowing into a local economy, 
+whether from trade surpluses as merchant caravans roll into 
+the area, nobles lavishly spending, or adventurers enjoying 
+the sudden wealth that occupation sometimes bestows.
+
+politiCal
+Governmental policy can have a dramatic effect on business. 
+The two most obvious examples are taxes and trade tariffs, 
+which can directly impact the bottom line of all businesses. 
+The political climate goes beyond these examples, though. 
+Governments often intervene in culture and commerce with 
+sumptuary laws, property use restrictions, asset seizures 
+under martial law or eminent domain laws, trade embargoes, 
+and a vast number of other possibilities.
+
+striFe
+Nothing puts more of a sudden damper on commerce than a 
+condition so dangerous people refuse to engage in commerce 
+out of fear for their own safety. Strife is a catch-all market 
+condition for such events as wars, extreme weather, riots, 
+rampant crime, or any condition that can likely be considered 
+imminently dangerous.
+
+It’s important to keep in mind how different situations 
+
+relate to a given business, however. A war is likely to 
+dampen trade and reduce harvests, but the weapon 
+and armour smiths suddenly see their profits increase 
+enormously. Monsoon season might flood the local mine, but 
+the roadside inns do a roaring trade with people desperate to 
+get off the muddy roads and into a warm bed. 
+
+Competition
+If there are profits to be had, one business will rarely 
+be left alone to take them all for itself. Inevitably, other 
+entrepreneurs step in with ventures of their own and a 
+competitive environment results. This is great for the 
+consumer, as competition tends to increase selection and 
+quality while driving down prices, but it’s not so great for the 
+business owner watching someone steal his customers.
+
+developing a narrative For market Conditions
+From a strictly mechanical perspective, it isn’t necessary to 
+describe the market conditions a business is experiencing any 
+further than the propitious-through-adverse scale given in 
+the market condition chart. From a role-playing perspective 
+however, and to integrate the business more fully into the 
+ongoing events of the campaign, it can be advantageous to 
+build a narrative.
+
+Once the market conditions for a month have been rolled, 
+imagine them relative to the operations of the business. All 
+conditions are relative, so a propitious condition can mean 
+something very different for different businesses. Consider 
+the following example:
+
+A copper mine operates in the hills a few miles from 
+a mid-size town. In a given month, the mine’s economic 
+condition is favourable, political is propitious, strife is 
+unfavourable, and competition is adverse. One possible 
+narrative for this is that commerce in town is strong and 
+demand for copper is good, aided by the fact that the local 
+baron has eliminated taxes and tariffs on metal production 
+in order to stimulate the industry. So far, it’s looking like a 
+good month. Unfortunately, bandit raids have been delaying 
+shipments of ore to the smelter in town. Also, the baron’s 
+incentives seem to be working too well as a rival mine just 
+started operating not far away.
+
+In the next month, the economic situation is unchanged 
+
+at favourable. The political situation drops to neutral 
+while strife drops to adverse and competition improves to 
+unfavourable. The demand for copper is as strong as ever, 
+but it seems the baron had been losing too much revenue and 
+has re-instituted normal taxes and tariffs. The adverse strife 
+condition indicates that those bandit raids have gotten a lot 
+worse, seriously hindering access to the smelter. That rival 
+mine seems to be struggling as well… could it be that the 
+bandits are in their employ?
+
+See “Adventure Hooks” on page 27 for more 
+ideas on tying business ownership to the player 
+characters’ adventures.
+
+13
+
+A GOING CONCERN14
+
+A GOING CONCERNrandom events 
+random events 
+
+Unexpected occurrences can have a 
+
+significant impact on a business’s 
+performance, for good or for ill. Every month 
+that a business is operating, roll 1d6. If the 
+result is a 6, a random event has occurred. 
+Roll 2d6 and consult the random events table 
+
+to see which specific event.
+
+Random Events
+
+2d6
+2-3
+4-5
+6
+7
+8
+9-10
+11-12
+
+Event
+Devaluation
+Malfunction
+Cancelled contract
+Theft
+Illness
+Fair
+Appreciation
+
+devaluation
+The assets of the business have decreased in value. This 
+might be due to changes in land value, increasing cost of 
+replacing tools and equipment, obsolescence of the business’s 
+products or services, or some other cause. Whatever the 
+reason, the business is now worth less than it was previously. 
+Roll 2d6 and decrease the gross business investment by 
+that percentage. For example, on a roll of 8, a 1,000-gold 
+investment would become a 920-gold investment. This 
+change takes place prior to calculating return on investment 
+for the month.
+
+malFunCtion
+Something has gone wrong with one of the business’s critical 
+assets. Most likely this is a piece of equipment, a tool, or 
+possibly a building structure, but whatever broke is going to 
+cost the business money until it can be repaired or replaced. 
+A Malfunction reduces the return on investment of the 
+business by 5%. This loss persists every month thereafter. 
+If this event is rolled again, the return on investment 
+adjustment is added again, making the return on investment 
+adjustment a net negative 10%. This continues if further 
+malfunction events occur, with no limit to how large the 
+negative adjustment to the business’s returns can become. 
+Successful completion of the maintenance management 
+action removes these adjustments (see “Management 
+Actions” on page 16).
+
+CanCelled ContraCt
+The business has lost a major customer, either due to a 
+formal cancellation of a contract or some other loss of a 
+prior business relationship. This reduces the return on 
+investment of the business by 5%. This loss persists every 
+month thereafter. If this event is rolled again, the return on 
+investment adjustment is added again, making the return on 
+investment adjustment a net negative 10%. This continues 
+if further cancelled contracts events occur, with no limit to 
+how large the negative adjustment to the business’s returns 
+
+can become. Successful completion of the negotiation 
+management action removes these adjustments (see 
+“Management Actions” on page 16).
+
+theFt
+The business has fallen victim to thieves. All businesses must 
+eventually deal with the shoplifters, fraudsters, and robbers 
+who make a living taking what belongs to others, but this 
+theft was significant enough to visibly reduce the concern’s 
+profits for the month. Return on investment is decreased by 
+5% for this month only.
+
+illness
+A contagious sickness has spread among the employees 
+of the business. It probably isn’t fatal, but it does reduce 
+the capabilities of the workers to the bare minimum. No 
+management actions may be performed by the business 
+in the month where an illness event occurs. In the event a 
+management action was already in progress, it ends without 
+taking effect.
+
+Fair
+Fairs attract merchants, artisans, and most importantly 
+customers from a wide area. Any business in the area when 
+a fair takes place can be sure to benefit from the increased 
+activity, as the festive atmosphere and exotic goods entice 
+buyers and loosen purse strings. A fair increases the 
+economic market condition by two grades, to a maximum 
+of propitious, in the current month only (although the 
++4 roll modifier to the next month’s economic market 
+condition likely extends the benefit of a fair beyond the 
+current month).
+
+appreCiation
+This event is identical to devaluation, except that 
+circumstances have conspired to increase the invested value 
+of the business rather than decrease it. The reasons for 
+this are similar to those listed for devaluation, simply with 
+the effect of being beneficial rather than harmful to the 
+business’s value. Roll 2d6 and increase the gross business 
+investment by that percentage. On a roll of 11, for example, 
+a business with a gross investment value of 1,000 gold would 
+become a 1,110-gold piece business. This change takes place 
+prior to calculating return on investment for the month. 
+
+Adding Percentages
+Throughout these rules, many possible adjustments to return on 
+investment are given. This is typically shown as a plus or minus 
+to a percentage, such as +2% or -1%. These adjustments are 
+intended to be incremental or decremental to the whole integer 
+value of the percentage they modify, not literal percentage-
+based adjustments.
+
+For example, a base ROI of 10% that is adjusted by +2% is 
+properly calculated as 12%, not as 10.02%. Similarly, an ROI of 
+15% modified by a -1% ROI impact becomes 14%, not 14.99%.
+
+15
+
+A GOING CONCERNmanagement aCtions
+management aCtions
+
+A business owned by a player character 
+
+operates whether she is around or not by 
+virtue of the fact that it is an independent 
+going concern. The advantage to the player 
+character actually being around to run the 
+business instead of letting the employees 
+
+take care of everything is that a player character is capable of 
+taking management actions to help boost the profitability of 
+the business.
+
+Possible management actions are listed on the 
+
+management actions table.
+
+Taking a management action requires the owner to make 
+
+an ability check. The specific ability for each management 
+action is listed on table 6. The base DC for all management 
+actions is 30. Every day (minimum of 8 hours) spent on the 
+action reduces the DC by 1, to a minimum DC of 5. The 
+ability check is always made after the time has been invested, 
+never before or during. 
+
+A business can only attempt one management action at a 
+
+time. If the business has more than one owner, one of the 
+owners can use the help action to give the player character 
+attempting the management action advantage on her roll; 
+however, the helper must spend the same or a greater 
+amount of time on the management action as the player 
+character making the roll. Attempting management actions 
+or helping another attempt a management action is restricted 
+to player characters who own at least 10% of the business’s 
+total investment.
+
+Time invested in management actions can carry over 
+from month to month; that is, a player character could 
+spend the last 5 days of a month working on a management 
+action, then continue spending another 10 days in the next 
+month in order to make the management action check with 
+a DC of 15. The time spent on management actions must 
+be contiguous – if any day passes without the management 
+action being worked on, the management action ability check 
+must be made at that point or else the count of days spent on 
+the action starts over. The result of the management action 
+always effects the month in which the management action 
+is completed.
+
+Under some circumstances, the dungeon master may 
+increase or decrease this DC. For example, if a business 
+
+attempts the same management action month after month, 
+the dungeon master could rule that such repeated attempts 
+have a diminishing effectiveness and increase the DC to 
+compensate, or simply disallow the action.
+
+Refer to the management action checks table to gauge the 
+
+results of the management action. 
+
+The descriptions of the different kinds of management 
+
+actions below detail the specific outcomes for each 
+type of result.
+
+ContraCt laBour
+The contract labour action allows an investor to bring in 
+a skilled worker to perform management actions on her 
+behalf. This worker acts like a consultant, working alongside 
+the business owner, providing guidance in areas the owner 
+lacks expertise.
+
+In order to take the contract labour action, select any other 
+management action for the consultant to perform (assuming 
+the action is allowed by the business’s culture). That action 
+is carried out as normal, with the owner choosing how 
+many days to spend on the action and an ability check being 
+made to determine the success or failure of the attempt. 
+The difference is that with the contract labour action, the 
+ability check is made using the consultant’s ability score 
+instead of the owner’s. This ability score is assumed to be 
+16 (for a +3 bonus on the ability check). Since the owner 
+is considered to be helping the consultant, the check is also 
+made with advantage.
+
+The only drawback to using the contract labour action is 
+cost: For every day the consultant works on the requested 
+management action, the business must pay 3 gold pieces. 
+This cost is paid at the end of the action, in the month the 
+ability check is made, irrespective of the outcome of the 
+check. The total cost is subtracted from the month’s profit 
+(or added to the month’s loss).
+
+Example: A flour mill is in need of maintenance, but 
+the owner of the mill, Thurg the Thick, has doubts about 
+his odds of successfully carrying out an Intelligence-based 
+maintenance action. Thurg instead takes the contract labour 
+action, requesting the hired consultant to oversee the 
+maintenance. He hires the consultant for 15 days. When the 
+management action check is made, it is against DC 15 using 
+the consultant’s Intelligence of 16, with advantage. The mill’s 
+return on investment for the month will be reduced by the 
+45-gold consultant’s fee (15 days times 3 gold per day).
+
+Management Actions
+
+Management 
+Action
+Contract labour
+Espionage
+Expansion
+Invention
+Maintenance
+Marketing
+Negotiation
+Sabotage
+Training
+
+Ability
+Special
+Wisdom
+Intelligence
+Intelligence
+Intelligence
+Charisma
+Charisma
+Wisdom
+Wisdom
+
+Effect
+Substitute management action ability score
+Improves competitive environment
+Build a new or expand an existing business
+Improves investment value
+Reduces malfunctions
+Improves ROI
+Reduces cancelled contracts
+Improves competitive environment
+Grants advantage on management actions
+
+16
+
+A GOING CONCERNIf an expansion check is failed, the investment rate slows 
+to 100 gold per day. If the result is a catastrophic failure, the 
+project has been so mismanaged that the rate of investment 
+drops to zero – no progress has been made.
+
+This management action can also be used in the 
+
+construction of a new business (see “Starting from Scratch” 
+on page 9). Keep in mind that there is no inherent 
+minimum or maximum number of days this action can be 
+attempted over, so it might be advantageous to break up the 
+action over a number of separate attempts to minimize the 
+risk of losing significant time to a catastrophic failure.
+
+As previously mentioned, expansion management action 
+
+checks are made using Intelligence.
+
+invention
+By today’s standards, where products are obsolete within 
+months and new advancements are announced daily, 
+the rate of progress in a medieval economy would seem 
+astonishingly slow. Still, technology does march on at a 
+measured pace and businesses that focus on improving 
+their products and processes can benefit greatly. Only a 
+business with an innovative culture can attempt an invention 
+management action.
+
+When a business owner attempts an invention action, she 
+makes an Intelligence ability check. If the result is a success, 
+a meaningful advancement has been made, improving the 
+business in a measurable way. This is simulated by increasing 
+the size of the business’s gross investment by 2%. Should the 
+result be an outstanding success, the increase is instead 4%. 
+For example, a 1,000-gold piece investment value would 
+
+Management Action Checks
+
+Ability Check
+Exceed DC by 5 or 
+more
+Meet or exceed DC
+Fail to meet DC
+Fail by 5 or more
+
+Result
+
+Outstanding success
+
+Success
+Failure
+Catastrophic failure
+
+If 3 gold pieces per day is too steep a price, a consultant 
+can be hired for 2 gold per day, but his ability score is only 14 
+for the purpose of management actions. At 1 gold per day, a 
+consultant with an ability score of 12 can be hired.
+
+espionage
+Most people think of spies as the agents of military or 
+governmental organisations, but industrial espionage 
+has existed for almost as long. Spying on competitors 
+can have a number of benefits, including learning of 
+marketing or expansion plans, discovering the identity of 
+backers or silent partners, and uncovering secret recipes, 
+manufacturing techniques, trade routes, and customer 
+lists. Because of the ethical implications of spying, only a 
+business with a cut-throat culture may conduct an espionage 
+management action.
+
+A successful espionage action improves the competition 
+
+market condition by one grade (unfavourable becomes 
+neutral, neutral becomes favourable, and so forth). An 
+outstanding success increases the competition market 
+condition by two grades. On a failed check there is no 
+impact, but on a catastrophic failure the information 
+gathered is misleading and the competition market condition 
+worsens by two grades. This effect lasts only a single month 
+(although the bonus or penalty to the subsequent month’s 
+market environment rolls can prolong the benefits or 
+penalties associated with attempting espionage). Note that 
+the best possible market condition is propitious and the 
+worst possible is adverse, irrespective of the outcome of an 
+espionage action.
+
+Espionage actions are resolved using a Wisdom 
+
+ability check.
+
+expansion
+Most successful businesses will eventually want to grow. 
+Such growth is represented by an increase in the total 
+invested value of that business. Added investment requires 
+the oversight and expenditure of funds of the owner. The 
+base amount of investment that can be added to a business 
+is equal to 150 gold pieces per day. This represents the time 
+needed for new construction as well as all related activity like 
+training new staff, acquiring new land, expanding inventory, 
+and so forth.
+
+While time must be spent on the expansion action in order 
+
+to grow an investment at the 150-gold base rate, no ability 
+check is required. It is possible to expand more rapidly by 
+making an Intelligence check. On a successful check, the 
+rate of expansion increases to 400 gold per day. With an 
+outstanding success, the expansion rate increases to 1,000 
+gold per day. This reflects the player character’s ability to 
+oversee larger and more complex construction processes.
+
+17
+
+A GOING CONCERNModifying Rate Percentages for Different Calendars
+
+Throughout these rules, percentage rates are used for the 
+calculation of return on investment and interest expense. These 
+rates are presented in all cases as annual rates. (This is why 
+calculations for interest expense and ROI require you to divide by 
+12 – it reduces the annual amount down to a monthly amount). 
+Annual rates are used because they’re easily understood: In 
+the real world, if you’re given a percentage rate it will almost 
+invariably be an annual rate.
+
+This works well in real life, and it works well in a Dungeons & 
+Dragons campaign set in the Forgotten Realms. In Faerûn, the 
+year is also 365 days, divided into 12 months roughly analogous 
+to a real calendar (for purposes of accounting for a business in 
+the Forgotten Realms, ignore any special calendar days that fall in 
+between months).
+
+However, if your campaign takes place in a setting with a 
+different sort of calendar, these assumptions may not work as 
+well. A different setting could, for example, have a year that’s 
+only 200 days long, divided into five months of 40 days each. 
+Or it might not have months at all. A world with no moon, for 
+instance, would likely have the year divided into seasons or some 
+other grouping of days rather than a period roughly analogous to 
+the phases of the moon.
+
+In cases where a campaign uses an unusual calendar, a little bit 
+
+of math is needed to translate the rates provided in these rules 
+into percentages usable in another setting.
+
+Fundamental to this math is a simple concept – the 
+
+percentages given herein are meant to represent 365 days of 
+business activity, more or less. In order to translate them to 
+another time frame, simply divide the rate by 365 and multiply it 
+by whatever new period you desire.
+
+For example, the world of Zurris has a smaller orbit than 
+Earth. Its year is only 310 days long. Lacking a moon, the people 
+of Zurris have never considered the concept of a month. Instead, 
+they divide the year into the four seasons, each being 77 days 
+long, with an extra day at mid-summer and mid-winter. The 
+Zurran calendar divides these seasons into 11 weeks of 7 days 
+each. For this example, many of the concepts used in these rules 
+would not work properly. The basic concept of annual rates 
+needs to be adjusted, as does the idea of accounting for business 
+operations on a monthly basis.
+
+To correct the annual percentage rates, use the rate of a single 
+
+day as the basis. In this example, if the ROI was determined to 
+be 14%, we could restate that as a daily rate of 0.0384% (14% 
+÷ 365). Multiply that by the number of days in a Zurran year 
+gives us a Zurran year equivalent rate of about 11.9% (0.0384% 
+x 310). (If you’re comfortable doing so, you could do this in one 
+step by multiplying 14% by 310/365).
+
+We would use this conversion method when calculating ROI 
+and interest expense, and we would also likely divide the year 
+into something other than 12 periods, since the Zurran calendar 
+doesn’t work that way. We could have 4 periods, corresponding 
+to the seasons, 44 periods, corresponding to the weeks, or 
+something in between. Whatever period you choose, substitute 
+the number of periods in a year for 12 when calculating ROI 
+or interest. For instance, if accounting for business on Zurris 
+seasonally, you would convert the percentage rates as outlined 
+above and divide the result by 4 to determine the result for a 
+single season.
+
+For the purpose of calculating goodwill, use the number of 
+periods in a year multiplied by 2 in place of 24 in the goodwill 
+calculation formula.
+
+become a 1,020-gold investment on a successful invention 
+action, or 1,040 gold pieces on an outstanding success.
+
+On a failed invention check, no change to the business’s 
+investment value occurs; however, on a catastrophic failure 
+the invested value of the business instead decreases by 4% 
+as a promising development turns out to actually leave the 
+concern worse off than it was doing things the old way.
+
+These changes to the investment value of the business are 
+applied prior to calculating the return on investment for the 
+month, so they have an immediate effect on profits or losses.
+As mentioned above, invention management action checks 
+
+are made using Intelligence. 
+
+maintenanCe
+All businesses must put some effort into keeping their assets 
+in working condition. Retail outlets try to keep the shop 
+presentable for customers; workshops keep the tools in 
+working order, and so on. While a certain ambient level of 
+care and attention to an investment’s assets is expected as 
+part of routine operations, the maintenance management 
+action involves a more directed and strenuous effort to keep 
+the business functioning at peak efficiency, over and above 
+what the staff are able to organize without direct input 
+from the owner.
+
+The effects of one or more malfunction random events 
+
+that have already occurred are removed by a successful 
+maintenance action; otherwise this action negates the next 
+malfunction random event that occurs. An outstanding 
+success has the same effects, but also negates one additional 
+malfunction random event in the future.
+
+A failed maintenance attempt has no effect – any future 
+malfunction event occurs as normal and any current effects 
+of malfunction events continue. A catastrophic failure 
+indicates a maintenance action so poorly conducted it 
+immediately results in a malfunction event occurring (see 
+under “Random Events” on page 15).
+
+Maintenance management action checks are made using 
+
+Intelligence.
+
+marketing
+Marketing involves attempts to establish or improve a 
+business’s relationship with its customers. This often takes 
+the form of advertising for new customers or socializing with 
+existing customers.
+
+A successful marketing action directly improves the 
+business’s return on investment by +2% in the month the 
+action is completed. An outstanding success instead increases 
+the return on investment by +4%.
+
+If a marketing attempt results in a failure, no ROI change 
+takes place. Unfortunately, if a catastrophic failure occurs the 
+marketing effort was so botched it results in a -4% change to 
+that month’s return on investment.
+
+All marketing management action checks are made 
+
+using Charisma.
+
+negotiation
+This action reflects the efforts of a business to set the 
+best possible terms in its customer relations. This might 
+be formal contract negotiations, re-establishing business 
+relations with former clients, or simply haggling over prices.
+
+18
+
+A GOING CONCERNIf a business is suffering the effects of one or more 
+
+Sabotage actions are resolved using a Wisdom 
+
+cancelled contract random events, a successful negotiation 
+action negates those effects; otherwise it negates the next 
+cancelled contract random event that occurs. An outstanding 
+success has the same effect, but also negates one additional 
+cancelled contract random event in the future.
+
+A failed negotiation attempt has no effect – any future 
+cancelled contract event is not negated, and any current 
+effects of a cancelled contract event continue uninterrupted. 
+A catastrophic failure indicates a negotiation attempt so 
+inept it immediately results in a cancelled contract event 
+occurring (see under “Random Events” on page 15).
+Negotiation management action checks are made 
+
+using Charisma. 
+
+saBotage
+Unethical and illegal, sabotage can also be very effective. 
+This action is only available to those businesses that 
+have a criminal culture. The effects of sabotage have 
+much in common with espionage – both involve directly 
+undermining competitors. Where espionage is subtle, 
+however, sabotage is anything but, instead attempting 
+to directly harm competing businesses by damaging or 
+destroying their assets.
+
+A successful sabotage action improves the competition 
+
+market condition by one grade (unfavourable becomes 
+neutral, neutral becomes favourable and so forth). An 
+outstanding success increases the competition market 
+condition by three grades.
+
+On a failed check the competition market condition 
+is unchanged, but the political environment worsens by 
+one grade. On a catastrophic failure, the political market 
+condition worsens by three grades. This reflects the impact 
+of fines and other sanctions, possibly including prison terms 
+for employees, brought by local authorities in response to the 
+business’s illegal activities. Note that the best possible market 
+condition is propitious and the worst possible is adverse, 
+irrespective of the outcome of a sabotage action.
+
+ability check.
+
+training
+Time invested in developing the skills of employees is rarely 
+wasted, as a skilled workforce is capable of handling all 
+eventualities better than an amateurish one. A successful 
+training management action gives the business advantage on 
+the next management action attempted after the training is 
+complete. An outstanding success instead gives advantage on 
+the next 3 management actions attempted. 
+
+A failed training action has no negative repercussions, 
+but a catastrophic failure means the staff are so confused 
+by what the owner attempted to teach them the business 
+gets disadvantage on its next management action after the 
+training is complete.
+
+Training management actions are resolved using Wisdom 
+
+as the relevant ability.
+
+interest
+interest
+
+Under certain circumstances, a business 
+
+may choose to (or be forced to) take on debt. 
+This is most often the result of unprofitable 
+operations, where business costs need to be 
+covered by short term loans (see “Debt” on 
+page 23). Under a capitalist economy, debt 
+
+can also be used to purchase an investment (see “Feudal and 
+Capitalist Economies” on page 26).
+
+Any time a business begins a month with a debt balance, 
+interest expense must be calculated. This expense reduces the 
+net return on investment of the business in that month. To 
+calculate interest expense, multiply total debt at the month’s 
+beginning by 20% and divide by 12, rounding down to the 
+nearest copper piece.
+
+19
+
+A GOING CONCERN20
+
+A GOING CONCERNgoodwill
+
+goodwillIn modern parlance, goodwill is the 
+
+intangible value of a business over and above 
+the direct value of its assets less its liabilities. 
+The reason a business is typically worth 
+more than the equity on its balance sheet is 
+that when a business has a proven ability to 
+generate a favourable return, that profitability is factored 
+into the business’s value. Note that this is for purpose of the 
+business’s selling value, not its investment value used for 
+monthly return on investment calculations.
+
+All businesses begin with a goodwill value of 10%. Every 
+
+month take the business’s calculated ROI (see “Return on 
+Investment” on page 21) and subtract the business’s 
+current goodwill from it. Use ROI, not risk-weighted ROI. 
+Divide the result by 24 and round down to a single decimal 
+place. That result is added to the prior goodwill to determine 
+the revised goodwill. Since this is done every month the 
+business operates, the business’s goodwill value is always 
+fluctuating based on its profitability from month to month.
+For example, if a business with a goodwill value of 14% 
+
+experiences an ROI of 18% in a particular month, the 
+recalculation of goodwill would be:
+
+( [18%-14%]÷24 )  +14%=14.2%
+
+If the business had experienced an ROI lower than 
+its current goodwill, its recalculated goodwill would 
+decrease. For instance, if a business with a goodwill value 
+of 14% experiences an ROI of 6%, the recalculation of 
+goodwill would be:
+
+( [6%-14%]÷24 )  +14%=13.7%
+Goodwill is principally used in instances of divestiture (see 
+
+“Divestiture” on page 23).
+
+return on investment 
+return on investment 
+
+At the end of every month a business 
+
+operates, the owner (or owners) must 
+calculate the return on investment. If the 
+business has more than one owner, any 
+owner who is a player character performs this 
+calculation on behalf of all owners. Multiple 
+player character owners can decide among themselves who 
+will calculate returns for the month. 
+
+In the real world, to determine a business’s profitability 
+you would prepare a financial statement showing revenues 
+and expenses. Revenues include all the income generated 
+by the different activities the business engages in. Expenses 
+encompass all the costs the business incurs to operate. 
+Some examples are wages for employees, rent, and the cost 
+of materials and supplies, although there are many more 
+possibilities. The difference between revenue and expense 
+is the business’s  profit or loss. Return on investment, in 
+the real world, is determined by dividing that profit or loss 
+amount by the business’s total investment value to arrive at a 
+percentage that describes the extent to which the business is 
+succeeding and meeting its goals.
+
+In these rules, we avoid the need to track the minutia of 
+sales and purchases by determining the return on investment 
+
+directly. Concepts like market environment, random 
+events, and management actions combine to produce the 
+ROI percentage, which is then multiplied by the business’s 
+investment value to determine profit or loss. Return on 
+investment and the resulting profit or loss are calculated 
+using the 13 steps below.
+
+step 1: Base return on investment
+Base ROI is assumed to be 10% for all businesses. This is 
+due to a simple fact: No one wants to invest in a business 
+likely to generate a poor return, or worse yet to operate at 
+a loss. Because of this, all business ventures are presumed 
+to be capable of generating a modest yet healthy return of 
+10% on their investment, subject to considerable variability 
+as outlined in these rules. Note that the interest rate is an 
+annual one – hence when calculating profit or loss for the 
+month, the result is divided by 12.
+
+step 2: market environment
+Roll for the four elements of market environment: economic, 
+political, strife and competition, as outlined on page 12. 
+Remember that these market conditions may be altered by 
+random events or management actions, which are covered in 
+steps 3 and 4.
+
+step 3: random events
+Determine if a random event occurs, and if so, follow the 
+instructions for the specific event as given on page 13.
+
+step 4: management aCtions
+For any management actions concluding this month, resolve 
+their outcome as described beginning on page 16.
+
+step 5: Finalize market environment
+Revisit the market conditions determined in step 2 and 
+modify them if necessary, based on the outcomes of 
+steps 3 and 4.
+
+step 6: Finalize investment
+Determine the final gross value of the business’s investment. 
+Remember that this is the gross investment representing 
+all ownership, not just the ownership portion of the 
+player character calculating the ROI. Random events and 
+management actions can also modify the investment, so 
+consider those as well if applicable.
+
+step 7: Finalize return on investment
+Sum the base ROI given in step 1 with the ROI impacts of 
+the finalized market environment determined in step 5. Also, 
+add any other ROI adjustments per the effects of random 
+events and management actions, if applicable.
+
+step 8: apply risk FaCtor
+Multiply the finalized ROI determined in step 7 by the 
+business’s risk factor to determine the risk-weighted return 
+on investment.
+
+step 9: determine gross return
+Multiply the risk-weighted ROI from step 8, positive 
+or negative, by the finalized gross investment total 
+determined in step 6. Divide the result by 12 and round 
+
+21
+
+A GOING CONCERN 
+monthly perFormanCe
+monthly perFormanCe
+
+Once the results of business for the 
+
+month are known, it becomes necessary 
+to take stock of the situation and make 
+a judgement of the best path forward. 
+Ideally, the business is successful, and 
+operations will continue, but this isn’t 
+
+always the case. The monthly performance of a business is 
+defined as one of the concepts expanded on below: profit, 
+reinvestment, debt, shrinkage, divestiture, or bankruptcy.
+
+proFit
+If business operations proceed as they should and the market 
+conditions aren’t overly unfavourable, any business should be 
+able to realize a profit. Profit is the default result of monthly 
+operations – it’s the reason people start businesses in the first 
+place. If the return on investment in a month is anything 
+greater than zero, and interest and other costs don’t exceed 
+gross returns, the monthly performance is profit. In this 
+situation, the owner would pocket the profits for herself 
+(or have them held for her until she returns) and continue 
+business as usual in the next month.
+
+When a business has more than a single owner, the profits 
+
+need to be split among the owner group (see “Profit and 
+Loss Considerations for Shared Investments and Business 
+Combinations” on page 24).
+
+reinvestment
+When revenues are less than expenses, the result is a loss; 
+if ROI is negative, this is what has happened. Hopefully this 
+doesn’t happen often, but when it does the bills still need 
+to be paid if business is going to continue. Reinvestment is 
+often the best option in this case. This represents the owner 
+
+down to the nearest copper piece to determine gross return 
+on investment.
+
+step 10: CalCulate interest
+If the business carried any debt at the start of the month, 
+calculate the interest expense as described on page 19.
+
+step 11: determine net return
+Reduce gross return by the amount of interest expense, as 
+well as the amount of any other adjustments such as contract 
+labour costs. This final amount is the business’s net return 
+for the month.
+
+step 12: determine monthly perFormanCe
+Dependant on the net return, the monthly performance 
+can be profit, reinvestment, debt, shrinkage, divestiture, or 
+bankruptcy. See “Monthly Performance” on page 22 for a 
+description of these results.
+
+step 13: update Business sheet
+The business sheet needs to be updated with the current 
+state of the business after every month end (see “Appendix: 
+The Business Sheet” on page 33). This is important as 
+the results from one month directly influence the next 
+month when it comes to rolling for market environment, 
+and various other factors such as debt, goodwill, and 
+management actions should be tracked as well.
+
+22
+
+A GOING CONCERNor owners stepping in with additional funds to ensure the 
+business stays viable.
+
+The amount of reinvestment needed is equal to the 
+
+amount of the loss the business sustained in the month. If the 
+net return for the month is a loss of 50 gold pieces, a 50-gold 
+piece reinvestment is needed to keep the business running. 
+Despite the name, it should be noted that reinvestment 
+does not in any way change the gross investment value 
+of the company – instead is stops that investment value 
+from decreasing.
+
+If the business has multiple owners, the cost of 
+
+reinvestment should be split among them (see “Profit and 
+Loss Considerations for Shared Investments and Business 
+Combinations” on page 24).
+
+One final consideration for reinvestment is the availability 
+
+of funds. If the owner lacks the cash needed to pay for the 
+reinvestment, this option is unavailable. Similarly, if the 
+owner is absent (perhaps off on an adventure somewhere), 
+she may not be able to contribute the funds needed to make 
+this a viable option.
+
+deBt
+When funds for reinvestment aren’t available, the next 
+best option may be to borrow funds on a short-term basis. 
+Money lenders in a medieval economy tend to charge very 
+high rates of interest by modern standards – but incurring 
+some interest expense is often better than losing all or part of 
+an investment.
+
+Debt can also be used in combination with reinvestment 
+or shrinkage. If monthly losses totalled 20 gold pieces, for 
+instance, the owner could pay 10 out of pocket and take on 
+10 gold pieces of debt to cover the remainder.
+
+In general, debt is assumed to always be available. There 
+
+is a limit to the amount money lenders are willing to 
+extend, however, before the risk of the loan becomes too 
+great: No business may carry debt in excess of its gross 
+investment value. 
+
+shrinkage
+If reinvestment and debt are not available, or not desirable, 
+the next option is shrinkage. This reflects the business being 
+forced to pay its costs by selling off assets, shrinking the 
+workforce, bartering with its own inventory, or some other 
+means of keeping the business afloat by trading part of itself 
+away. Using this option, the gross investment of the business 
+decreases by the amount of the month’s losses.
+
+divestiture
+Divestiture is a fancy word for selling a business, or part 
+of a business. An owner may sell for many reasons, such 
+as to free up funds for some other venture or to stop the 
+bleeding if ongoing losses are becoming unsustainable. Using 
+this option, the owner sells off as much of the investment 
+as she chooses, using the proceeds to pay the business’s 
+losses. It’s worth noting that divestiture can occur even if 
+the business is profitable – you can sell your business any 
+time you choose.
+
+The basic assumption is that an investment sells for its 
+own investment value. Selling a 500-gold piece business, 
+or a 500-gold piece portion of a larger business, should net 
+
+Discounts and Personal Use
+When the player characters run their own business, the 
+temptation will often exist to make personal use of the assets 
+and merchandise. A weapon shop offers an inviting inventory of 
+goods for adventurers, for instance. An inn is a welcoming place 
+to eat and rest for free. A mercenary outfit could provide hired 
+swords to aid an adventuring party in their battles.
+
+As a general rule, any use player characters make of businesses 
+
+they own should be at the standard rates and prices as given in 
+the PLAYER’S HANDBOOK and other supplements. It might seem 
+strange that a character who owns a business can’t get a discount 
+on its products, but there is a good reason for this.
+
+The most important idea to consider regarding discounts is 
+that the goods and services a business offers are not without 
+cost to that business. Inventory costs money to stock, and 
+employees providing services expect to be paid. Because of 
+this, any free services or discounted goods would represent a 
+direct diminishment of the business’s profits for that month. In 
+other words, the players could take liberties with the products 
+of their businesses, but the cost of such use would need to be 
+subtracted from the gross profits of the business at month end 
+anyhow, meaning that the net impact would be no savings at all. 
+In a situation where the business has multiple owners this is even 
+more serious as it would essentially mean the player character 
+was stealing from his partners.
+
+To avoid this complexity and the resulting negative 
+
+implications, the rule therefore is that player characters pay for 
+goods and services just like everyone else, irrespective of the 
+investments they own.
+
+you 500 gold pieces. The amount gained is reduced by the 
+amount of any debt the business is carrying (assuming the 
+debt is divested along with the business – if the business is 
+only partially divested and retains all of its debt, the proceeds 
+need not be reduced).
+
+The divestiture amount also needs to be adjusted by 
+the business’s current goodwill (see page 21 for detail 
+on goodwill). Take the goodwill percentage, multiply it 
+by the amount of investment being divested, and that 
+amount (positive or negative) is added to the total proceeds 
+of divestment.
+
+For example, a 1,200-gold investment with 150 gold 
+
+worth of debt and a 13% goodwill would calculate its 
+selling value as:
+
+1,200-150+(1,200×13%)=1,206 gold
+
+BankruptCy
+The final option, should all else fail, is to simply walk away. 
+Using the bankruptcy option, the gross investment value of 
+the business falls to zero and it ceases to exist.
+
+For business combinations, generally no special provisions 
+
+need be made for bankruptcy. If a single enterprise is being 
+accounted for as separate businesses, for instance an inn with 
+a dining room and bar, it’s entirely possible for one of the 
+businesses to be profiting while the others are not. It’s even 
+possible for one or more parts of the business to go bankrupt 
+independently – the inn in question may have had to close 
+down its rooms and kitchen due to lack of business, but the 
+bar is still going strong.
+
+23
+
+A GOING CONCERNproFit and loss Considerations 
+For shared investments and 
+Business ComBinations
+In any case where a business has multiple owners, there are 
+only two changes to be made in applying these rules. First, 
+any profit from the business is shared among the owners 
+proportional to each owner’s share of the total investment.
+ For example, a business with a total investment of 4,000 
+gold is owned by three player characters: One has a 2,000-
+gold piece investment and the others have 1,000 gold 
+invested each. In a particular month, that business generates 
+a profit of 50 gold pieces. The player character with 2,000 
+gold invested would keep 25 of the 50 gold. The other two 
+would keep 12 gold and 5 silver each.
+
+Second, any loss incurred by the business must also be 
+shared. When a shared investment suffers losses, the choice 
+of reinvestment, debt, shrinkage, divestiture, or bankruptcy 
+must be mutually agreed upon by all owners. In the case 
+of reinvestment, each owner contributes according to her 
+investment portion, exactly as is outlined above for the 
+sharing of profits. In the case of shrinkage, each owner’s 
+investment shrinks proportional to their ownership. In the 
+case of divestiture, the proportion of proceeds and reduction 
+in investment applied to each owner is similarly calculated 
+relative to his or her share of the total investment.
+
+24
+
+A GOING CONCERNnew BaCkground – 
+new BaCkground – 
+Family Business
+Family Business
+
+You were born or adopted into a family 
+
+that owned a small business. From a young age 
+you worked alongside your parents, learning to 
+run the business and always understanding that 
+once you reached adulthood it would become 
+your responsibility.
+
+Skill Proficiencies: Insight, Persuasion
+Tool Proficiencies: Either vehicles (land) or vehicles 
+(water), one of your choice
+
+Equipment: The deed to your business, a set of common 
+clothes, and a belt pouch containing 10 gp
+
+Feature: investment heir
+As the heir to your family’s business, you begin the game 
+with an investment valued at 100 gold pieces. This could 
+be an entire business, albeit a modest one, or it could be a 
+share of a larger concern. This starting investment can be in 
+any type of business. Work with your DM to determine the 
+appropriate sort of investment for the campaign.
+
+suggested CharaCteristiCs
+How your experiences have helped shape your outlook 
+depends greatly on what sort of business you grew up in. 
+Formative years spent in the depths of a salt mine produces 
+a very different outlook than those spent behind the counter 
+of a jewellery shop. One common characteristic of anyone 
+growing up in a family business is a keen understanding of 
+the importance of profit.
+
+d8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Personality Trait
+My manner of speaking makes it seem as though I’m always 
+trying to sell something.
+Adventuring is just another sort of business, and I know 
+how to manage a business.
+I trust a firm handshake more than a fancy contract.
+I’m often embarrassed that I inherited my business instead 
+of starting it myself.
+I have a lifetime of experience in what I do, and I take 
+great offense when someone questions my judgement on 
+business matters.
+No one can bargain a deal better than me.
+I assume everyone wants to hear stories of the big sales I’ve 
+made or famous customers I’ve served.
+I treat everyone like a potential customer, no matter how 
+unlikely the circumstances.
+
+d6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+d6
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+d6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Ideal
+Community. My business is an anchor upon which the lives 
+and well-being of many depend. (Good)
+Tradition. What we do and how we do it defines our 
+culture, and thus ourselves. (Lawful)
+Innovation. It doesn’t matter what you’re doing, there’s 
+always a better way to do it. (Chaotic)
+Profit. At the end of the day, I’m only in this for the money. 
+(Evil)
+ Aspiration. One day, I want to own a business so large it’s 
+known all over the world. (Any)
+Industry. A hard day’s work is its own reward. (Lawful)
+
+Bond
+I will take revenge on the thugs who robbed my business.
+One day I will sell my business and use the money to do 
+something truly worthwhile.
+To me, my business is like a sacred temple, to be defended 
+at all cost.
+I had a prior business that failed – and the money lenders 
+are still after me to pay the debts.
+My employees depend on the wages I pay to provide for 
+their families; if my business fails, I fail them.
+My parents entrusted their life’s work to me, and I refuse to 
+disappoint them.
+
+Flaw
+My inheritance is shared with my siblings and I would gladly 
+betray them to take it all for myself.
+I value profit more than the well-being of my employees.
+To keep my business afloat I made a deal with some 
+criminals.
+I resent my parents for forcing me to be part of their 
+business instead of allowing me to follow my own dreams.
+I assume everyone is trying to cheat me.
+My employees don’t love me, but they do fear me, and I like 
+it that way.
+
+25
+
+A GOING CONCERNtotal value of the gross investment if needed to cover losses 
+(see the rules for debt on page 23). 
+
+Employing debt to start a business obviously adds 
+
+somewhat to the challenge of generating a net profit, as the 
+business incurs interest expenses immediately. However, this 
+is offset somewhat by interest rates being generally lower 
+in a capitalist economy. When calculating monthly interest 
+expense, use a rate of 10% instead of 20% to reflect this.
+
+magiCmagiC
+
+The subject of magic hasn’t intruded in 
+
+the preceding rules for two reasons. The 
+first is that the amount of magic present 
+in a campaign varies substantially. Thus, 
+the extent to which magic influences the 
+economy and the practice of running a 
+
+business also varies from campaign to campaign. The second 
+is that there are simply so many different ways the presence 
+of magic can impact business, it’s effectively impossible to 
+anticipate all the possibilities.
+
+Many spells have the potential to alter the normal course 
+of commerce. Even if only cantrips are considered, there are 
+spells such as friends and mending which can respectively 
+swing the outcome of a contract negotiation in favour of 
+the spellcaster and render the efforts of a small army of 
+artisans irrelevant.
+
+Higher level spells magnify these effects: Charm person, 
+detect thoughts, fabricate and a plethora of other still more 
+powerful spells can alter many of the basic assumptions 
+that make an economy work. How can one expect to sell 
+something for a profit when she can be magically compelled 
+to just give it away? How can one expect to earn a living 
+
+Feudal and Capitalist 
+Feudal and Capitalist 
+eConomies
+eConomies
+
+The preceding rules all assume an 
+
+economy roughly based on the historical 
+feudal economies of the real world. A 
+basic description of this sort of economy is 
+that land is owned by the ruling class (the 
+nobility for example). Common people are 
+
+given the right to live and work on the land in exchange 
+for service they provide to their local noble. In addition to 
+their right to live and work the land, the commoners are also 
+granted military protection by their noble lord or lady.
+
+For modern readers, who likely live in a capitalist economy 
+
+where land can be privately owned, much of the feudal 
+economy would seem rather alien. This is no doubt why 
+the settings of most Dungeons & Dragons games, while 
+ostensibly mimicking the medieval period’s economics, owe 
+considerably more to contemporary economic sensibilities.
+One of the key differences between feudal and capitalist 
+economies is the use of debt. In feudal economies money 
+lending exists, but generally only in relatively small amounts, 
+for relatively short periods of time and for relatively high 
+rates of interest. The notion of borrowing significant sums 
+in order to build a house or start a business is not part of a 
+feudal world.
+
+In order to simulate a capitalist economy, a few alterations 
+
+need to be made to the above rules regarding debt: First, it 
+is permissible to borrow money and use it to invest in an 
+existing business or to construct a new business. This initial 
+debt cannot exceed 50% of the total investment being made, 
+although the total debt can subsequently increase up to the 
+
+26
+
+A GOING CONCERNby building things when someone else can cause them to 
+magically appear with the wave of a hand? For that matter, 
+what good does it do to hold inventory for sale when spells 
+like invisibility and dimension door make property rights 
+nothing more than a philosophical concept?
+
+These issues are presented as questions because the 
+
+answers are not given here. Every dungeon master needs to 
+decide for herself the prevalence of magic in her world and 
+what its effects are. Perhaps magic is rare enough that the 
+economy marches on indistinguishable from a world without 
+magic. Or perhaps it’s so ubiquitous that every business 
+owner must be an accomplished spellcaster, with arcane 
+constructs and summoned fiends standing sentry over every 
+transaction, or else risk almost immediate bankruptcy. Most 
+campaigns will fall somewhere between the two extremes – 
+just remember that the more magic there is in a setting, the 
+more businesses must be ready to incorporate it into their 
+operations and be prepared to defend against it.
+
+A further consideration is the existence of magic items and 
+the possibility of procuring or even manufacturing them for 
+resale. The official rulebooks provide some guidelines as to 
+the time and resources needed to construct magic items, as 
+well as the potential value to sell them. For the purpose of 
+operating a business using these rules, there should be no 
+need to treat a concern dealing in magical items differently 
+than any other business.
+
+Depending on whether the magic items are purchased for 
+
+resale or manufactured from scratch, the business would 
+be either resale- or manufacturing-type. Beyond that, all 
+the rules contained herein pertain equally well to a magical 
+business as to a mundane one. Bear in mind that while 
+enchanted items may sell for a premium, so too would they 
+cost a considerable amount to buy or make, hence the return 
+on investment concepts presented in these rules can be used 
+without adjustment.
+
+adventure hooks
+adventure hooks
+
+Owning and operating a business should 
+
+help integrate the player characters into 
+the campaign setting. At a minimum, 
+the business becomes a home base for 
+the party – somewhere to pass time 
+constructively and hopefully earn some 
+
+money while waiting for the next adventure. It also provides 
+player characters with something meaningful to do with all 
+that treasure they find.
+
+Ideally, it can be much more than this. Owning a business 
+allows for natural adventure hooks. This concept is strongly 
+tied to the narrative you construct to explain the results of 
+monthly business operations (see “Developing a Narrative 
+for Market Conditions” on page 13). With a minimum of 
+coaxing, a story should begin to emerge that can lead to new 
+adventures in an organic and unexpected way.
+
+Remember also that although there are limitations on the 
+
+sort of management actions a business can take, whether 
+due to time constraints in a month or to culture restrictions, 
+there’s nothing saying an adventuring party can’t take it upon 
+
+themselves to influence the market environment through 
+their own ingenuity.
+
+The adventure hooks table lists a number of possible 
+business-related adventure hooks, which can be rolled for 
+randomly or used for inspiration.
+
+Adventure Hooks
+
+d10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Adventure Hook
+Once prolific resources of a mine, forest or other such site 
+have mysteriously become scarce
+Shipments to or from the business are being targeted by 
+bandits, and it’s far too frequent to be random
+Unscrupulous competitors are plotting against the 
+company; their plans include sabotage and worse
+Customers of the business have been disappearing and the 
+authorities suspect the owner
+A new noble family has assumed control of the area, and 
+the business is at risk of being outlawed
+Odd weather has been hampering operations, and the 
+portents say it isn’t natural
+A protection racket has moved into the area and threatened 
+the business – pay up or else
+War is brewing: Will it be good for business or a 
+catastrophe?
+Steep tariffs are cutting into profits and smugglers are 
+offering their services to avoid the onerous levies, but is it 
+worth the risk?
+A new client is offering a rich contract, but whoever wins 
+it needs to complete a series of bizarre and potentially 
+dangerous tasks
+
+27
+
+A GOING CONCERN28
+
+A GOING CONCERNBusiness examples
+Business examples
+
+In order to illustrate the rules presented 
+
+above, two businesses are exemplified here. 
+The first is relatively straightforward – a 
+smallish service business. The second is a more 
+complex combination business with several 
+owners. Both businesses are described over the 
+
+course of one or more months of operation to demonstrate 
+the use of random events and management actions.
+
+Business example 1: the 
+emBlazoned esCutCheon
+Warrior and explorer Adalbern Vigdis honed his skills as a 
+soldier-for-hire before joining a freelance adventuring party. 
+Some time has passed and, with a heavy purse and an eye 
+towards the future, Adalbern is looking to invest some of his 
+earnings. The only sort of business the warrior really knows 
+is soldiering, so he decides to start up a small mercenary 
+company called The Emblazoned Escutcheon.
+
+Adalbern’s player, Agnes, confers with her dungeon master 
+
+and they both agree that a mercenary company is properly 
+classified as a service-type business. The risk factor is x1. 
+Being a proponent of new strategies and equipment styles, 
+Adalbern decides that an innovative culture suits his business 
+best. Goodwill begins at the base 10%.
+
+The last piece needed to set the business up is to decide on 
+the initial investment. In this case, Adalbern decides to invest 
+5,000 gold pieces. At the default construction speed, he needs 
+to wait 34 days before the business is up and running. (Note 
+that this “construction” time also includes the time needed 
+to recruit employees, assemble equipment and supplies, 
+and so forth).
+
+While waiting for the construction to complete, Agnes 
+
+elects to spend some time adding more description to 
+the business, giving it a real identity and presence in the 
+campaign. Again, conferring with the DM, Agnes decides 
+that a 5,000-gold investment is sufficient to build a small 
+barracks with an adjoining training yard, a good selection of 
+basic arms, armour, and other needed supplies, with enough 
+left over for the working capital needed to finance the first 
+month’s payroll and other expenses. The company employs 
+about 30 hired mercenaries (the specific number isn’t 
+important, but 30 sounds reasonable).
+
+Since Adalbern has been adventuring in and around 
+Daggerford, that will be the location of the barracks. This 
+mercenary company offers security services as well as 
+occasional military work in border skirmishes and other 
+engagements around the central Sword Coast.
+
+For the first month of operations, Adalbern sticks close to 
+
+Daggerford so he can be available for management actions. 
+Agnes begins by rolling for market conditions and checks for 
+random events.
+
+For market environment, there are no roll modifiers 
+as this is the first month of operating. Agnes rolls 3d6 for 
+each condition, getting 14 for economic (favourable, +1% 
+ROI), 9 for political (neutral), 10 for strife (neutral) and 
+13 for competition (favourable, +1% ROI). A 1d6 roll for 
+random events comes up 4, no random event this month. So 
+far, so good.
+
+Since Adalbern is spending downtime in the area, he 
+
+decides to try a management action. As this is an innovative 
+business, it seems natural to try the invention action. The 
+base DC is 30, but since the warrior has nothing else going 
+on, he decides to spend 25 days on the action, reducing the 
+DC to the minimum of 5. Agnes makes her Intelligence 
+ability check, rolling an 11. Since she exceeded the DC 
+by 5 or more, this is an outstanding success and the gross 
+investment of Adalbern’s business increases by 4%.
+
+At the end of the first month, the return on investment 
+
+calculation looks like this:
+
+29
+
+A GOING CONCERNNote that the gross investment is 5,200 gold rather than 
+
+5,000 gold because the invention management action 
+increased it by 4%. Adalbern pockets 52 gold pieces in profits 
+after one month of operation – not too shabby.
+
+Agnes can now update the Emblazoned Escutcheon’s 
+goodwill value. Using the current goodwill of 10% (starting 
+goodwill for a new business) and the month’s ROI of 12%, 
+the revised goodwill is calculated as 10.1%.
+
+At this point Agnes and her DM have the choice of 
+moving on to the next month or spending some time 
+building a narrative for the month’s activity. The market 
+conditions aren’t unusual enough to be suggestive of any 
+real drama, but it might be interesting to consider what 
+that invention action represents. Perhaps Adalbern spent 
+those 25 days showing his newly-hired mercenaries some 
+of the unorthodox techniques he learned as an adventurer, 
+or perhaps the old warrior has a few tricks to make armour 
+fit better. There are many possibilities, but whatever 
+Agnes decides on should reasonably explain why her little 
+mercenary company is just a bit more valuable now than it 
+was at the beginning of the month. 
+
+Business example 2: the orC’s 
+Fork tavern and Flophouse
+Adventuring parties are known for frequenting 
+establishments that more genteel company would avoid. The 
+Orc’s Fork Tavern and Flophouse is one such place. Despite 
+its decrepit appearance and evil reputation, the place holds 
+a certain fascination for the opportunistic sell-sword trio of 
+
+Ruaidri, Colman, and Donnchad. When the prior owner 
+offered to sell The Orc’s Fork for 7,425 gold (6,750 gold 
+investment value plus 10% goodwill premium), the three 
+split the cost and became joint proprietors.
+
+The Fork, as it’s commonly known, offers rooms for 
+rent and a kitchen which serves hot meals and lukewarm 
+ales from its location amidst the wharves of Luskan. The 
+trio’s players, Marcello, Kalila, and Asher, meet with 
+their dungeon master to discuss the type and culture of 
+the business. Offering rooms for rent signifies a service 
+business, but serving meals and drinks is closer to resale or 
+manufacturing. There is the option of splitting the concern 
+up into two or more separate investments, but since all 
+activity takes place in a single building, it makes more sense 
+to keep it a single investment. The dungeon master decides 
+the Fork is a mixed service/manufacturing/resale business, 
+with an averaged risk factor of 3.
+
+Since it’s an existing business, the DM chooses its culture, 
+
+which based on reputation he decides is cut-throat. The 
+player characters could choose to change the culture, but 
+for now cut-throat suits them so they leave it alone (taking 
+a rather expansive view of what constitutes heroic role-
+playing). The gross investment is equal to the purchase value 
+of 6,750 gold, which excludes the goodwill premium. Each of 
+the three owners individually holds a 2,250-gold piece share 
+of the total business.
+
+Adventure calls, so the sell-swords leave the Fork in 
+the hands of its staff and promptly leave town. At the 
+end of the month, the players elect Kalila to roll for the 
+business’s activity.
+
+30
+
+A GOING CONCERNRolling for market environment, she gets 17 for economic 
+
+(propitious, +3% ROI!), 9 for political (neutral), 7 for strife 
+(unfavourable, -1% ROI), and 12 for competition (neutral). 
+Since this business was already operating, the dungeon 
+master could have ruled that existing market conditions 
+warranted adjustments to the market environment rolls but 
+chose not to.
+
+Kalila then rolls for random events and the result is a 6 – 
+
+a random event has occurred. She rolls 2d6 and gets a 4: a 
+malfunction. This is going to hurt the return on investment, 
+unfortunately. 
+
+For the first month of operations, the return on 
+
+investment looks like this:
+
+with a +4 adjustment for the prior propitious state makes 
+it a 14 (favourable, +1% ROI), 8 for political (unfavourable, 
+-1% ROI), 6 for strife, with a -2 adjustment makes it a 4 
+(adverse, -3% ROI), and 11 for competition (neutral). The 
+market environment is getting worse, particularly the 
+strife condition.
+
+Rolling for random events, Kalila gets another 6, then a 
+5 on her 2d6 roll to see which event occurs – yet another 
+malfunction!
+
+The second month’s ROI calculation looks like this:
+
+The business is profiting, and the owners would split 
+the profit three ways (it won’t divide evenly, but hopefully 
+Ruaidri, Colman, and Donnchad can come to a friendly 
+agreement on who keeps the extra few coppers). It’s worth 
+noting that the money doesn’t magically appear in their 
+purses – the business would hold on to it until they make a 
+trip back to town to pick up their earnings.
+
+Goodwill can be recalculated using the 7% ROI:
+
+( [7%-10%]÷24 ) +10%=9.9%
+With the malfunction, the owners are worried their new 
+business is falling apart in their absence, so they make their 
+way back to Luskan with enough time left to spend 12 days 
+performing the maintenance management action before the 
+end of the second month.
+
+The DC for the Intelligence ability check is 18 (30 less the 
+
+12 days spent). Colman is the smartest of the three owners 
+(or so he says), so he makes the ability check with assistance 
+from Donnchad to give him advantage on the roll. With 
+his Intelligence modifier of -2 (“smartest” is a relative term, 
+after all), Colman’s result is an 11. Unfortunately, this is 
+bad enough that the result is a catastrophic failure and the 
+business endures yet another malfunction.
+
+For the second month’s operations, Kalila makes the 
+remaining rolls. She rolls 10 for the economic condition, 
+
+Having already spent their prior month’s earnings, the 
+sell-swords decide to incur debt to cover this month’s losses, 
+hoping to pay it off with future profits. They note the 
+135-gold debt balance on their business sheet, but interest 
+expense is calculated based on opening debt, not closing, so 
+there is no interest expense this month.
+
+Goodwill continues to drop with the second 
+
+month’s results:
+
+( [-8%-9.9%]÷24 ) +9.9%=9.2%
+
+Not wanting to repeat last month’s maintenance fiasco, 
+the owners decide to bring in a contractor to help. They 
+hire a consultant with a cost of 2 gp/day for 20 days. 
+The maintenance action’s ability check is made with the 
+consultant’s +2 modifier, with advantage, against a DC of 
+10. Marcello makes the roll, rolling a 14 with the modifier 
+included. Not an outstanding success, but enough to remove 
+the existing three malfunctions.
+
+Marcello opts to continue the rolling in month three. 
+For the market environment, he rolls 10 for economic 
+(+2 adjustment makes it a 12 – neutral), 9 for political (-2 
+adjustment drops it to 7 – unfavourable, -1% ROI), 12 for 
+strife (-4 adjustment makes it an 8 – unfavourable, -1% ROI) 
+and 11 for competition (neutral). His roll for random events 
+comes up a 2, no random event this month.
+
+31
+
+A GOING CONCERNFor the third month’s ROI, the calculation looks like this:
+
+The 40-gold piece contractor cost ate into the profits, as 
+did the interest expense on the debt balance, but at least the 
+business is back to being profitable.
+
+Goodwill doesn’t improve, but the third month’s ROI is 
+
+high enough that it doesn’t worsen either:
+
+( [8%-9.2%]÷24 ) +9.2%=9.2%
+
+At this point, the trio decide that life as business owners 
+isn’t for them, and so they sell the Fork. (In other words, they 
+divest the entire investment).
+
+To calculate the sales value, they start with the gross 
+
+investment of 6,750 gold pieces. From that they subtract debt 
+of 135 gold. Lastly, they determine the goodwill adjustment: 
+9.2% x 6,750 gives a goodwill adjustment of 621 gold. The 
+total sales value is 7,236 gold pieces. Since the three are equal 
+owners, each would pocket 2,412 gold from the proceeds 
+of the sale.
+
+Throughout the three months of business operations, 
+more flavour could be added to the events if the players and 
+their dungeon master wish. What specifically caused those 
+malfunctions? Was it a faulty stove, a leaky roof, a cockroach 
+infestation? The strife condition was also detrimental – was 
+that due to calm weather keeping ships out to sea and their 
+crews away from the Fork’s tap house, or some other cause? 
+These sorts of narrative additions aren’t strictly necessary, 
+but do use them if they’re fun or if they lead to unexpected 
+drama and adventure.
+
+32
+
+A GOING CONCERNBusiness sheet
+Business name
+
+Business type
+
+risk FaCtor
+
+goodwill
+
+owner
+
+owner
+
+owner
+
+owner
+
+appendix: the Business sheet
+appendix: the Business sheet
+
+gross investment
+
+loCation
+
+Culture
+
+desCription and history oF Business
+
+share
+
+share
+
+share
+
+share
+
+market environment
+
+Current month prior month
+
+roi impaCt
+
+return on investment CalCulator
+
+Base roi 
+
+10%
+
+eConomiC
+
+politiCal
+
+striFe
+
+Competition
+
+random events
+
+Current month
+
+malFunCtions
+
+CanCelled ContraCts
+
+± market environment 
+
+− aCCumulated malFunCtions 
+
+− aCCumulated CanCelled
+
+ContraCts  
+
+± other random events   
+
+± management aCtions 
+
+= gross roi 
+
+× risk FaCtor 
+
+roi impaCt
+
+management aCtions
+
+roi impaCt
+
+= risk-weighted roi 
+
+deBt
+
+× gross investment 
+
+÷ 12 = gross roi   
+
+− interest expense  
+
+− ContraCt laBour expense 
+
+± other adjustments 
+
+= net return on investment 
+
+33
+
+A GOING CONCERN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
