@@ -1,4 +1,4 @@
-Below is a list of poisons for a 5E D&D campaign set in Faerun. The list is in json format. Read the list and be prepared to answer any questions I have about the list.
+Below is a list of poisons for a 5E D&D campaign set in Faerun. The list is in json format. Read the list and be prepared to answer any questions I have about the list. Parse this list in its entirety, even if it takes multiple times to do so.
 [
     {
         "name": "A Glimpse of Time",
