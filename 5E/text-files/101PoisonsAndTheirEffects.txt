@@ -1,3 +1,4 @@
+Below is a list of poisons for 5e D&D. Each poison entry is actually 5 lines. The 1st line is the name. The 2nd line is the type. The 3rd line is the Constitution DC in order to overcome the poison. The 4th line is the effects if the save fails. The 5th line is the duration. Read through the list and be ready to answer questions.
 A Glimpse of Time
 Injury
 18
