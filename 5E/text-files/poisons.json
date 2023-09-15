@@ -1,0 +1,709 @@
+[
+    {
+        "name": "A Glimpse of Time",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "You see a horrifying vision of your own death at the hands of the poisoner; you become paralysed for 1d4 rounds, then make another saving throw; if you fail you become frightened of the poisoner for the duration",
+        "duration": "1d4 rounds then 1 hour"
+    },
+    {
+        "name": "Animal Charm",
+        "poison_type": "Inhaled",
+        "save_dc": "12",
+        "effect": "Charmed by one breed of animal (unknown at time) determined by the poisoner",
+        "duration": "2d6 days"
+    },
+    {
+        "name": "Animal Terror",
+        "poison_type": "Inhaled",
+        "save_dc": "12",
+        "effect": "Frightened of one breed of animal (unknown at time) determined by the poisoner",
+        "duration": "2d6 days"
+    },
+    {
+        "name": "Archer's Agony",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "It hurts to wield your weapon, and you must take 1d4 damage on each attack roll; if this brings HP to 0 you are rendered unconscious",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Archer's Bane",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Your elbows and shoulders develop tremendous pain making all ranged weapons deal half damage",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Assassin's Agony",
+        "poison_type": "Contact",
+        "save_dc": "12",
+        "effect": "On a failed save take 1d12 poison damage and remain poisoned for the duration; on a pass take half damage only",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Auril's Bite",
+        "poison_type": "Injury",
+        "save_dc": "10",
+        "effect": "Ice spreads through your veins; make one saving throw at the beginning of each turn until you pass or fail three; three failures results in paralysis",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Azuth's Forgetting",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "You forget how to perform all magic except for cantrips",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Azuth's Weakness",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "You become more susceptible to attack from magic; temporarily lose resistance to magical damage, or develop vulnerability to magical damage",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Bandit's Bane ",
+        "poison_type": "Inhaled ",
+        "save_dc": "12 ",
+        "effect": "On inhalation roll 2d12 damage and remain poisoned for the duration",
+        "duration": "48 hours"
+    },
+    {
+        "name": "Barbarian's Bane",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "12",
+        "effect": "You are physically weakened for the duration; -2 STR score and disadvantage on all STR saves",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Bark Skin",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "Roll saving throw on each turn for the duration; each failure is +1 effect, each pass -1. If the player reaches +3 effect, become petrified as wood, can be harmed only by fire damage (vulnerable); -1 ends the effects",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Basilisk Breath",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "You begin to petrify; make saving throws until you pass or fail three in total; if you fail three you are petrified for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Basilisk Tears",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "At the start of each turn make a saving throw; fail and take 2d8 poison damage and halve your movement speed for that turn; three failures in a row and become petrified",
+        "duration": "24 hours or until 3 passes in a row"
+    },
+    {
+        "name": "Berserker's Agony",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "It hurts to wield your weapon, and you must take 1d4 damage on each attack roll; if this brings HP to 0 you are rendered unconscious",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Berserker's Rage",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Instantly enraged with a blood lust that forces you to attack anything in your speed movement radius",
+        "duration": "Once berserker mode ends"
+    },
+    {
+        "name": "Beshaba's Curse",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "Bad luck and misfortune hang around your neck like a collar made of lead. For the duration, all saving throws or checks have +3 applied, and if you roll 1, 2, or 3 on the d20 it is counted as a critical fail",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Blurred Vision",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Your vision is reduced, and only clear up to five feet and blurred up to 10 feet; you are unable to see beyond 10 feet. You are unable to see in any light other than bright light. Automatically fail all checks based on sight",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Brightest Fright",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Immediately become frightened of bright light in all its forms; if are in bright light when the effect occurs, become incapacitated for the duration or you are blinded",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Chauntea's Revenge",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "The poisoner is healed by half the amount of damage inflicted; the target is poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Cleric's Command",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "You become charmed to the poisoner even if they are not present, and can be commanded by them as per Geas spell",
+        "duration": "3d10 days"
+    },
+    {
+        "name": "Confused Approach",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "Roll a saving throw on each attack in combat; on failure you inexplicably use a different weapon to the one you planned to; pass removes the poison",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Confusion",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "10",
+        "effect": "The poison assaults and twists your mind; this poison is equivalent to the Confusion spell",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Cyric's Outpouring",
+        "poison_type": "Inhaled; Contact",
+        "save_dc": "12",
+        "effect": "You must lie when asked any question by anybody on any topic",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Darkest Terror",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Immediately become frightened of the dark, even if you can see in the dark; if you are in darkness when the effect occurs, become incapacitated for duration or until all in your vision radius is bright light",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Deadly Harm",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "Roll 4d12 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Deepest Slumber",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "You fall into incurable unconsciousness for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Disassociated Mind ",
+        "poison_type": "Injury ",
+        "save_dc": "15",
+        "effect": "You become convinced that you are a pawn in some sick game, and that your actions are not your own will; the thought incapacitates you",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Dis-equilibrium",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "You become dizzy and fall prone; to stand up takes up an action and requires a new saving throw to be passed or remain prone. You must pass a saving throw at the start of your next turn if you end a turn standing to be cured",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Double Vision",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "Roll a saving throw on each attack in combat, as you can see two of everything; fail and you attack the wrong version",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Dragonborn's Gamble",
+        "poison_type": "Ingested",
+        "save_dc": "6",
+        "effect": "Made from the scales of dragonborn warriors, and grants the poisoned the strength of their race; passing the check grants +2 STR for the duration. A failed check penalises with -4 STR for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Dragon's Breath",
+        "poison_type": "Ingested",
+        "save_dc": "18",
+        "effect": "You belly becomes filled with the fire of a dragon's breath; each time you speak you breath a fire attack for 30 feet in front of you; if you remain silent for longer than one hour you take 1d12 fire damage",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Drow's Wrath",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "A sweet smell rises from the wound, and the liquid causes you to become poisoned for the duration; if the saving throw scores 13 or less you also fall unconscious for the duration unless awakened. Note that if you are awakened you are still poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Dulled Senses ",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "Your mind empties of all but the most important functions; you are penalised with -2 applied to your AC and all WIS saves, limited to one action, and cannot use reactions. Poison requires two consecutive saves to be cured",
+        "duration": "until cured"
+    },
+    {
+        "name": "Dwarf's Gamble",
+        "poison_type": "Ingested",
+        "save_dc": "6",
+        "effect": "Made from the sweat of dwarves, and grants the poisoned the constitution of a dwarf; passing the check grants +2 CON for the duration. A failed check incapacitates through stomach pain for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Elf's Gamble",
+        "poison_type": "Ingested",
+        "save_dc": "6",
+        "effect": "Made from the tears of elves, and grants the poisoned the abilities of vision of their race; passing the check grants vision as per Elf race for the duration; a failed check blinds for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Endless Agony",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "At the end of each turn for the duration make the saving throw; fail and take 2d8 necrotic damage, pass and take half. This damage cannot be healed by rest, potion, or magic whilst poisoned",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Endless Bleeding",
+        "poison_type": "Injury",
+        "save_dc": "10",
+        "effect": "The wound that causes the injury will not stop bleeding, and cannot be cured by any means until you are no longer poisoned; take 1d6 necrotic damage each round for the duration and if this brings you HP to 0 fall unconscious",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Endless Hunger",
+        "poison_type": "Ingested; Inhaled",
+        "save_dc": "12",
+        "effect": "For the duration you are beset by an endless, insatiable hunger. Every three days make a saving roll and on failure take +1 exhaustion that is not cured by rest. On any successful save the hunger can fulfilled and normal rules apply to exhaustion levels",
+        "duration": "18 days"
+    },
+    {
+        "name": "Endless Worry",
+        "poison_type": "Inhaled",
+        "save_dc": "18",
+        "effect": "At daybreak for the duration make a saving throw; fail and you are frightened of all unknown living and undead creatures that day",
+        "duration": "1d6 days"
+    },
+    {
+        "name": "Foot Rot",
+        "poison_type": "Ingested; Inhaled",
+        "save_dc": "12",
+        "effect": "Large painful boils and sores appear on the soles of your feet, making all terrain difficult terrain for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Friendship's Discord",
+        "poison_type": "Inhaled",
+        "save_dc": "18",
+        "effect": "Your clouded mind is bitter and angry; you are compelled to argue and bicker with those you call friends for the duration",
+        "duration": "1 minute"
+    },
+    {
+        "name": "Gambler's Bane",
+        "poison_type": "Injury; Ingested",
+        "save_dc": "15",
+        "effect": "A dual action magical poison - fail the throw and every critical failure you throw has dire consequence to you and others around you; pass and every natural 20 earns greater than average reward",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Gambler's Folly",
+        "poison_type": "Ingested; Inhaled",
+        "save_dc": "12",
+        "effect": "For the duration you are compelled to gamble on anything you think possible, and are persistent in your attempts to the annoyance of all you meet; -2 CHA for the duration",
+        "duration": "2d12 days"
+    },
+    {
+        "name": "Gnome's Gamble",
+        "poison_type": "Ingested",
+        "save_dc": "6",
+        "effect": "Made from the spit of gnomes, and grants the poisoned the intelligence of their race; passing the check grants +2 INT for the duration. A failed check penalises with -4 INT for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Goblin Blood",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "You are compelled to use disengage as your second action, and end your turn in combat here; if you only have one action you use disengage as a temporary bonus action",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Halfling's Gamble",
+        "poison_type": "Ingested",
+        "save_dc": "6",
+        "effect": "Made from the hair of a halfling, and grants the poisoned the dexterity of their race; passing the check grants +2 DEX for the duration. A failed check paralyses through muscle pain",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Hideous Visage ",
+        "poison_type": "Inhaled; Contact ",
+        "save_dc": "15 ",
+        "effect": "You see a terrifying vision that turns one of your allies into a monster determined by the poisoner. you are compelled attack it for the duration",
+        "duration": "1 minute"
+    },
+    {
+        "name": "Kelemvor's Debt",
+        "poison_type": "Ingested",
+        "save_dc": "18",
+        "effect": "Note that you must pass the saving throw to achieve the following results; a failed check results only in your being poisoned for the duration. Your mind overcomes all damage rendered to your body until the end of the duration; a second save must be made a this time and a failed save deals all the accumulated damage at once as necrotic damage; a passed save deals half damage. If this damage takes your HP to 0 you die. Note that healing potions can still be used to remove damage from the total debt for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Kelemvor's Grip",
+        "poison_type": "Ingested",
+        "save_dc": "12",
+        "effect": "A strange feeling in your stomach causes a cramp, before developing into an endless agony. On a failed save take 12d6 poison damage, or if the saving throw scores 6 or less 12d10 poison damage; if this brings your HP to 0 you die. A pass takes no damage, but you are poisoned for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Kelemvor's Pull",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "Make a saving throw on each turn for the duration; fail take 2d6 necrotic damage, pass take half. If this takes your HP to 0 you die",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Light Harm",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "12",
+        "effect": "Roll 1d6 and take that much damage, and temporarily lower your HP max by the same number",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Liquid Agony",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "The pain from the wound inflicted doubles. On a failed save take the same damage again as from the attack that poisoned you",
+        "duration": "Single effect"
+    },
+    {
+        "name": "Liquid Sleep ",
+        "poison_type": "Injury ",
+        "save_dc": "10 ",
+        "effect": "Instantly slip into unconsciousness",
+        "duration": "8 hours unless awakened"
+    },
+    {
+        "name": "Loviatar's Tears",
+        "poison_type": "Injury",
+        "save_dc": "18",
+        "effect": "A vile smell emits from the wound inflicted as the poison burns into your blood. Take 8d8 necrotic damage in the first instance, then roll 1d8 necrotic damage at the start of each turn for the duration; if this damage takes your HP to 0 you die",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Mage's Agony",
+        "poison_type": "injury",
+        "save_dc": "12",
+        "effect": "It hurts to wield your wand, and you must take 1d4 damage on each magic attack roll; if this brings HP to 0 you are rendered unconscious",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Mage's Bane",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Your mind becomes muddled and all magic attacks deal half damage",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Medium Harm",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "Roll 2d8 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Most Harm",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Roll 3d10 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Mystra's Muddle",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Make a saving throw each time you use magic to attack; fail and roll DC15 WIS, fail and must use a different spell than the one you wanted to",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Oghma's Bane",
+        "poison_type": "Inhaled",
+        "save_dc": "12",
+        "effect": "Your mind becomes confused and you easily get bewildered. -4 on all checks based on WIS skills",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Oghma's Blindness",
+        "poison_type": "Injury; Inhaled ",
+        "save_dc": "15",
+        "effect": "Your mind is at war with itself. At the start of each turn after the failed save, roll DC15 INT; on failure go insane for that turn. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The DM controls its movement, which is erratic",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Oghma's Gift",
+        "poison_type": "Ingested",
+        "save_dc": "15",
+        "effect": "Your mind becomes receptive to all knowledge. +4 on all checks based on WIS skills",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Oghma's Outpouring",
+        "poison_type": "Inhaled; Ingested",
+        "save_dc": "18",
+        "effect": "You must tell the truth when asked any question by anybody on any topic",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Paladin's Law",
+        "poison_type": "Inhaled; Ingested",
+        "save_dc": "18",
+        "effect": "For the duration, temporarily change your alignment to lawful good and make all in-game decisions entirely true to this; if you are already lawful good this poison has no effect on you",
+        "duration": "2d8 days"
+    },
+    {
+        "name": "Rendered Senseless",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "You are rendered blinded and deafened for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Rotting Gut",
+        "poison_type": "Ingested; Injury",
+        "save_dc": "16",
+        "effect": "At midnight for the durations make a saving throw; fail and take 1d6 necrotic damage that is not healed by rest. If this poison takes your HP to 0 you die",
+        "duration": "1d6 days"
+    },
+    {
+        "name": "Silvanus' Armour",
+        "poison_type": "Ingested",
+        "save_dc": "15",
+        "effect": "Your skin thickens as if it were made of old tree bark. You AC cannot be less than 16 for the duration, even if you are not armoured; when the poison wears off the effect is painful; roll 1d6 necrotic damage",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Silvanus' Revenge",
+        "poison_type": "Inhaled; Contact",
+        "save_dc": "12",
+        "effect": "You become frightened of trees for the duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Slightest Fright",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Immediately become frightened by any noise louder than a whisper",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Stone Skin",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "Roll saving throw on each turn for the duration; each failure is +1 effect, each pass -1. If the player reaches +3 effect, become petrified as stone; -1 ends the effects",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Stunned Silence",
+        "poison_type": "Injury",
+        "save_dc": "12",
+        "effect": "The wound that causes the injury leaves you stunned, and you remain stunned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Subjective Submission",
+        "poison_type": "Ingested; Injury",
+        "save_dc": "18",
+        "effect": "You become charmed to the poisoner even if they are not present, and can be commanded by them as per Dominate Person spell",
+        "duration": "24 hours; 1 hour"
+    },
+    {
+        "name": "Swordsman's Bane",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Your hands and wrists swell making attacks with all melee weapons deal half damage",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Transmutation",
+        "poison_type": "Ingested; Inhaled",
+        "save_dc": "12",
+        "effect": "You turn into the creature determined by the poisoner; equivalent to the Polymorph spell minus wisdom save",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Tymora's Blessing",
+        "poison_type": "Ingested",
+        "save_dc": "15",
+        "effect": "Good luck follows you wherever you are. For the duration, all saving throws or checks have -3 applied, and if you roll 18, 19, or 20 on the d20 it is counted as a critical success",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Uncertain Agony",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Make a saving throw at the start of each round for 2d6 rounds; on a failed save take 1d4 poison damage. Any passed save ends the damage but you remain poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Uncertain Charm",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Make a saving throw at the start of each round for 2d6 rounds; on a failed save you are charmed by the poisoner. Any passed save ends the condition but you remain poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Uncertain Confusion",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "12",
+        "effect": "The poison assaults and twists your mind; this poison is equivalent to the Confusion spell and lasts for either 2d6 rounds if administered through injury, or 2d12 hours if inhaled",
+        "duration": "2d6 rounds; 2d12 days"
+    },
+    {
+        "name": "Uncertain Fright",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Make a saving throw at the start of each round for 2d6 rounds; on a failed save you are frightened of the poisoner. Any passed save ends the condition but you remain poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Uncertain Sleep",
+        "poison_type": "Ingested",
+        "save_dc": "12",
+        "effect": "Instantly fall unconscious for 4d12 hours",
+        "duration": "4d12 hours"
+    },
+    {
+        "name": "Vampire Blood",
+        "poison_type": "Ingested",
+        "save_dc": "15",
+        "effect": "On failed save take 3d6 necrotic damage; on a pass restore 3d6 HP up to your maximum",
+        "duration": "Single effect"
+    },
+    {
+        "name": "Vicious Agony",
+        "poison_type": "Injury; Ingested",
+        "save_dc": "15",
+        "effect": "Roll a saving throw each round for the duration; fail and take 3d8 necrotic damage that cannot be healed with magic, potion, or rest; pass take half. If this damage takes HP to 0 you die",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Vicious Bandit's Bane",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "On inhalation roll 6d6 damage and remain poisoned for the duration",
+        "duration": "48 hours"
+    },
+    {
+        "name": "Vicious Confusion",
+        "poison_type": "Injury; Inhaled",
+        "save_dc": "15",
+        "effect": "The poison assaults and twists your mind; this poison is equivalent to the Confusion spell replacing 2-6 with 2d8 psychic damage",
+        "duration": "1 hour; 24 hours"
+    },
+    {
+        "name": "Vicious Cyric's Outpouring",
+        "poison_type": "Inhaled; Contact",
+        "save_dc": "15",
+        "effect": "You must lie when asked any question by anybody on any topic; any attempt to tell the truth results in 2d12 psychic damage",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Vicious Harm",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "Roll 1d6 and take that much damage, and temporarily lower your HP max by the same number; for the duration roll 1d4 at the start of each turn and repeat the process. If this damage take your HP to 0 you die; your max HP cannot go lower than 1 at any time whilst poisoned",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Vicious Liquid Agony ",
+        "poison_type": "Injury ",
+        "save_dc": "15 ",
+        "effect": "The pain from the wound inflicted increased. On a failed save take the twice the damage again as from the attack that poisoned you",
+        "duration": "single effect"
+    },
+    {
+        "name": "Vicious Oghma's Outpouring",
+        "poison_type": "Inhaled; Ingested",
+        "save_dc": "18",
+        "effect": "You must tell the truth when asked any question by anybody on any topic; any attempt to tell a lie results in 2d12 psychic damage",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Vicious Rotting Gut",
+        "poison_type": "Ingested; Injury",
+        "save_dc": "16",
+        "effect": "At midnight for the durations make a saving throw; fail and take 3d8 necrotic damage that is not healed by rest. If this poison takes your HP to 0 you die",
+        "duration": "2d6 days"
+    },
+    {
+        "name": "Vile Agony",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "The wound sears as if it is on fire. On initial failed save take 8d8 necrotic damage, then remain poisoned for the duration",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Vile Bandit's Bane",
+        "poison_type": "Inhaled",
+        "save_dc": "18",
+        "effect": "On inhalation roll 4d8 damage and remain poisoned for the duration; due to the swelling of the face, -2 CHA for the duration",
+        "duration": "48 hours"
+    },
+    {
+        "name": "Vile Blindness",
+        "poison_type": "Inhaled",
+        "save_dc": "15",
+        "effect": "Bleeding from the eyes causing blindness",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Vile Deafness ",
+        "poison_type": "Inhaled ",
+        "save_dc": "15 ",
+        "effect": "Bleeding from the ears causing deafness ",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Vile Deformity",
+        "poison_type": "Inhaled",
+        "save_dc": "12",
+        "effect": "Causes your joints and face to swell up making it difficult to complete tasks, and hideous to look at; -1 CHA for duration",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Vile Liquid Agony",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "The pain from the wound inflicted doubles. On a failed save take the same damage again as from the attack that poisoned you, and take -2 CHA for the duration as the wound is open and rank",
+        "duration": "24 hours"
+    },
+    {
+        "name": "Waking Mind",
+        "poison_type": "Ingested; Injury",
+        "save_dc": "16",
+        "effect": "At midnight for the duration make a saving throw; fail and you are unable to complete any rest and suffer from +1 exhaustion",
+        "duration": "1d6 days"
+    },
+    {
+        "name": "Warrior's Courage",
+        "poison_type": "Ingested",
+        "save_dc": "18",
+        "effect": "Your mind is strengthened against all terror and you are unable to become frightened for the duration",
+        "duration": "1d6 days"
+    },
+    {
+        "name": "Warrior's Pity",
+        "poison_type": "Injury",
+        "save_dc": "15",
+        "effect": "You instantly become frightened and drop the weapon you are using and disengage from combat. When the effects end, you are found hiding in a corner",
+        "duration": "1 hour"
+    },
+    {
+        "name": "Weakened Vampire Blood",
+        "poison_type": "Ingested",
+        "save_dc": "15",
+        "effect": "On failed save take 2d8 necrotic damage; on a pass restore 2d8 HP up to your maximum",
+        "duration": "Single effect"
+    },
+    {
+        "name": "Wicked Sin",
+        "poison_type": "Inhaled; Ingested",
+        "save_dc": "18",
+        "effect": "For the duration, temporarily change your alignment to chaotic neutral and make all in-game decisions entirely true to this; if you are already chaotic neutral this poison has no effect on you",
+        "duration": "2d8 days"
+    }
+]
