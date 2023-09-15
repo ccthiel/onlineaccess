@@ -1,5 +1,6 @@
 Below is a list of poisons for a 5e D&D campaign set in Faerun. Each line is a comma separated poison entry consisting of: name, type of poison, Constitution save required to overcome the poison, effects if the save is failed, and duration.
 Read through all of the poisons and be ready to answer questions about them. Any time I ask a question, reread this document to ensure you will answer correctly.
+The list starts below this line:
 A Glimpse of Time,Injury,18,"You see a horrifying vision of your own death at the hands of the poisoner; you become paralysed for 1d4 rounds, then make another saving throw; if you fail you become frightened of the poisoner for the duration",1d4 rounds then 1 hour
 Animal Charm,Inhaled,12,Charmed by one breed of animal (unknown at time) determined by the poisoner,2d6 days
 Animal Terror,Inhaled,12,Frightened of one breed of animal (unknown at time) determined by the poisoner,2d6 days
