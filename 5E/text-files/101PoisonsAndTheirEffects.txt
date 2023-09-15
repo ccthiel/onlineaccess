@@ -1,0 +1,505 @@
+A Glimpse of Time
+Injury
+18
+You see a horrifying vision of your own death at the hands of the poisoner; you become paralysed for 1d4 rounds, then make another saving throw; if you fail you become frightened of the poisoner for the duration
+1d4 rounds then 1 hour
+Animal Charm
+Inhaled
+12
+Charmed by one breed of animal (unknown at time) determined by the poisoner
+2d6 days
+Animal Terror
+Inhaled
+12
+Frightened of one breed of animal (unknown at time) determined by the poisoner
+2d6 days
+Archer's Agony
+Injury
+12
+It hurts to wield your weapon, and you must take 1d4 damage on each attack roll; if this brings HP to 0 you are rendered unconscious
+1 hour
+Archer's Bane
+Injury
+15
+Your elbows and shoulders develop tremendous pain making all ranged weapons deal half damage
+1 hour
+Assassin's Agony
+Contact
+12
+On a failed save take 1d12 poison damage and remain poisoned for the duration; on a pass take half damage only
+24 hours
+Auril's Bite
+Injury
+10
+Ice spreads through your veins; make one saving throw at the beginning of each turn until you pass or fail three; three failures results in paralysis
+1 hour
+Azuth's Forgetting
+Injury; Inhaled
+15
+You forget how to perform all magic except for cantrips
+1 hour; 24 hours
+Azuth's Weakness
+Injury; Inhaled
+15
+You become more susceptible to attack from magic; temporarily lose resistance to magical damage, or develop vulnerability to magical damage
+1 hour; 24 hours
+2
+       Bandit's Bane Inhaled 12 On inhalation roll 2d12 damage and remain poisoned for the 48 hours duration
+    Barbarian's Bane
+     Injury; Inhaled
+      12
+    You are physically weakened for the duration; -2 STR score and disadvantage on all STR saves
+      1 hour; 24 hours
+  Bark Skin
+ Injury
+  12
+Roll saving throw on each turn for the duration; each failure is +1 effect, each pass -1. If the player reaches +3 effect, become petrified as wood, can be harmed only by fire damage (vulnerable); -1 ends the effects
+  1 hour
+   Basilisk Breath
+    Inhaled
+     15
+    You begin to petrify; make saving throws until you pass or fail three in total; if you fail three you are petrified for the duration
+     24 hours
+  Basilisk Tears
+ Injury
+  18
+At the start of each turn make a saving throw; fail and take 2d8 poison damage and halve your movement speed for that turn; three failures in a row and become petrified
+  24 hours or until 3 passes in a row
+   Berserker's Agony
+   Injury
+    12
+   It hurts to wield your weapon, and you must take 1d4 damage on each attack roll; if this brings HP to 0 you are rendered unconscious
+    1 hour
+  Berserker's Rage
+   Inhaled
+    15
+  Instantly enraged with a blood lust that forces you to attack anything in your speed movement radius
+     Once berserker mode ends
+   Beshaba's Curse
+   Injury; Inhaled
+    15
+  Bad luck and misfortune hang around your neck like a collar made of lead. For the duration, all saving throws or checks have +3 applied, and if you roll 1, 2, or 3 on the d20 it is counted as a critical fail
+    1 hour; 24 hours
+  Blurred Vision
+ Inhaled
+   15
+Your vision is reduced, and only clear up to five feet and blurred up to 10 feet; you are unable to see beyond 10 feet. You are unable to see in any light other than bright light. Automatically fail all checks based on sight
+   24 hours
+3
+
+   Brightest Fright
+  Inhaled
+   15
+ Immediately become frightened of bright light in all its forms; if are in bright light when the effect occurs, become incapacitated for the duration or you are blinded
+   1 hour
+  Chauntea's Revenge
+  Injury
+   18
+ The poisoner is healed by half the amount of damage inflicted; the target is poisoned for the duration
+   1 hour
+    Cleric's Command
+     Injury; Inhaled
+      15
+    You become charmed to the poisoner even if they are not present, and can be commanded by them as per Geas spell
+      3d10 days
+  Confused Approach
+ Injury
+  18
+Roll a saving throw on each attack in combat; on failure you inexplicably use a different weapon to the one you planned to; pass removes the poison
+  1 hour
+    Confusion
+     Injury; Inhaled
+      10
+    The poison assaults and twists your mind; this poison is equivalent to the Confusion spell
+      1 hour; 24 hours
+  Cyric's Outpouring
+  Inhaled; Contact
+   12
+ You must lie when asked any question by anybody on any topic
+    24 hours
+   Darkest Terror
+   Inhaled
+    15
+  Immediately become frightened of the dark, even if you can see in the dark; if you are in darkness when the effect occurs, become incapacitated for duration or until all in your vision radius is bright light
+    1 hour
+  Deadly Harm
+ Injury
+  18
+Roll 4d12 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0
+  1 hour
+   Deepest Slumber
+   Injury
+     18
+   You fall into incurable unconsciousness for the duration
+     1 hour
+4
+
+       You become convinced that you are a pawn in some sick game, Disassociated Mind Injury 15 and that your actions are not your own will; the thought 1 hour
+incapacitates you
+    Dis-equilibrium
+    Injury
+     15
+   You become dizzy and fall prone; to stand up takes up an action and requires a new saving throw to be passed or remain prone. You must pass a saving throw at the start of your next turn if you end a turn standing to be cured
+     1 hour
+  Double Vision
+   Injury
+    12
+  Roll a saving throw on each attack in combat, as you can see two of everything; fail and you attack the wrong version
+     1 hour
+   Dragonborn's Gamble
+   Ingested
+    6
+  Made from the scales of dragonborn warriors, and grants the poisoned the strength of their race; passing the check grants +2 STR for the duration. A failed check penalises with -4 STR for the duration
+    24 hours
+  Dragon's Breath
+  Ingested
+   18
+ You belly becomes filled with the fire of a dragon's breath; each time you speak you breath a fire attack for 30 feet in front of you; if you remain silent for longer than one hour you take 1d12 fire damage
+    24 hours
+   Drow's Wrath
+   Injury
+    18
+  A sweet smell rises from the wound, and the liquid causes you to become poisoned for the duration; if the saving throw scores 13 or less you also fall unconscious for the duration unless awakened. Note that if you are awakened you are still poisoned for the duration
+    1 hour
+ 5
+
+       Your mind empties of all but the most important functions; you
+Dulled Senses Injury; Inhaled 15 are penalised with -2 applied to your AC and all WIS saves, until cured
+limited to one action, and cannot use reactions. Poison requires two consecutive saves to be cured
+   Dwarf's Gamble
+   Ingested
+    6
+   Made from the sweat of dwarves, and grants the poisoned the constitution of a dwarf; passing the check grants +2 CON for the duration. A failed check incapacitates through stomach pain for the duration
+    24 hours
+  Elf's Gamble
+   Ingested
+    6
+  Made from the tears of elves, and grants the poisoned the abilities of vision of their race; passing the check grants vision as per Elf race for the duration; a failed check blinds for the duration
+     24 hours
+   Endless Agony
+   Injury
+    18
+  At the end of each turn for the duration make the saving throw; fail and take 2d8 necrotic damage, pass and take half. This damage cannot be healed by rest, potion, or magic whilst poisoned
+    1 hour
+  Endless Bleeding
+ Injury
+  10
+The wound that causes the injury will not stop bleeding, and cannot be cured by any means until you are no longer poisoned; take 1d6 necrotic damage each round for the duration and if this brings you HP to 0 fall unconscious
+  1 hour
+   Endless Hunger
+    Ingested; Inhaled
+     12
+    For the duration you are beset by an endless, insatiable hunger. Every three days make a saving roll and on failure take +1 exhaustion that is not cured by rest. On any successful save the hunger can fulfilled and normal rules apply to exhaustion levels
+     18 days
+ 6
+
+       At daybreak for the duration make a saving throw; fail and you
+Endless Worry Inhaled 18 are frightened of all unknown living and undead creatures that 1d6 days
+day
+    Foot Rot
+    Ingested; Inhaled
+     12
+   Large painful boils and sores appear on the soles of your feet, making all terrain difficult terrain for the duration
+     24 hours
+  Friendship's Discord
+   Inhaled
+    18
+  Your clouded mind is bitter and angry; you are compelled to argue and bicker with those you call friends for the duration
+     1 minute
+   Gambler's Bane
+   Injury; Ingested
+    15
+  A dual action magical poison - fail the throw and every critical failure you throw has dire consequence to you and others around you; pass and every natural 20 earns greater than average reward
+    24 hours
+  Gambler's Folly
+ Ingested; Inhaled
+  12
+For the duration you are compelled to gamble on anything you think possible, and are persistent in your attempts to the annoyance of all you meet; -2 CHA for the duration
+  2d12 days
+   Gnome's Gamble
+    Ingested
+     6
+    Made from the spit of gnomes, and grants the poisoned the intelligence of their race; passing the check grants +2 INT for the duration. A failed check penalises with -4 INT for the duration
+     24 hours
+  Goblin Blood
+ Injury
+  18
+You are compelled to use disengage as your second action, and end your turn in combat here; if you only have one action you use disengage as a temporary bonus action
+  1 hour
+    Halfling's Gamble
+     Ingested
+      6
+    Made from the hair of a halfling, and grants the poisoned the dexterity of their race; passing the check grants +2 DEX for the duration. A failed check paralyses through muscle pain
+      24 hours
+ 7
+
+       You see a terrifying vision that turns one of your allies into a
+Hideous Visage Inhaled; Contact 15 monster determined by the poisoner; you are compelled to 1 minute
+attack it for the duration
+    Kelemvor's Debt
+    Ingested
+     18
+   Note that you must pass the saving throw to achieve the following results; a failed check results only in your being poisoned for the duration. Your mind overcomes all damage rendered to your body until the end of the duration; a second save must be made a this time and a failed save deals all the accumulated damage at once as necrotic damage; a passed save deals half damage. If this damage takes your HP to 0 you die. Note that healing potions can still be used to remove damage from the total debt for the duration
+     24 hours
+  Kelemvor's Grip
+  Ingested
+   12
+ A strange feeling in your stomach causes a cramp, before developing into an endless agony. On a failed save take 12d6 poison damage, or if the saving throw scores 6 or less 12d10 poison damage; if this brings your HP to 0 you die. A pass takes no damage, but you are poisoned for the duration
+   24 hours
+   Kelemvor's Pull
+   Injury
+    18
+   Make a saving throw on each turn for the duration; fail take 2d6 necrotic damage, pass take half. If this takes your HP to 0 you die
+    1 hour
+  Light Harm
+    Injury; Inhaled
+     12
+   Roll 1d6 and take that much damage, and temporarily lower your HP max by the same number
+     1 hour; 24 hours
+    Liquid Agony
+   Injury
+    12
+  The pain from the wound inflicted doubles. On a failed save take the same damage again as from the attack that poisoned you
+    Single effect
+ 8
+
+       Liquid Sleep Injury 10 Instantly slip into unconsciousness
+8 hours unless awakened
+    Loviatar's Tears
+    Injury
+     18
+   A vile smell emits from the wound inflicted as the poison burns into your blood. Take 8d8 necrotic damage in the first instance, then roll 1d8 necrotic damage at the start of each turn for the duration; if this damage takes your HP to 0 you die
+     1 hour
+  Mage's Agony
+  injury
+   12
+ It hurts to wield your wand, and you must take 1d4 damage on each magic attack roll; if this brings HP to 0 you are rendered unconscious
+   1 hour
+   Mage's Bane
+    Injury
+     15
+    Your mind becomes muddled and all magic attacks deal half damage
+     1 hour
+  Medium Harm
+ Injury; Inhaled
+  15
+Roll 2d8 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0
+  1 hour; 24 hours
+   Most Harm
+   Injury
+    15
+   Roll 3d10 and take that much damage, and temporarily lower your HP max by the same number. If this takes your HP to 0 you fall unconscious. Note your HP max cannot fall below 0
+    1 hour; 24 hours
+  Mystra's Muddle
+  Injury
+   15
+ Make a saving throw each time you use magic to attack; fail and roll DC15 WIS, fail and must use a different spell than the one you wanted to
+   1 hour
+   Oghma's Bane
+    Inhaled
+     12
+    Your mind becomes confused and you easily get bewildered. -4 on all checks based on WIS skills
+     1 hour
+ 9
+
+       Oghma's Blindness
+Injury; Inhaled 15
+Your mind is at war with itself. At the start of each turn after the failed save, roll DC15 INT; on failure go insane for that turn. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The DM controls its movement, which is erratic
+1 hour; 24 hours
+   Oghma's Gift
+    Ingested
+     15
+    Your mind becomes receptive to all knowledge. +4 on all checks based on WIS skills
+     24 hours
+  Oghma's Outpouring
+  Inhaled; Ingested
+   18
+ You must tell the truth when asked any question by anybody on any topic
+    1 hour
+   Paladin's Law
+  Inhaled; Ingested
+   18
+ For the duration, temporarily change your alignment to lawful good and make all in-game decisions entirely true to this; if you are already lawful good this poison has no effect on you
+   2d8 days
+  Rendered Senseless
+   Injury
+    12
+  You are rendered blinded and deafened for the duration
+     1 hour
+   Rotting Gut
+   Ingested; Injury
+    16
+  At midnight for the durations make a saving throw; fail and take 1d6 necrotic damage that is not healed by rest. If this poison takes your HP to 0 you die
+    1d6 days
+  Silvanus' Armour
+ Ingested
+  15
+Your skin thickens as if it were made of old tree bark. You AC cannot be less than 16 for the duration, even if you are not armoured; when the poison wears off the effect is painful; roll 1d6 necrotic damage
+  24 hours
+  Silvanus' Revenge
+   Inhaled; Contact
+   12
+    You become frightened of trees for the duration
+   24 hours
+  Slightest Fright
+ Inhaled
+   15
+Immediately become frightened by any noise louder than a whisper
+   1 hour
+10
+
+   Stone Skin
+  Injury
+   12
+ Roll saving throw on each turn for the duration; each failure is +1 effect, each pass -1. If the player reaches +3 effect, become petrified as stone; -1 ends the effects
+   1 hour
+  Stunned Silence
+    Injury
+     12
+   The wound that causes the injury leaves you stunned, and you remain stunned for the duration
+     1 hour
+    Subjective Submission
+  Ingested; Injury
+   18
+ You become charmed to the poisoner even if they are not present, and can be commanded by them as per Dominate Person spell
+   24 hours; 1 hour
+  Swordsman's Bane
+   Injury
+    15
+  Your hands and wrists swell making attacks with all melee weapons deal half damage
+     1 hour
+   Transmutation
+   Ingested; Inhaled
+    12
+  You turn into the creature determined by the poisoner; equivalent to the Polymorph spell minus wisdom save
+    24 hours
+  Tymora's Blessing
+ Ingested
+  15
+Good luck follows you wherever you are. For the duration, all saving throws or checks have -3 applied, and if you roll 18, 19, or 20 on the d20 it is counted as a critical success
+  24 hours
+   Uncertain Agony
+    Injury
+     15
+    Make a saving throw at the start of each round for 2d6 rounds; on a failed save take 1d4 poison damage. Any passed save ends the damage but you remain poisoned for the duration
+     1 hour
+  Uncertain Charm
+  Injury
+   15
+ Make a saving throw at the start of each round for 2d6 rounds; on a failed save you are charmed by the poisoner. Any passed save ends the condition but you remain poisoned for the duration
+   1 hour
+ 11
+
+   Uncertain Confusion
+   Injury; Inhaled
+    12
+  The poison assaults and twists your mind; this poison is equivalent to the Confusion spell and lasts for either 2d6 rounds if administered through injury, or 2d12 hours if inhaled
+    2d6 rounds; 2d12 days
+  Uncertain Fright
+ Injury
+  15
+Make a saving throw at the start of each round for 2d6 rounds; on a failed save you are frightened of the poisoner. Any passed save ends the condition but you remain poisoned for the duration
+  1 hour
+   Uncertain Sleep
+    Ingested
+    12
+    Instantly fall unconscious for 4d12 hours
+    4d12 hours
+  Vampire Blood
+  Ingested
+   15
+ On failed save take 3d6 necrotic damage; on a pass restore 3d6 HP up to your maximum
+    Single effect
+   Vicious Agony
+  Injury; Ingested
+   15
+ Roll a saving throw each round for the duration; fail and take 3d8 necrotic damage that cannot be healed with magic, potion, or rest; pass take half. If this damage takes HP to 0 you die
+   1 hour; 24 hours
+  Vicious Bandit's Bane
+   Inhaled
+    15
+  On inhalation roll 6d6 damage and remain poisoned for the duration
+     48 hours
+   Vicious Confusion
+   Injury; Inhaled
+    15
+  The poison assaults and twists your mind; this poison is equivalent to the Confusion spell replacing 2-6 with 2d8 psychic damage
+    1 hour; 24 hours
+  Vicious Cyric's Outpouring
+  Inhaled; Contact
+   15
+ You must lie when asked any question by anybody on any topic; any attempt to tell the truth results in 2d12 psychic damage
+    24 hours
+  Vicious Harm
+  Injury
+    15
+ Roll 1d6 and take that much damage, and temporarily lower your HP max by the same number; for the duration roll 1d4 at the start of each turn and repeat the process. If this damage take your HP to 0 you die; your max HP cannot go lower than 1 at any time whilst poisoned
+   1 hour
+12
+
+       The pain from the wound inflicted increases. On a failed save
+Vicious Liquid Agony Injury 15 take the twice the damage again as from the attack that Single effect
+poisoned you
+    Vicious Oghma's Outpouring
+    Inhaled; Ingested
+     18
+   You must tell the truth when asked any question by anybody on any topic; any attempt to tell a lie results in 2d12 psychic damage
+     1 hour
+  Vicious Rotting Gut
+  Ingested; Injury
+   16
+ At midnight for the durations make a saving throw; fail and take 3d8 necrotic damage that is not healed by rest. If this poison takes your HP to 0 you die
+   2d6 days
+   Vile Agony
+    Injury
+     15
+    The wound sears as if it is on fire. On initial failed save take 8d8 necrotic damage, then remain poisoned for the duration
+     1 hour
+  Vile Bandit's Bane
+ Inhaled
+  18
+On inhalation roll 4d8 damage and remain poisoned for the duration; due to the swelling of the face, -2 CHA for the duration
+  48 hours
+  Vile Blindness
+   Inhaled
+   15
+    Bleeding from the eyes causing blindness
+   24 hours
+ Vile Deafness Inhaled 15 Bleeding from the ears causing deafness 24 hours
+   Vile Deformity
+    Inhaled
+     12
+    Causes your joints and face to swell up making it difficult to complete tasks, and hideous to look at; -1 CHA for duration
+     24 hours
+  Vile Liquid Agony
+ Injury
+  15
+The pain from the wound inflicted doubles. On a failed save take the same damage again as from the attack that poisoned you, and take -2 CHA for the duration as the wound is open and rank
+  24 hours
+   Waking Mind
+   Ingested; Injury
+    16
+   At midnight for the duration make a saving throw; fail and you are unable to complete any rest and suffer from +1 exhaustion
+    1d6 days
+  Warrior's Courage
+   Ingested
+    18
+  Your mind is strengthened against all terror and you are unable to become frightened for the duration
+    1d6 days
+ 13
+
+Warrior's Pity
+Injury
+15
+You instantly become frightened and drop the weapon you are using and disengage from combat. When the effects end, you are found hiding in a corner
+1 hour
+Weakened Vampire Blood
+Ingested
+15
+On failed save take 2d8 necrotic damage; on a pass restore 2d8 HP up to your maximum
+Single effect
+Wicked Sin
+Inhaled; Ingested
+18
+For the duration, temporarily change your alignment to chaotic neutral and make all in-game decisions entirely true to this; if you are already chaotic neutral this poison has no effect on you
+2d8 days
