@@ -63,7 +63,7 @@
 				<hdbonusWS type="number">0</hdbonusWS>
 				<hddie type="dice">d8</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">6</level>
+				<level type="number">7</level>
 				<name type="string">Druid</name>
 				<rolls>
 					<lvl-001 type="number">8</lvl-001>
@@ -72,6 +72,7 @@
 					<lvl-004 type="number">5</lvl-004>
 					<lvl-005 type="number">5</lvl-005>
 					<lvl-006 type="number">5</lvl-006>
+					<lvl-007 type="number">5</lvl-007>
 				</rolls>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -949,6 +950,13 @@
 					</id-00002>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d10</hddie>
+						<level type="number">6</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1</cr>
 				<hd type="string">(6d10 + 6)</hd>
 				<hp type="number">39</hp>
@@ -1386,6 +1394,13 @@
 					</id-00002>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d10</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/4</cr>
 				<hd type="string">(2d10 + 2)</hd>
 				<hp type="number">13</hp>
@@ -1442,6 +1457,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d8</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/4</cr>
 				<hd type="string">(2d8 + 2)</hd>
 				<hp type="number">11</hp>
@@ -1578,6 +1600,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d10</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/4</cr>
 				<hd type="string">(2d10 + 2)</hd>
 				<hp type="number">13</hp>
@@ -1635,6 +1664,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d8</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/8</cr>
 				<hd type="string">(2d8 + 2)</hd>
 				<hp type="number">11</hp>
@@ -1699,6 +1735,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d6</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/8</cr>
 				<hd type="string">(2d6)</hd>
 				<hp type="number">7</hp>
@@ -1758,6 +1801,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d8</hddie>
+						<level type="number">2</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">1/8</cr>
 				<hd type="string">(2d8 + 2)</hd>
 				<hp type="number">11</hp>
@@ -1818,6 +1868,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d4</hddie>
+						<level type="number">1</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">0</cr>
 				<hd type="string">(1d4)</hd>
 				<hp type="number">2</hp>
@@ -1959,6 +2016,13 @@
 					</id-00002>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d6</hddie>
+						<level type="number">1</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">0</cr>
 				<hd type="string">(1d6)</hd>
 				<hp type="number">3</hp>
@@ -2023,6 +2087,13 @@
 					</id-00001>
 				</actions>
 				<alignment type="string">unaligned</alignment>
+				<classes>
+					<id-00001>
+						<hddie type="dice">d4</hddie>
+						<level type="number">1</level>
+						<name type="string">NPC</name>
+					</id-00001>
+				</classes>
 				<cr type="string">0</cr>
 				<hd type="string">(1d4- 1)</hd>
 				<hp type="number">1</hp>
@@ -2258,7 +2329,7 @@
 			<encumbered type="number">60</encumbered>
 			<encumberedheavy type="number">120</encumberedheavy>
 			<liftpushdrag type="number">360</liftpushdrag>
-			<load type="number">121</load>
+			<load type="number">122</load>
 			<max type="number">180</max>
 		</encumbrance>
 		<exp type="number">14000</exp>
@@ -2512,13 +2583,13 @@
 		<hp>
 			<adjust type="number">0</adjust>
 			<arcaneward type="number">0</arcaneward>
-			<base type="number">51</base>
+			<base type="number">59</base>
 			<current type="number">57</current>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<lock type="string">false</lock>
 			<temporary type="number">0</temporary>
-			<total type="number">51</total>
+			<total type="number">59</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Peaceful, avoid killing at all costs.</ideals>
@@ -2769,6 +2840,47 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">0.05</weight>
 			</id-00012>
+			<id-00013>
+				<attune type="number">0</attune>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">501 - 5,000 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>This small pouch is filled with enchanted seeds representing various plants and trees. When planted in suitable soil and nurtured by the druid's magic, these seeds rapidly grow into fully mature plants or trees. The druid can use the pouch to create temporary cover, create barriers, or even summon a small forest to provide shelter and healing during a rest.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Evergreen Seed Pouch</name>
+				<nonid_name type="string">Small Leather Pouch</nonid_name>
+				<powergroup type="string">Spells</powergroup>
+				<powers />
+				<prepared type="number">0</prepared>
+				<rarity type="string">Rare</rarity>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">1</weight>
+				<width type="number">0</width>
+			</id-00013>
 			<id-00014>
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -3554,6 +3666,9 @@
 			<id-00035>
 				<name type="string">Wooden Shield</name>
 			</id-00035>
+			<id-00036>
+				<name type="string">Evergreen Seed Pouch</name>
+			</id-00036>
 		</itemgroups>
 		<languagelist>
 			<id-00001>
@@ -3566,10 +3681,10 @@
 				<name type="string">Undercommon</name>
 			</id-00004>
 		</languagelist>
-		<level type="number">6</level>
+		<level type="number">7</level>
 		<martialadvantages />
 		<name type="string">Pine Remaka</name>
-		<notes type="string">Original Stats:\nSTR 12\nDEX 12\nCON 16\nINT 12\nWIS 16\nCHA 12\nLevel 4 improvement: +2 WIS\nSpells Prepared: WIS + Druid level (10)\nHad a human best friend, liked to explore together. His friend thought the weapons in the shop were cool. He and his friend and found a cave that led to the underdark. They were separated when they encoutered a really big spider. He fled to discover a bunch of orcs attacked and plundered his town on the southeastern edge of the High Forest. All were killed or captured. Those that were captured were sold into slavery. Escaped with an older human druid named Alistair and hid. Grew up as hermits in the ruins of his village. Finally felt confident enough to set out on his own in search of his friend and the survivors from his village. Was caught while preparing a ritual spell, overpowered and sold into slavery.\nDrawn to the dragon bone staff in the underdark. Knows it is an artifact of some significance, but doesn't know exactly what it is.\nTraining Mr. Stinker:\n - Potty Training: 2/10\n\nHermit Discovery:\nShapeshifting Revelation:\nYour character stumbled upon a profound revelation about the nature of shapeshifting. They have unlocked the ability to assume forms that were previously unknown or thought to be impossible for druids. Through their research, they can now transform into fantastical creatures like mythical beasts, primal elementals, or even celestial beings. This discovery not only sets them apart as a remarkable druid but also opens up new possibilities for exploration and understanding.</notes>
+		<notes type="string">Original Stats:\nSTR 12\nDEX 12\nCON 16\nINT 12\nWIS 16\nCHA 12\nLevel 4 improvement: +2 WIS\nSpells Prepared: WIS + Druid level (11)\nHad a human best friend, liked to explore together. His friend thought the weapons in the shop were cool. He and his friend and found a cave that led to the underdark. They were separated when they encoutered a really big spider. He fled to discover a bunch of orcs attacked and plundered his town on the southeastern edge of the High Forest. All were killed or captured. Those that were captured were sold into slavery. Escaped with an older human druid named Alistair and hid. Grew up as hermits in the ruins of his village. Finally felt confident enough to set out on his own in search of his friend and the survivors from his village. Was caught while preparing a ritual spell, overpowered and sold into slavery.\nDrawn to the dragon bone staff in the underdark. Knows it is an artifact of some significance, but doesn't know exactly what it is.\nTraining Mr. Stinker:\n - Potty Training: 2/10\n\nHermit Discovery:\nShapeshifting Revelation:\nYour character stumbled upon a profound revelation about the nature of shapeshifting. They have unlocked the ability to assume forms that were previously unknown or thought to be impossible for druids. Through their research, they can now transform into fantastical creatures like mythical beasts, primal elementals, or even celestial beings. This discovery not only sets them apart as a remarkable druid but also opens up new possibilities for exploration and understanding.</notes>
 		<perception type="number">14</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">Believe no one is better than anyone else, has a good sense of humor.</personalitytraits>
@@ -3659,7 +3774,7 @@
 				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
-				<max type="number">0</max>
+				<max type="number">1</max>
 				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>

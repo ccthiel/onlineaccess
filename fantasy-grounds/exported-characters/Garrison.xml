@@ -63,7 +63,7 @@
 				<hdbonusWS type="number">0</hdbonusWS>
 				<hddie type="dice">d8</hddie>
 				<hdused type="number">3</hdused>
-				<level type="number">6</level>
+				<level type="number">7</level>
 				<name type="string">Rogue</name>
 				<rolls>
 					<lvl-001 type="number">8</lvl-001>
@@ -72,11 +72,16 @@
 					<lvl-004 type="number">5</lvl-004>
 					<lvl-005 type="number">5</lvl-005>
 					<lvl-006 type="number">6</lvl-006>
+					<lvl-007 type="number">5</lvl-007>
 				</rolls>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
 					<recordname>reference.classdata.rogue@DD PHB Deluxe</recordname>
 				</shortcut>
+				<specializationlink type="windowreference">
+					<class />
+					<recordname />
+				</specializationlink>
 			</id-00001>
 		</classes>
 		<cohorts />
@@ -133,12 +138,26 @@
 				<save_modifier type="number">0</save_modifier>
 				<susceptiblity_modifier type="number">0</susceptiblity_modifier>
 			</id-00001>
+			<id-00002>
+				<ability_modifier type="number">0</ability_modifier>
+				<actiononly type="number">0</actiononly>
+				<durdice type="dice"></durdice>
+				<durmod type="number">0</durmod>
+				<effect type="string">Evasion</effect>
+				<effect_description type="string">[Evasion]</effect_description>
+				<misc_modifier type="number">0</misc_modifier>
+				<misc_type type="string">check</misc_type>
+				<name type="string">Garrison</name>
+				<save_modifier type="number">0</save_modifier>
+				<save_type type="string">modifier</save_type>
+				<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+			</id-00002>
 		</effectlist>
 		<encumbrance>
 			<encumbered type="number">65</encumbered>
 			<encumberedheavy type="number">130</encumberedheavy>
 			<liftpushdrag type="number">390</liftpushdrag>
-			<load type="number">141</load>
+			<load type="number">156</load>
 			<max type="number">195</max>
 		</encumbrance>
 		<exp type="number">14000</exp>
@@ -309,6 +328,17 @@
 				</text>
 				<titlename type="string">Know-It-All</titlename>
 			</id-00012>
+			<id-00013>
+				<actions />
+				<hpadd type="number">0</hpadd>
+				<level type="number">7</level>
+				<locked type="number">1</locked>
+				<name type="string">Evasion</name>
+				<prepared type="number">0</prepared>
+				<text type="formattedtext">
+					<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
+				</text>
+			</id-00013>
 		</featurelist>
 		<flaws type="string">Extremely slow to trust people.</flaws>
 		<gender type="string">Male</gender>
@@ -316,15 +346,15 @@
 		<hp>
 			<adjust type="number">0</adjust>
 			<arcaneward type="number">0</arcaneward>
-			<base type="number">40</base>
+			<base type="number">46</base>
 			<current type="number">0</current>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<hdmod type="number">0</hdmod>
 			<lock type="string">false</lock>
 			<temporary type="number">0</temporary>
-			<total type="number">40</total>
-			<wounds type="number">10</wounds>
+			<total type="number">46</total>
+			<wounds type="number">2</wounds>
 		</hp>
 		<ideals type="string">Fighting for good.</ideals>
 		<initiative>
@@ -742,6 +772,59 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">2</weight>
 			</id-00009>
+			<id-00010>
+				<attune type="number">0</attune>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">1</carried>
+				<contentscount type="number">0</contentscount>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet.</p>
+					<p>The bag weighs 15 pounds, regardless of its contents.</p>
+					<p>Retrieving an item from the bag requires an action.</p>
+					<p>If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.</p>
+					<p>Placing a bag of holding inside an extra dimensional space created by a <i>Heward's handy haversack </i>, <i>portable hole </i>, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>
+				</description>
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Bag of Holding</name>
+				<nonid_name type="string">Bag</nonid_name>
+				<nonidentified type="string">A bag made of brightly colored pieces of cloth sewn together with fine thread and with a leather strap.</nonidentified>
+				<properties type="string">Magic</properties>
+				<rarity type="string">Uncommon</rarity>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Bag of Holding</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class />
+							<recordname />
+						</link>
+						<name type="string">Bag (H)</name>
+					</id-00002>
+				</spells>
+				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
+				<weight type="number">15</weight>
+				<width type="number">0</width>
+			</id-00010>
 			<id-00011>
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -1492,6 +1575,9 @@
 			<id-00004>
 				<name type="string">Dagger with Royal Seal</name>
 			</id-00004>
+			<id-00005>
+				<name type="string">Bag of Holding</name>
+			</id-00005>
 			<id-00007>
 				<name type="string">Knife (Small)</name>
 			</id-00007>
@@ -1582,10 +1668,10 @@
 				<name type="string">Infernal</name>
 			</id-00002>
 		</languagelist>
-		<level type="number">6</level>
+		<level type="number">7</level>
 		<martialadvantages />
 		<name type="string">Garrison</name>
-		<notes type="string">Original Stats:\nSTR 12\nDEX 15\nCON 12\nINT 14\nWIS 12\nCHA 14\nLevel 4 improvement: +1 STR, CON\nOriginally born in Waterdeep, abandoned and left on the streets. Eventually adopted by the Shorclar clan. Was in an evil town, overwhelmed, captured and sold to slavers. Doesn't know anything about his family.\nShorclar clan is a bunch of "robin hoods" - steal from corrupt people and help in other ways with those less fortunate within the city. Operating in out of Waterdeep, looking to spread out from there.\n\nShorclar Clan Leader: TBD\nCriminal Contact/ best friend growing up: Armarius Menetrian\nAmarius: Born into the Shorclar clan. Not abandoned, but raised within the clan. His parents were kind of foster parents for Garrison. He has an estranged sister. Garrison never knew her well. As soon as she could leave the clan, she did, to set out on her own.</notes>
+		<notes type="string">Original Stats:\nSTR 12\nDEX 15\nCON 12\nINT 14\nWIS 12\nCHA 14\nLevel 4 improvement: +1 STR, CON\nOriginally born in Waterdeep, abandoned and left on the streets. Eventually adopted by the Shorclar clan. Was in an evil town, overwhelmed, captured and sold to slavers. Doesn't know anything about his family.\nShorclar clan is a bunch of "robin hoods" - steal from corrupt people and help in other ways with those less fortunate within the city. Operating in out of Waterdeep, looking to spread out from there.\n\nShorclar Clan Leader: Elara Shadowdancer\nCriminal Contact/ best friend growing up: Armarius Menetrian\nAmarius: Born into the Shorclar clan. Not abandoned, but raised within the clan. His parents were kind of foster parents for Garrison. He has an estranged sister. Garrison never knew her well. As soon as she could leave the clan, she did, to set out on her own.</notes>
 		<perception type="number">17</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">Arrogant, likeable and brave. Hides emotions.</personalitytraits>
@@ -1598,6 +1684,9 @@
 			<id-00002>
 				<name type="string">Rogue Power</name>
 			</id-00002>
+			<id-00003>
+				<name type="string">Rogue Actions/Effects</name>
+			</id-00003>
 			<id-00004>
 				<atkmod type="number">0</atkmod>
 				<atkprof type="number">1</atkprof>
@@ -1744,7 +1833,7 @@
 						<apply type="string">roll</apply>
 						<burstsize type="number">0</burstsize>
 						<durmod type="number">0</durmod>
-						<label type="string">DMG: 3d6</label>
+						<label type="string">DMG: 4d6</label>
 						<order type="number">1</order>
 						<targeting type="string">self</targeting>
 						<type type="string">effect</type>
@@ -1840,6 +1929,26 @@
 				<school type="string">Evocation</school>
 				<source type="string">Druid Swamp Circle, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00005>
+			<id-00006>
+				<actions>
+					<id-00001>
+						<label type="string">Evasion</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
+				</actions>
+				<arcanewardlevel type="number">0</arcanewardlevel>
+				<description type="formattedtext">
+					<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
+				</description>
+				<group type="string">Rogue Actions/Effects</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Evasion</name>
+				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+			</id-00006>
 		</powers>
 		<profbonus type="number">3</profbonus>
 		<proficiencylist>
@@ -2057,6 +2166,7 @@
 			</id-00002>
 		</traitlist>
 		<units />
+		<vehicles />
 		<weapon>
 			<critdicebonus>
 				<melee type="number">0</melee>

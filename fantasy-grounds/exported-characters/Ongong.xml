@@ -110,9 +110,9 @@
 				<disstealth type="number">1</disstealth>
 				<misc type="number">0</misc>
 				<prof type="number">1</prof>
-				<shield type="number">2</shield>
+				<shield type="number">0</shield>
 				<temporary type="number">0</temporary>
-				<total type="number">18</total>
+				<total type="number">16</total>
 			</ac>
 		</defenses>
 		<deity type="string">Tyr - God of Justice</deity>
@@ -141,12 +141,24 @@
 				<save_modifier type="number">0</save_modifier>
 				<susceptiblity_modifier type="number">0</susceptiblity_modifier>
 			</id-00002>
+			<id-00003>
+				<ability_modifier type="number">0</ability_modifier>
+				<actiononly type="number">0</actiononly>
+				<durdice type="dice"></durdice>
+				<durmod type="number">0</durmod>
+				<effect type="string">Darkvision - Permanent; VISION: 60 darkvision</effect>
+				<effect_description type="string">[Darkvision - Permanent; VISION: 60 darkvision]</effect_description>
+				<misc_modifier type="number">0</misc_modifier>
+				<name type="string">Ongong The Great</name>
+				<save_modifier type="number">0</save_modifier>
+				<susceptiblity_modifier type="number">0</susceptiblity_modifier>
+			</id-00003>
 		</effectlist>
 		<encumbrance>
 			<encumbered type="number">90</encumbered>
 			<encumberedheavy type="number">180</encumberedheavy>
 			<liftpushdrag type="number">540</liftpushdrag>
-			<load type="number">286</load>
+			<load type="number">292</load>
 			<max type="number">270</max>
 		</encumbrance>
 		<exp type="number">0</exp>
@@ -504,11 +516,14 @@
 				<ac type="number">0</ac>
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
 				<carried type="number">1</carried>
 				<contentscount type="number">0</contentscount>
 				<contentsvolume type="number">0</contentsvolume>
 				<cost type="string">101 - 500 gp</cost>
 				<count type="number">1</count>
+				<depth type="number">0</depth>
 				<description type="formattedtext">
 					<h>Description</h>
 					<linklist>
@@ -519,8 +534,14 @@
 					<p>If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.</p>
 					<p>Placing a bag of holding inside an extra dimensional space created by a <i>Heward's handy haversack </i>, <i>portable hole </i>, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>
 				</description>
+				<effectlist />
 				<extraplanarcontents type="number">27</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
 				<isidentified type="number">1</isidentified>
+				<length type="number">0</length>
 				<locked type="number">1</locked>
 				<name type="string">Bag of Holding</name>
 				<nonid_name type="string">Bag</nonid_name>
@@ -544,7 +565,9 @@
 					</id-00002>
 				</spells>
 				<type type="string">Wondrous Item</type>
+				<volume type="number">0</volume>
 				<weight type="number">15</weight>
+				<width type="number">0</width>
 			</id-00003>
 			<id-00004>
 				<attune type="number">0</attune>
@@ -830,7 +853,7 @@
 			</id-00015>
 			<id-00016>
 				<attune type="number">0</attune>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">2 gp</cost>
 				<count type="number">1</count>
 				<damage type="string">1d4 piercing</damage>
@@ -927,7 +950,7 @@
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
 				<capacityweight type="number">0</capacityweight>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<contentsvolume type="number">0</contentsvolume>
 				<cost type="string">15 gp</cost>
 				<count type="number">1</count>
@@ -985,7 +1008,7 @@
 				<ac type="number">0</ac>
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">5 gp</cost>
 				<count type="number">2</count>
 				<damage type="string">1d6 bludgeoning</damage>
@@ -1021,7 +1044,7 @@
 				<ac type="number">0</ac>
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">1 gp</cost>
 				<count type="number">3</count>
 				<damage type="string">-</damage>
@@ -1214,7 +1237,7 @@
 			<id-00032>
 				<ac type="number">2</ac>
 				<attune type="number">0</attune>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">10 gp</cost>
 				<count type="number">1</count>
 				<description type="formattedtext">
@@ -1448,6 +1471,34 @@
 				<type type="string">Wealth and Money</type>
 				<weight type="number">1.56</weight>
 			</id-00042>
+			<id-00044>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">50 gp</cost>
+				<count type="number">1</count>
+				<damage type="string">2d6 slashing</damage>
+				<depth type="number">0</depth>
+				<description type="formattedtext" />
+				<effectlist />
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Greatsword</name>
+				<properties type="string">Heavy, two-handed</properties>
+				<subtype type="string">Martial Weapons</subtype>
+				<type type="string">Weapon</type>
+				<volume type="number">0</volume>
+				<weight type="number">6</weight>
+				<width type="number">0</width>
+			</id-00044>
 		</inventorylist>
 		<itemgroups>
 			<id-00001>
@@ -1576,6 +1627,9 @@
 			<id-00042>
 				<name type="string">Black Skull Mace</name>
 			</id-00042>
+			<id-00044>
+				<name type="string">Greatsword</name>
+			</id-00044>
 		</itemgroups>
 		<languagelist>
 			<id-00001>
@@ -1594,7 +1648,7 @@
 		<level type="number">7</level>
 		<martialadvantages />
 		<name type="string">Ongong The Great</name>
-		<notes type="string">Paladin Spells Prepared: CHA modifier + half paladin level (3) = 5\n\nOriginal Stats: 16 STR, 14 DEX, 14 CON, 10 INT, 12 WIS, 14 CHA\n\nFavors Earned: 2</notes>
+		<notes type="string">Paladin Spells Prepared: CHA modifier (2) + half paladin level (3) = 5\n\nOriginal Stats: 16 STR, 14 DEX, 14 CON, 10 INT, 12 WIS, 14 CHA\n\nFavors Earned: 2</notes>
 		<perception type="number">11</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<powerdisplaymode type="string">action</powerdisplaymode>
@@ -1674,7 +1728,7 @@
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">4</max>
-				<used type="number">1</used>
+				<used type="number">3</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">3</max>
@@ -1901,7 +1955,7 @@
 				<level type="number">1</level>
 				<locked type="number">1</locked>
 				<name type="string">Cure Wounds</name>
-				<prepared type="number">0</prepared>
+				<prepared type="number">1</prepared>
 				<range type="string">Touch</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Evocation</school>
@@ -1993,7 +2047,7 @@
 				<level type="number">1</level>
 				<locked type="number">1</locked>
 				<name type="string">Detect Poison and Disease</name>
-				<prepared type="number">0</prepared>
+				<prepared type="number">1</prepared>
 				<range type="string">Self</range>
 				<ritual type="number">1</ritual>
 				<school type="string">Divination</school>
@@ -2023,7 +2077,7 @@
 				<level type="number">1</level>
 				<locked type="number">1</locked>
 				<name type="string">Divine Favor</name>
-				<prepared type="number">1</prepared>
+				<prepared type="number">0</prepared>
 				<range type="string">Self</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Evocation</school>
@@ -2455,7 +2509,7 @@
 				<level type="number">2</level>
 				<locked type="number">1</locked>
 				<name type="string">Magic Weapon</name>
-				<prepared type="number">1</prepared>
+				<prepared type="number">0</prepared>
 				<range type="string">Touch</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Transmutation</school>
@@ -2513,7 +2567,7 @@
 				<level type="number">2</level>
 				<locked type="number">1</locked>
 				<name type="string">Zone of Truth</name>
-				<prepared type="number">1</prepared>
+				<prepared type="number">0</prepared>
 				<range type="string">60 feet</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Enchantment</school>
@@ -2584,7 +2638,7 @@
 				<level type="number">1</level>
 				<locked type="number">1</locked>
 				<name type="string">Hunter's Mark</name>
-				<prepared type="number">0</prepared>
+				<prepared type="number">1</prepared>
 				<range type="string">90 feet</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Divination</school>
@@ -2792,6 +2846,9 @@
 				</actions>
 				<arcanewardlevel type="number">0</arcanewardlevel>
 				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p />
+				</description>
 				<group type="string">Racial Trait</group>
 				<level type="number">0</level>
 				<name type="string">Relentless Endurance</name>
@@ -2815,7 +2872,7 @@
 		</racelink>
 		<resources>
 			<id-00001>
-				<current type="number">30</current>
+				<current type="number">0</current>
 				<gainall type="number">1</gainall>
 				<gaindice type="dice"></gaindice>
 				<gainmodifier type="number">0</gainmodifier>
@@ -3174,7 +3231,7 @@
 					<missrecoverypercentage type="number">50</missrecoverypercentage>
 				</ammunitionmanager>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -3201,7 +3258,7 @@
 					<isloaded type="number">0</isloaded>
 				</ammunitionmanager>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -3229,7 +3286,7 @@
 					<missrecoverypercentage type="number">50</missrecoverypercentage>
 				</ammunitionmanager>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -3282,7 +3339,7 @@
 					<isloaded type="number">0</isloaded>
 				</ammunitionmanager>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -3308,7 +3365,7 @@
 					<isloaded type="number">0</isloaded>
 				</ammunitionmanager>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -3432,6 +3489,33 @@
 				</shortcut>
 				<type type="number">0</type>
 			</id-00014>
+			<id-00015>
+				<ammunitionmanager>
+					<isloaded type="number">0</isloaded>
+				</ammunitionmanager>
+				<attackbonus type="number">0</attackbonus>
+				<carried type="number">1</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">2d6</dice>
+						<stat type="string">base</stat>
+						<statmult type="number">1</statmult>
+						<type type="string">slashing</type>
+					</id-00001>
+				</damagelist>
+				<handling type="number">1</handling>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Greatsword</name>
+				<prof type="number">1</prof>
+				<properties type="string">Heavy, two-handed</properties>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00044</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00015>
 		</weaponlist>
 		<wildshapes>
 			<shifted type="number">0</shifted>
