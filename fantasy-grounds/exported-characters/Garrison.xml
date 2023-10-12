@@ -62,7 +62,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hdbonusWS type="number">0</hdbonusWS>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">3</hdused>
+				<hdused type="number">0</hdused>
 				<level type="number">7</level>
 				<name type="string">Rogue</name>
 				<rolls>
@@ -95,7 +95,7 @@
 				<name type="string">PP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">141</amount>
+				<amount type="number">140</amount>
 				<name type="string">GP</name>
 			</slot2>
 			<slot3>
@@ -354,7 +354,7 @@
 			<lock type="string">false</lock>
 			<temporary type="number">0</temporary>
 			<total type="number">46</total>
-			<wounds type="number">2</wounds>
+			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Fighting for good.</ideals>
 		<initiative>
@@ -864,6 +864,13 @@
 				<weight type="number">3</weight>
 				<width type="number">0</width>
 			</id-00012>
+			<id-00013>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<name type="string">Chess Set</name>
+				<weight type="number">0.5</weight>
+			</id-00013>
 			<id-00014>
 				<ac type="number">0</ac>
 				<attune type="number">0</attune>
@@ -938,7 +945,7 @@
 				<capacityweight type="number">0</capacityweight>
 				<carried type="number">1</carried>
 				<contentsvolume type="number">0</contentsvolume>
-				<cost type="string">371.24 gp</cost>
+				<cost type="string">370.24 gp</cost>
 				<count type="number">1</count>
 				<depth type="number">0</depth>
 				<description type="formattedtext">
@@ -954,7 +961,7 @@
 				<name type="string">Coins</name>
 				<type type="string">Wealth and Money</type>
 				<volume type="number">0</volume>
-				<weight type="number">3.4</weight>
+				<weight type="number">3.38</weight>
 				<width type="number">0</width>
 			</id-00017>
 			<id-00018>
@@ -1939,6 +1946,7 @@
 					</id-00001>
 				</actions>
 				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
 				<description type="formattedtext">
 					<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
 				</description>

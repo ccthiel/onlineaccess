@@ -3036,6 +3036,7 @@
 				<ac type="number">0</ac>
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
+				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
 				<carried type="number">2</carried>
 				<contentsvolume type="number">0</contentsvolume>
@@ -3767,7 +3768,7 @@
 			</spellslots1>
 			<spellslots2>
 				<max type="number">3</max>
-				<used type="number">0</used>
+				<used type="number">1</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">3</max>
@@ -3775,7 +3776,7 @@
 			</spellslots3>
 			<spellslots4>
 				<max type="number">1</max>
-				<used type="number">0</used>
+				<used type="number">1</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
@@ -5762,7 +5763,7 @@
 					</id-00001>
 				</actions>
 				<arcanewardlevel type="number">0</arcanewardlevel>
-				<cast type="number">1</cast>
+				<cast type="number">0</cast>
 				<description type="formattedtext">
 					<p />
 				</description>

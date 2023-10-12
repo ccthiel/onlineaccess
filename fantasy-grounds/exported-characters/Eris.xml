@@ -66,7 +66,7 @@
 				<casterpactmagic type="number">1</casterpactmagic>
 				<hdbonusWS type="number">0</hdbonusWS>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">1</hdused>
+				<hdused type="number">0</hdused>
 				<level type="number">5</level>
 				<name type="string">Warlock</name>
 				<rolls>
@@ -90,7 +90,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hdbonusWS type="number">0</hdbonusWS>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">1</hdused>
+				<hdused type="number">0</hdused>
 				<level type="number">2</level>
 				<name type="string">Bard</name>
 				<rolls>
@@ -241,7 +241,7 @@
 				<name type="string">PP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">164</amount>
+				<amount type="number">154</amount>
 				<name type="string">GP</name>
 			</slot2>
 			<slot3>
@@ -988,7 +988,7 @@
 			<lock type="string">false</lock>
 			<temporary type="number">0</temporary>
 			<total type="number">52</total>
-			<wounds type="number">2</wounds>
+			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">People. I like seeing people smile.</ideals>
 		<initiative>
@@ -1435,7 +1435,7 @@
 				<capacityweight type="number">0</capacityweight>
 				<carried type="number">1</carried>
 				<contentsvolume type="number">0</contentsvolume>
-				<cost type="string">214.35 gp</cost>
+				<cost type="string">204.35 gp</cost>
 				<count type="number">1</count>
 				<depth type="number">0</depth>
 				<description type="formattedtext">
@@ -1456,7 +1456,7 @@
 				<name type="string">Coins</name>
 				<type type="string">Wealth and Money</type>
 				<volume type="number">0</volume>
-				<weight type="number">3.54</weight>
+				<weight type="number">3.34</weight>
 				<width type="number">0</width>
 			</id-00019>
 			<id-00020>
@@ -2798,6 +2798,20 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">1</weight>
 			</id-00060>
+			<id-00061>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<name type="string">Iron Lock and Key</name>
+				<weight type="number">0</weight>
+			</id-00061>
+			<id-00063>
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<name type="string">Ironm Chain</name>
+				<weight type="number">0</weight>
+			</id-00063>
 		</inventorylist>
 		<itemgroups>
 			<id-00001>
@@ -3153,7 +3167,7 @@
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">3</max>
-				<used type="number">3</used>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">0</max>
@@ -3243,10 +3257,10 @@
 			</id-00001>
 			<id-00002>
 				<actions />
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<arcanewardpactritual type="number">0</arcanewardpactritual>
-				<arcanewardritual type="number">1</arcanewardritual>
+				<arcanewardritual type="number">0</arcanewardritual>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 hour</castingtime>
 				<components type="string">V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)</components>
@@ -3337,6 +3351,7 @@
 				</actions>
 				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
 				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
 				<description type="formattedtext">
 					<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include that bonus.</p>
 				</description>
@@ -3417,7 +3432,7 @@
 						<type type="string">effect</type>
 					</id-00001>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -3471,10 +3486,10 @@
 						<type type="string">effect</type>
 					</id-00001>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<arcanewardpactritual type="number">0</arcanewardpactritual>
-				<arcanewardritual type="number">1</arcanewardritual>
+				<arcanewardritual type="number">0</arcanewardritual>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
 				<components type="string">V, S, M (a pinch of soot and salt)</components>
@@ -3711,7 +3726,7 @@
 						<type type="string">damage</type>
 					</id-00005>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -3880,7 +3895,7 @@
 						<type type="string">effect</type>
 					</id-00002>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -3916,7 +3931,7 @@
 						<type type="string">heal</type>
 					</id-00001>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -3969,10 +3984,10 @@
 			</id-00021>
 			<id-00022>
 				<actions />
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<arcanewardpactritual type="number">0</arcanewardpactritual>
-				<arcanewardritual type="number">1</arcanewardritual>
+				<arcanewardritual type="number">0</arcanewardritual>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 minute</castingtime>
 				<components type="string">V, S, M (a pearl worth at least 100 gp and an owl feather)</components>
@@ -4002,7 +4017,7 @@
 						<type type="string">effect</type>
 					</id-00002>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -4026,10 +4041,10 @@
 			</id-00023>
 			<id-00024>
 				<actions />
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<arcanewardpactritual type="number">0</arcanewardpactritual>
-				<arcanewardritual type="number">1</arcanewardritual>
+				<arcanewardritual type="number">0</arcanewardritual>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
 				<components type="string">V, S</components>
@@ -4111,6 +4126,7 @@
 				</actions>
 				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
 				<arcanewardlevel type="number">0</arcanewardlevel>
+				<cast type="number">0</cast>
 				<description type="formattedtext">
 					<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.</p>
 					<p>The extra hit points increase when you reach certain levels in this class: 1d8 at 9th level, 1d10 at 13th level, and 1d12 at 17th level.</p>
@@ -4152,7 +4168,7 @@
 						<type type="string">effect</type>
 					</id-00003>
 				</actions>
-				<arcanewardcastaspact type="number">1</arcanewardcastaspact>
+				<arcanewardcastaspact type="number">0</arcanewardcastaspact>
 				<arcanewardlevel type="number">1</arcanewardlevel>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
