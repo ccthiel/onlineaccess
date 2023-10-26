@@ -106,24 +106,7 @@ Quest Item – unlimited
 When you gain a Potion, draw the top card.  When you gain 
 Gear, choose one from the Gear stacks.  When you gain 
 Treasure, choose one of the face-up Treasures from the 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
-market.  Whenever a Treasure leaves the market, replace it 
+Market.  Whenever a Treasure leaves the market, replace it 
 with the top card from the Treasure deck.  When you find a 
 quest item, take it from the quest item deck in the box. 
 
@@ -148,7 +131,6 @@ lose resources or items that you do not have.
 
 •  The outcome of a failed quest instructs you to. 
 •  ANY TIME a building in YOUR HOME kingdom is 
-
 destroyed. 
 
 When you gain a Corruption, draw the top card of the 
@@ -232,29 +214,7 @@ In the 1st month, the first turn is taken by the start player.
 Then play continues clockwise with each player taking 
 EXACTLY ONE TURN in the 1st month. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-In the following months, the first turn is taken by the player 
+In the following months, the first turn is taken by the player 
 seated to the left of the player that took the final turn in the 
 PREVIOUS month.  Play continues clockwise – you will know 
 the average number of turns per month, but not the exact 
@@ -366,28 +326,7 @@ a dungeon, calculate your automatic Advantages (black).
 You CAN spend the cost to gain conditional Advantages 
 (gray) IN THE MIDDLE of a battle or dungeon, if needed. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-If you gain an item in the middle of a battle or dungeon, you 
+If you gain an item in the middle of a battle or dungeon, you 
 IMMEDIATELY gain any automatic Advantages it gives AND 
 you can use them in the SAME action.  If you lose an item in 
 the middle of a battle or dungeon that gave you an 
