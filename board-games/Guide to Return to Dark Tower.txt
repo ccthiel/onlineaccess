@@ -437,24 +437,7 @@ Once per turn, you may Reinforce at a space with a building.
 Each building has something you can gain for free and an 
 enhanced option that costs Spirit. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-•  Citadel – Gain 1 Potion (draw from deck) for free 
+•  Citadel – Gain 1 Potion (draw from deck) for free 
 OR spend 5 Spirit to gain 1 Virtue (flip one of your 
 inactive Virtues face up). 
 
