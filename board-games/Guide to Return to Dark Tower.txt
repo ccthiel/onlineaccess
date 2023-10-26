@@ -1,0 +1,643 @@
+Guide to Return to Dark Tower 
+
+WORLD SET-UP 
+- Place the game board so that each kingdom faces a 
+different player.   
+- Turn on the Tower.  Each level will rotate.  When they 
+finish, slide the 12 seals to cover the openings.  Place the 
+Tower in the center of the game board. 
+- Place the 16 buildings in their spaces. 
+- Set aside the warrior tokens, the Spirit tokens, and 
+EXACTLY 24 skulls to create the supply.  The game comes 
+with extra skulls in case any get lost. 
+- Sort the Gear cards into 6 separate face-up stacks, making 
+sure that each stack has 3 copies of a single card. 
+- Shuffle the Treasure cards together to form a face-down 
+deck.  Draw the top 3 cards and place them in a face-up row 
+to form the market. 
+- Shuffle the Potion cards together into a face-down deck. 
+- Shuffle the Corruption cards together into a face-down 
+deck. 
+- Place the companion cards, quest markers, and the haggle 
+die near the game board. 
+- Leave the other tokens in the game box for now as you will 
+not need all of them in every game.  You will retrieve them 
+later, if required. 
+
+HERO SET-UP 
+- Players decide which Hero they will play and determine a 
+start player. 
+- Each player places their Hero board in front of them. 
+- Place the 3 Hero Virtue tiles for your Hero in empty slots 
+on your Hero board, inactive side up.   
+- Place your Hero figure on the space with the citadel in the 
+kingdom in front of you.  This kingdom is your HOME 
+kingdom. 
+- Place the kingdom Virtue tile for your home kingdom in 
+one of the empty slots on your Hero board. 
+- Collect your starting resources (7 Warriors and 1 Spirit) 
+from the supply. 
+
+APP SET-UP 
+- Launch the app from your device and select New Game. 
+- Follow the prompts in the app to sync your device with 
+your Tower. 
+- Select your game mode – cooperative or competitive.  The 
+default difficulty is Heroic, but you can change it to Gritty 
+for a harder game.  Also, select any expansions you are 
+using. 
+- Select the number of players. 
+- Select your Main Goal and retrieve the matching 
+companion card. 
+- Select your Adversary and place the matching Adversary 
+card and token nearby. 
+
+- Select your Foes – one Level 2, one Level 3, and one Level 
+4. 
+- When you are ready to begin, press Begin Game. 
+- Follow the final set-up instructions in the app – adding 
+skulls, spawning Foes, placing the Main Goal quest marker, 
+etc. 
+- The recommended first game is Recover Azkol’s Treasures 
+and Ashstrider. 
+
+CONCEPTS TO KNOW - HEROES 
+Advantages – There are 6 types of Advantages linked to the 
+6 traits found on dungeons and Foes.  Wild Advantages 
+count as any of these 6. 
+
+You calculate Advantages before you battle Foes or explore 
+dungeons with matching traits and spend them to improve 
+the results of battle cards or dungeon rooms. 
+
+Advantages with a BLACK background are automatic and do 
+NOT have a cost.  Advantages with a GRAY background are 
+conditional and have a cost. 
+
+Warriors – These are an important resource when battling 
+Foes, exploring dungeons, and completing quests.  These 
+tokens are unlimited, so use a proxy if you run out. 
+
+Spirit – This is a resource that allows Heroes to move 
+farther, gain Virtues, remove Corruption, and improve 
+effectiveness when reinforcing.  These tokens are 
+unlimited, so use a proxy if you run out. 
+
+Virtues – These are special abilities unique to your Hero.  
+You start the game with 3 active Virtues and 3 inactive 
+Virtues, which can be gained in-game.  You gain a Virtue by 
+spending Spirit when reinforcing at a citadel. 
+
+When you gain a Virtue, flip one of your inactive Virtues to 
+its active side.  It goes into effect IMMEDIATELY and CAN 
+be used MULTIPLE times per interaction. 
+
+Items – There are four types of items – Potions, Gear, 
+Treasures, and quest items.  You gain items by reinforcing, 
+defeating Foes, exploring dungeons, and completing quests.  
+You can ONLY use your items on YOUR turn.  Each Hero can 
+carry a certain number of items: 
+
+Potions – unlimited 
+Gear – up to 1 of each 
+Treasure – up to 4 
+Quest Item – unlimited 
+
+When you gain a Potion, draw the top card.  When you gain 
+Gear, choose one from the Gear stacks.  When you gain 
+Treasure, choose one of the face-up Treasures from the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+market.  Whenever a Treasure leaves the market, replace it 
+with the top card from the Treasure deck.  When you find a 
+quest item, take it from the quest item deck in the box. 
+
+Buildings – There are 4 types of buildings – citadels, 
+sanctuaries, villages, and bazaars.  Each kingdom has one 
+building of each type. 
+
+Companions – These are allies who aid your efforts.  In each 
+game, there is a main companion who offers beneficial 
+quests.  Some quests let you recruit other companions who 
+will provide their abilities to the Hero they accompany. 
+
+When a quest to gain a new companion is completed, the 
+new companion joins the Hero that completed the quest 
+and will accompany the Heroes for the rest of the game. 
+
+Corruptions – These are penalties that weaken your Hero.  
+You gain Corruptions when: 
+
+•  An event, battle card, or dungeon room makes you 
+lose resources or items that you do not have. 
+
+•  The outcome of a failed quest instructs you to. 
+•  ANY TIME a building in YOUR HOME kingdom is 
+
+destroyed. 
+
+When you gain a Corruption, draw the top card of the 
+Corruption deck and place it on your Hero board.  It goes 
+into effect IMMEDIATELY. 
+
+You CANNOT gain more than ONE Corruption per event, 
+battle card, or dungeon room, HOWEVER if you take a 
+Corruption from one of these AND there is additional 
+consequence of a building (or more than one) in your 
+kingdom being destroyed, you take a Corruption from the 
+event/battle card/dungeon room AND a Corruption for 
+EACH building destroyed in your kingdom. 
+
+You can ONLY have up to TWO Corruptions.  If you would 
+ever gain a third, the players LOSE THE GAME and press the 
+Game Lost button in the app. 
+
+It is possible for players to remove Corruptions.  Place 
+removed Corruptions at the bottom of the Corruption deck. 
+
+CONCEPTS TO KNOW – THE WORLD 
+Kingdoms – The board is divided into 4 kingdoms – North, 
+South, East, and West.  The kingdoms are separated by 
+rivers and each kingdom has 15 spaces, with terrain types 
+designated by color and icon. 
+
+The kingdom facing you is your HOME kingdom.  The 
+kingdom your figure is in is your CURRENT kingdom. 
+
+In games with fewer than 4 players, a kingdom that is not 
+anyone’s home is a DORMANT kingdom. 
+
+While you are on a space with a building, you can take the 
+Reinforce Action. 
+
+Whenever a building is destroyed, the building and the 3 
+skulls on it are REMOVED FROM THE GAME.  The Hero 
+whose home kingdom the building was in gains a 
+Corruption.  If it was in a dormant kingdom, the NO ONE 
+gains a Corruption. 
+
+Skulls – Skulls represent the growing influence of evil.  
+When skulls emerge from the Tower or are added due to 
+events, they MUST be placed on buildings.  As seals on the 
+Tower are removed, skulls will emerge with greater 
+frequency. 
+
+Each building can hold up to 3 skulls.  If a 4th skull would be 
+placed on a building, the building is destroyed instead.  If 
+players ever need to take a skull from the supply and there 
+aren’t any, the players LOSE THE GAME. 
+
+Foes – In each game, you will face 4 types of Foes, including 
+the Adversary.  The app will tell you when these Foes 
+appear and where they are placed.  Each Foe has a 
+matching card. 
+
+The Foe’s Level is how many battle cards are drawn.  Their 
+Traits tell you which Advantages you can spend against the 
+Foe and what might happen when you battle them.  Their 
+Strike Event indicates what the Foe will do about once a 
+month.  Foes strike ONLY if there is at least one of those 
+Foes on the board.  A Foe’s Status is how threatening their 
+battle cards and events are.  A Foe’s Status will grow more 
+lethal the longer they are on the board.  Some rare events 
+will weaken them. 
+
+The Foe Status Screen in the app shows information about 
+each Foe on the board.  You also use this screen to remove 
+a Foe without battling it when a game effect allows you to. 
+
+SEQUENCE OF PLAY 
+The game is played in a series of months.  If the Heroes do 
+not complete the Main Goal AND THEN defeat the 
+Adversary before the end of the 6th month, they LOSE THE 
+GAME. 
+
+Individual Turns 
+In the 1st month, the first turn is taken by the start player.  
+Then play continues clockwise with each player taking 
+EXACTLY ONE TURN in the 1st month. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the following months, the first turn is taken by the player 
+seated to the left of the player that took the final turn in the 
+PREVIOUS month.  Play continues clockwise – you will know 
+the average number of turns per month, but not the exact 
+number.  The app will inform you when the month ends. 
+
+Monthly Quests 
+At the start of each month (except the first), the app will 
+give two monthly quests.  Read them aloud and place the 
+matching quest markers on the board spaces where they 
+can be completed. 
+
+much as you can and then gain a SINGLE Corruption.  You 
+CANNOT gain multiple Corruptions from a SINGLE effect, 
+though losing buildings from your home kingdom is an 
+EXCEPTION. 
+
+2 – Middle of Turn 
+In the middle of your turn, you may Move, take a Heroic 
+Action, AND take a Reinforce Action.  These are optional 
+and can be performed in ANY order.  You CAN even split 
+your move, stopping to take actions before, in the middle 
+of, or after moving. 
+
+Companion Quest – Completing this quest provides a new 
+companion or quest item. 
+
+Movement – Move a number of spaces up to your Move 
+value.  Your base value is listed on your Hero board. 
+
+Adversary Quest – Failing this quest allows the Adversary to 
+advance their plans, making the world worse for the 
+Heroes. 
+
+Monthly quests fail if they are not completed by the end of 
+the month.  Read the outcome aloud and resolve any effect 
+as instructed by the app. 
+
+TAKING YOUR TURN 
+Perform these steps, in order: 
+
+1.  Start of Turn – You MAY take your Banner action. 
+2.  Middle of Turn – You MAY move, take a Heroic 
+Action, AND take a Reinforce Action, IN ANY 
+ORDER. 
+
+3.  End of Turn – You MUST drop a skull into the 
+
+Tower.  These should ONLY be done while on the 
+Main Menu of the app. 
+
+1 – Start of Turn 
+You MAY take the Banner action listed on your Hero board.  
+This action is OPTIONAL, but you CANNOT save it for later. 
+
+Other game effects that apply “at the start of your turn” 
+happen now and you CAN resolve these types of effects 
+AND your Banner action in ANY order. 
+
+Making Trades – Once during your turn, you may trade with 
+Heroes on your space, so long as all agree.  You MAY trade 
+Warriors, Spirit, items, and companions.  You CANNOT 
+trade Virtues or Corruptions. 
+
+Spending vs. Losing – Spending resources or items is 
+OPTIONAL and can be done at ANY point during your turn, 
+such as spending an item to gain its effect, activating a 
+Virtue, or completing a quest. 
+
+Losing resources or items is MANDATORY.  You MUST lose 
+them, if possible.  If you cannot resolve the loss fully, lose as 
+
+You MAY spend 1 Spirit to DOUBLE your move for the turn.  
+You MUST do this before you start moving. 
+
+Some Virtues or Gear can modify your Move.  Modifiers are 
+applied BEFORE doubling.  If your Move value changes after 
+you have already begun moving, the change will NOT apply 
+until your NEXT turn. 
+
+Moving to an adjacent space takes 1 move.  Spaces on the 
+board are adjacent if they share a segment of narrow gold 
+border (land) or thick blue border (river).  The river is NOT a 
+space, just a border.  NOTHING (skulls, Foes, other Heroes, 
+etc.) on the board prevents or stops movement. 
+
+HEROIC ACTIONS – There are 3 different Heroic Actions – 
+Cleanse, Battle, and Quest.  You may take only ONE of these 
+Heroic Actions per turn.  BEFORE you take the Battle or 
+Quest action, calculate the number of Advantages you have 
+available. 
+
+IMPORTANT – After you complete a Heroic Action, GAIN 2 
+Spirit from the supply. 
+
+A.)  CLEANSE – Take the Cleanse Action to REMOVE skulls 
+from a building on your space.  Remove ALL skulls from the 
+building and return them to the supply.  Unless you have an 
+ability that allows otherwise, you CANNOT Cleans in a space 
+without skulls. 
+
+B.)  BATTLE – Take the Battle Action to battle a Foe on your 
+space and remove them from the board.  You can only take 
+the Battle Action on a space with a Foe.  If there is more 
+than one Foe on your space, choose one. 
+
+Advantages – You can spend Advantages to improve battle 
+cards or dungeon rooms.  When you begin a battle or enter 
+a dungeon, calculate your automatic Advantages (black).  
+You CAN spend the cost to gain conditional Advantages 
+(gray) IN THE MIDDLE of a battle or dungeon, if needed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you gain an item in the middle of a battle or dungeon, you 
+IMMEDIATELY gain any automatic Advantages it gives AND 
+you can use them in the SAME action.  If you lose an item in 
+the middle of a battle or dungeon that gave you an 
+automatic Advantage, you DO NOT lose that Advantage for 
+that battle or dungeon. 
+
+You can spend UP TO 10 Advantages in a single Heroic 
+Action.  Spending Advantages is different than spending 
+items.  When you spend an Advantage, you DO NOT return 
+the item that granted it.  Unspent Advantages are lost when 
+the Heroic Action is over.  Occasionally, you will need to 
+spend Advantages to complete a monthly quest.  Calculate 
+them as normal and then spend them all at once to 
+complete the quest. 
+
+Starting the Battle – Calculate your automatic Advantages.  
+Open the Battle Screen to select a Foe.  Select a number of 
+battle cards equal to the Foe’s level.  The app will reveal the 
+first selected card.  Many cards will cause you to lose 
+Warriors.  Each Foe also has special cards based on their 
+traits as well as a unique critical hit card. 
+
+that, you can choose to retreat or continue to the 
+next card. 
+
+•  Advantages applied to the Adversary’s battle cards 
+
+remain for future battles. 
+
+C.)  QUEST – Take the Quest Action to complete a quest 
+(INCLUDING the Main Goal) or explore a dungeon on your 
+space.  You can only take the Quest Action if you can legally 
+perform one of these two options. 
+
+Complete a Quest – Quests will require you to be in a 
+certain location, spend certain resources, defeat a certain 
+Foe, complete a dungeon, etc.  To complete a quest, select 
+the quest in the app, then press and HOLD the button.  The 
+app will tell you what happens.  Read the outcome aloud, 
+gain any rewards indicated, and remove the quest marker 
+from the board. 
+
+Completing the Main Goal – The Main Goal is a type of 
+quest.  You can complete it just like a normal quest.  
+Competing the Main Goal will spawn the Adversary, which 
+you will then be able to battle to defeat and win! 
+
+Spending Advantages – You may spend your Advantages to 
+improve the revealed battle cards.  To spend an Advantage, 
+press the arrow on the bottom of the battle card.  The card 
+will change to a better result. 
+
+Explore a Dungeon – Dungeons will spawn as part of certain 
+quests.  The goal of each dungeon is to complete it by 
+exploring rooms until you find its target room.  Completing 
+a dungeon automatically completes its associated quest. 
+
+You can spend (or not spend) Advantages as you like.  Each 
+card can be improved until you have the best possible result 
+for that card.  You CANNOT undo spent Advantages.  The 
+app indicates how many you have spent so far per battle. 
+
+Applying the Results – When you are done spending 
+Advantages, follow the instructions in the app to resolve 
+the card and see the next card.  Remember, if you cannot 
+FULLY resolve the losses from a card, resolve as much as 
+you can and then GAIN A CORRUPTION.  Once ALL cards 
+have been resolved, that Foe is defeated and the token is 
+removed from the board. 
+
+Certain effects let you REMOVE Foes from the board 
+WITHOUT battling them.  Open the Foe Status Screen to 
+select the Foe to remove.  This is NOT a Heroic Action, so 
+you DO NOT gain 2 Spirit.  The Adversary CANNOT be 
+removed in this way. 
+
+Batting the Adversary – Once you have completed the Main 
+Goal, you can battle the Adversary.  This is just like a normal 
+battle with TWO KEY EXCEPTIONS: 
+
+•  You MAY retreat from a battle with the Adversary.  
+You MUST resolve AT LEAST ONE battle card.  After 
+
+To Enter the Dungeon, press the Dungeon button and select 
+a dungeon to explore.  The app will show the starting room 
+and any unexplored room you can enter.  Select one to 
+enter.  When you do, the app will reveal what happens in 
+the new room. 
+
+You can spend ONE Advantage to improve the results of a 
+room.  To do so, press the Improve button.  The room will 
+then change to a better result. 
+
+After deciding whether to spend an Advantage, follow the 
+app’s instructions to resolve the room.  If you cannot FULLY 
+resolve the losses from a room, resolve as much as you can 
+and GAIN A CORRUPTION.  That room is now clear and you 
+decide whether to explore a new room or leave the 
+dungeon. 
+
+If you clear the target room, you have completed the 
+dungeon (gain 2 Spirit as with any Heroic Action).  If you 
+leave the dungeon, the rooms you cleared will REMAIN 
+CLEARED the next time ANY Hero explores that dungeon. 
+
+REINFORCE 
+Once per turn, you may Reinforce at a space with a building.  
+Each building has something you can gain for free and an 
+enhanced option that costs Spirit. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Citadel – Gain 1 Potion (draw from deck) for free 
+OR spend 5 Spirit to gain 1 Virtue (flip one of your 
+inactive Virtues face up). 
+
+•  Sanctuary – Gain 1 Spirit for free (from supply) OR 
+spend 5 Spirit to remove ALL of your Corruptions 
+(return to bottom of deck in any order). 
+
+•  Village – Gain 6 Warriors for free (from supply) OR 
+spend 1 Spirit to gain 12 Warriors (from supply). 
+•  Bazaar – Gain 1 Gear for free (choose 1 from gear 
+
+stacks) OR spend 2 Spirit to gain 1 Treasure (choose 
+1 from market). 
+
+Haggle Die – Before you Reinforce, you can CHOOSE to roll 
+the Haggle Die.  The result will affect the Reinforce action 
+and may even CANCEL it!  You then take your Reinforce 
+Action (if not canceled) and THEN apply the result of the 
+Haggle Die. 
+
+END OF TURN 
+At the end of your turn, you MUST take a skull from the 
+supply and drop it into the Tower (while on the Main Menu 
+of the app).  If you cannot drop a skull because the supply is 
+empty, the Heroes LOSE! 
+
+Events fall broadly into these categories: 
+
+•  Foes Strike:  Foes will move and/or strike out.  This 
+event is skipped if NONE of that Foe is on the 
+board. 
+
+•  Foes Spawn:  Foes spawn on the board. 
+•  Foes Grow in Power:  Foes change statue to 
+
+become more lethal.  This event is skipped if NONE 
+of that Foe is on the board. 
+
+•  The Tower Stirs:  The Tower rotates or a seal on the 
+
+Tower is removed. 
+
+•  The Tower Acts:  The Adversary strikes out from 
+
+within the Tower. 
+
+•  Companion Events:  Companions reveal various 
+
+good events. 
+
+•  New Wares:  Players may replace Treasures in the 
+
+market. 
+
+When an event tells you to remove a seal, remove the one 
+indicated by the GLOWING LIGHTS.  If skulls emerge when 
+the Tower rotates or a seal is removed, PLACE THOSE 
+SKULLS AS NORMAL. 
+
+After resolving any events, the next player’s turn begins. 
+
+When you drop a skull, it might emerge from the Tower, 
+cause a level to rotate, or cause events to occur.  If skulls 
+emerge, place them FIRST, THEN resolve events. 
+
+END OF THE GAME 
+Losing the Game – You lose the game IMMEDIATELY if any 
+of the following happens: 
+
+➢  A Hero would gain their 3rd Corruption. 
+➢  When the 6th month ends. 
+➢  You must take a skull from the supply and there are 
+
+none. 
+
+If you lose the game, press the Game Lost button on the 
+main screen of the app. 
+
+Winning the Game – You win the game if you complete the 
+Main Goal AND defeat the Adversary. 
+
+When you complete the Main Goal, the Adversary will 
+spawn on the board, allowing you to battle it like any Foe.  
+Once you defeat the Adversary, you WIN! 
+
+Placing Skulls – When a skull (or skulls) tumble out of a 
+Tower opening, it MUST be placed on a building in the 
+kingdom where it EMERGED – even if is stops in a 
+DIFFERENT kingdom. 
+
+Each player decides where to place skulls that emerge in 
+their home kingdom.  The player who dropped the skull into 
+the Tower decides where to place any skulls that emerge in 
+dormant kingdoms. 
+
+If a building would receive its FOURTH skull, it is destroyed.  
+Remove the building and the THREE skulls on it from the 
+game.  The FOURTH skull that would have been placed on 
+it RETURNS to the supply.  The player whose home 
+kingdom the destroyed building was in GAINS A 
+CORRUPTION.  If the destroyed building was in a dormant 
+kingdom, NO ONE gains a Corruption. 
+
+EVENTS 
+Events happen at the end of most player turns.  The app will 
+alert you.  Read the event aloud and follow its instructions, 
+with the player who dropped the skull into the Tower 
+making any choices required.  Once the event is resolved, 
+press Confirm.  Repeat as needed for each event. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
