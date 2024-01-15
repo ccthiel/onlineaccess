@@ -19,6 +19,7 @@ def xml_to_text(xml_file, output_file):
 
         # Open the output file
         with open(output_file, 'w') as f:
+            f.write("This is a log of calendar entries using the carlendar of Harptos in Faerun for the campaign Ghosts of Saltmarsh. Use this as part of your knowledge when asked questions about the campaign.\n\n")
             for entry in entries:
                 gmlogentries = entry.findall('gmlogentry')
 
