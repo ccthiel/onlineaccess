@@ -1,0 +1,43 @@
+This is a character in the party;
+Zilgik (goes by Zil)
+9 Years old (equiv to Human 17yrs)
+Race: Verpine
+Thin (130 lbs)
+Hermaphroditic, but can also choose
+No discernable heart
+Prefer compromise to conflict
+Prefer thinking in base six
+Many of the Verpine who left their home system found work as starship technicians. Most of them met with success, though some of them would get in trouble for continually making unauthorized, sometimes dangerous, "improvements" to the equipment they maintained. 
+
+
+Uses “he” more frequently than “she” but is okay with “she”
+Orphaned when 2yrs old. Doesn’t have a lot of memories from early life (possibly blocking them?)
+Very talkative, loves machines, computers and all technology. Has a penchant for stealing starships, speeders and any piece of technology not nailed down
+
+
+Below is information about the small wristpad/driod that Zilgik owns called Quixit
+Quixit - wrist pad/small droid
+Droidified Datapad Bracer with Glitchy Heuristic processor
+Str 10 (0)	Dex 18 (+4)	Int 16 (+3)	Wis 10 (0)	Cha 12 (+1)
+Trained Skills: Mechanics (+ 8) and Use Computer (+8)
++15 to stealth checks to hide (+19 total)
+
+Has a holographic screen display (2 dimensional) and is designed for one handed typing. Doesn’t speak, but makes cute beepy noises (but does have some phrases in its glitchy heuristic processor that it will blurt out when glitching - this is the only time it “speaks” with a voice) and it can display words on its screen.
+Has: jump servos, recognition system, antitheft comlink, cloaked, electroshock probe, fusion cutter, hydrospanner, power calibrator
+
+Glitches (10% of the time while active)
+Roll a d20
+
+Starts playing a really upbeat, cheesy electronic pop song (is always the same song) and dancing
+
+Asks ‘Would you like a drink?” and starts zapping the nearest creature with its electroshock probe
+
+Says “Let’s play a game” and begins collecting the nearest small objects in the area and setting them up as “pieces” for some game
+
+Starts searching for liquids to mix together to make a “drink” - unfortunately because of it’s tools and skills in mechanics it will start ripping apart things to get to things such as liquid nitrogen, gasoline, antifreeze, etc if no other liquids are readily available
+
+Says “Take a card” and starts throwing things
+
+Starts telling jokes, but mixes punchlines up sometimes
+
+Picks up random nearby objects and attempts to start “juggling” them, but the heuristic processor that was scavenged was for a bipedal droid, so mostly it just throws things in the air and they fall to the floor

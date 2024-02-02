@@ -1,0 +1,84 @@
+I'm going to give you some examples of NPC stat blocks for Star War Saga Edition. Use these as a template when asked to create new NPC stat blocks
+-----------------------
+Vytor Shrike CL 4
+Medium Gand nonheroic 5/soldier 2
+Init +4; Senses Perception +3
+Languages Basic
+Defenses Ref 16 (FF 15), Fort 15, Will 12; armor +4
+HP 30; Threshold 15
+Speed 6 squares
+Melee Unarmed +5 (1d4+1)
+Ranged Blaster Rifle +7 (3d8+3)
+Ranged Frag Grenade +6 (4d6+1, 2-square burst)
+BAB +5; Grp +6
+Attack Options Autofire (blaster rifle), Point Blank Shot, Precise Shot
+Special Actions Coordinate Attack, Quick Draw
+Abilities Str 11, Dex 12, Con 13, Int 10, Wis 11, Cha 11
+Talents Weapon Specialist (rifles)
+Feats AP (light), Point Blank Shot, Precise Shot, Quick Draw, Weapon Focus (rifles), WP ( pistols, rifles, simple)
+Skills Knowledge (tactics) +8, Mechanics +8
+Gear: Combat Jumpsuit (armor +4), Blaster Rifle, Comlink (encrypted), Electrobinoculars, 2 Frag Grenades, Utility Belt.
+Physical Description: Shrike is a short, stocky insectoid alien who wears battle armor under a heavy cloak. A form-fitting helmet completely
+covers his head. Breathing apparatus connect to the helmet, providing supplemental gasses his species needs. Thick straps hold a combination
+old-style computer and sensor array device around his neck. His three-fingered hands constantly play across its controls.
+Background: Shrike was Tallon's first officer. He took part inthe Dalchon incident, stayed for a time on Tatooine, then became a merc when the
+quiet got to him. He has returned to help his old commander.
+Personality: Tough, cagey, and loyal to his own ideals, Shrike is an enemy to be feared and a friend to count on.
+Quote: "Do you feel lucky, alien scum?"
+
+-----------------------
+Jungen CL 3
+Medium Trandoshan nonheroic 3/scoundrel 2
+Init +9; Senses Perception +3
+Languages Basic
+Defenses Ref 16 (FF 14), Fort 14, Will 13
+HP 20; Threshold 14
+Speed 6 squares
+Melee Unarmed +3 (1d4+1)
+Ranged Heavy Blaster Pistol +6 (3d8+1)
+Ranged Heavy Blaster Pistol +5 (4d8+1) w/ Rapid Shot
+BAB +3; Grp +5
+Attack Options Rapid Shot
+Special Actions Dastardly Strike, Point Blank Shot, Quickdraw
+Abilities Str 11, Dex 15, Con 13, Int 12, Wis 12, Cha 9.
+Talents: Dastardly Strike
+Feats: Point Blank Shot, Quickdraw, Rapid Shot (H), Skill Training (stealth), Toughness, Weapon Focus (pistol), WP (pistol, simple)
+Skills: Deception +6, Gather Info. +6, Initiative +9 (H), Stealth +9
+Gear: Casual Clothing, Heavy Blaster PistolPhysical
+Description: Jungen is a huge, hulking, reptillian male with a boney-ridged head. His voice is deep and rumbling.
+Background: Jungen was a young enlistee aboard Tallon's flagship, but in his short time under Tallon's command he grew to respect the old
+warrior. When it looked like the Emperor would have his commander killed, Jungen pledged his protection and help in anything Tallon ordered.
+That pledge hasn't faded over the years.
+Personality: Jungen will use his rifle if necessary, but he much perfers hand-to-hand combat, in which he excels. He is quiet, deliberate, strong.
+He has no qualms about stealing from those he considers evil, but goes out of his way to help those in need.
+Quote: "Now it's my turn."
+
+-----------------------
+Quist CL 3
+Medium Human nonheroic 3/soldier 1/scoundrel 1
+Init +9; Senses Perception +1
+Languages Basic + 1
+Defenses Ref 16 (FF 14), Fort 15, Will 12
+HP 22; Threshold 15
+Speed 6 squares
+Melee Unarmed +5 (1d4+3)
+Melee Vibroblade +5 (2d6+5)
+Melee Vibroblade +3 (3d6+5) w/ Rapid Strike
+Ranged Blaster Pistol +5 (3d6+1)
+BAB +3; Grp +5
+Attack Options Hyperdriven, Point Blank Shot, Rapid Strike.
+Abilities Str 14, Dex 14, Con 12, Int 13, Wis 9, Cha 8
+Talents: Hyperdriven, Melee Smash.
+Feats: Point Blank Shot, Rapid Strike (H), WP (adv. melee, heavy, pistols, simple).
+Skills: Initiative +9, Pilot +9, Stealth +9 (H)
+Gear: Casual Clothing, Blaster Pistol, Comlink (Long-Range),
+Vibroblade, Utility Belt.Physical
+Description: Quist is a fair-skinned human with blonde hair and beard. Streaks of white through his hair are the only indication of his true
+age. His right hand has been replaced with a knife blade. Within the folds of his long cape he keeps his hands hidden, waiting to surprise any
+enemies with his bladed appendage. He has a wad of SoroSuub Chew in his mouth at all times.
+Background: Quist once served the Old Republic, enlisting alongside his friend Adar Tallon. But Quist left the service to follow a more
+lucrative career and soon became a pirate to be reckoned with. His ties to Tallon remained strong, however, and he agreed to stage the
+commanders' "death." He was captured recently by Imperial agents. In return for his freedom, Quist sold what information he had — the
+truth about Tallon's death. He is in Tallon's camp to betray Adar one more time.
+Personality: Quist is smooth, friendly, courteous, and crafty. It's all an act to hide his true self — selfish, out for number one.
+Quote: "My friends, we have no problem here."
