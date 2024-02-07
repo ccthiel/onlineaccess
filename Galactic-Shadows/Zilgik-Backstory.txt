@@ -41,3 +41,6 @@ Says “Take a card” and starts throwing things
 Starts telling jokes, but mixes punchlines up sometimes
 
 Picks up random nearby objects and attempts to start “juggling” them, but the heuristic processor that was scavenged was for a bipedal droid, so mostly it just throws things in the air and they fall to the floor
+
+GM Notes:
+Need an actual backstory here still
