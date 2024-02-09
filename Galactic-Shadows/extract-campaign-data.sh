@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 import json
 import zipfile
 import sys
