@@ -27,7 +27,7 @@ def replace_references(entry, data):
     """Recursively search for [word:number] references and strip out specific keys, given the full dataset."""
     if isinstance(entry, dict):
         # Remove specific keys
-        entry = {key: replace_references(value, data) for key, value in entry.items() if key not in keys_to_remove}
+        entry = {key: replace_references(value, data) for key, value in entry.items() if key not in keys_to_remove and value != []}
     elif isinstance(entry, list):
         entry = [replace_references(element, data) for element in entry]
     elif isinstance(entry, str):

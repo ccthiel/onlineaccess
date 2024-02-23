@@ -13,7 +13,6 @@
             "entry": "",
             "export_date": "2024-02-23T00:00:00.000000Z",
             "entity_visibility": 0,
-            "is_featured": 0,
             "featured_until": null,
             "featured_reason": null,
             "system": null,
@@ -83,8 +82,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658389,
@@ -97,9 +94,6 @@
                     "race_id": 605093
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658389,
@@ -111,8 +105,7 @@
                     "character_id": 1435519,
                     "race_id": 605093
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435520,
@@ -143,8 +136,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659242,
@@ -152,17 +143,13 @@
                     "race_id": 605959
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659242,
                     "character_id": 1435520,
                     "race_id": 605959
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435521,
@@ -193,8 +180,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658397,
@@ -202,17 +187,13 @@
                     "race_id": 605097
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658397,
                     "character_id": 1435521,
                     "race_id": 605097
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435522,
@@ -252,8 +233,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659568,
@@ -261,17 +240,13 @@
                     "race_id": 605093
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659568,
                     "character_id": 1435522,
                     "race_id": 605093
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435523,
@@ -293,8 +268,6 @@
                 "type_id": 1,
                 "name": "IG-72"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658394,
@@ -302,17 +275,13 @@
                     "race_id": 605094
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658394,
                     "character_id": 1435523,
                     "race_id": 605094
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435524,
@@ -334,8 +303,6 @@
                 "type_id": 1,
                 "name": "Jodo Kast"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658396,
@@ -348,9 +315,6 @@
                     "race_id": 605093
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658396,
@@ -362,8 +326,7 @@
                     "character_id": 1435524,
                     "race_id": 605093
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435525,
@@ -384,15 +347,7 @@
                 "entity_id": 1435525,
                 "type_id": 1,
                 "name": "Puqqles Trodd"
-            },
-            "character_traits": [],
-            "character_families": [],
-            "character_races": [],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
-            "characterRaces": [],
-            "organisationMemberships": []
+            }
         },
         {
             "id": 1435526,
@@ -413,15 +368,7 @@
                 "entity_id": 1435526,
                 "type_id": 1,
                 "name": "Zarda"
-            },
-            "character_traits": [],
-            "character_families": [],
-            "character_races": [],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
-            "characterRaces": [],
-            "organisationMemberships": []
+            }
         },
         {
             "id": 1435527,
@@ -443,8 +390,6 @@
                 "type_id": 1,
                 "name": "Akkik"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658390,
@@ -463,8 +408,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658390,
@@ -504,8 +447,6 @@
                 "type_id": 1,
                 "name": "Gorrt"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658392,
@@ -524,8 +465,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658392,
@@ -565,8 +504,6 @@
                 "type_id": 1,
                 "name": "Tar Lup"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658399,
@@ -574,17 +511,13 @@
                     "race_id": 605096
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658399,
                     "character_id": 1435536,
                     "race_id": 605096
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435537,
@@ -606,8 +539,6 @@
                 "type_id": 1,
                 "name": "Kal"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658395,
@@ -615,17 +546,13 @@
                     "race_id": 605096
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658395,
                     "character_id": 1435537,
                     "race_id": 605096
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435540,
@@ -647,8 +574,6 @@
                 "type_id": 1,
                 "name": "Kayson"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658398,
@@ -661,9 +586,6 @@
                     "race_id": 605093
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658398,
@@ -675,8 +597,7 @@
                     "character_id": 1435540,
                     "race_id": 605093
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1435541,
@@ -698,8 +619,6 @@
                 "type_id": 1,
                 "name": "Heff"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658393,
@@ -718,8 +637,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658393,
@@ -759,9 +676,6 @@
                 "type_id": 1,
                 "name": "Old Arno"
             },
-            "character_traits": [],
-            "character_families": [],
-            "character_races": [],
             "organisation_memberships": [
                 {
                     "id": 701399,
@@ -773,9 +687,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
-            "characterRaces": [],
             "organisationMemberships": [
                 {
                     "id": 701399,
@@ -808,9 +719,6 @@
                 "type_id": 1,
                 "name": "Slag Flats"
             },
-            "character_traits": [],
-            "character_families": [],
-            "character_races": [],
             "organisation_memberships": [
                 {
                     "id": 701400,
@@ -822,9 +730,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
-            "characterRaces": [],
             "organisationMemberships": [
                 {
                     "id": 701400,
@@ -856,15 +761,7 @@
                 "entity_id": 1435544,
                 "type_id": 1,
                 "name": "Laabria"
-            },
-            "character_traits": [],
-            "character_families": [],
-            "character_races": [],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
-            "characterRaces": [],
-            "organisationMemberships": []
+            }
         },
         {
             "id": 1436579,
@@ -916,8 +813,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658363,
@@ -936,8 +831,6 @@
                     "parent_id": 705709
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658363,
@@ -1000,8 +893,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658364,
@@ -1020,8 +911,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658364,
@@ -1070,8 +959,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658402,
@@ -1079,17 +966,13 @@
                     "race_id": 605091
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658402,
                     "character_id": 1436590,
                     "race_id": 605091
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1436603,
@@ -1120,8 +1003,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658401,
@@ -1129,17 +1010,13 @@
                     "race_id": 605098
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658401,
                     "character_id": 1436603,
                     "race_id": 605098
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1436605,
@@ -1161,8 +1038,6 @@
                 "type_id": 1,
                 "name": "McCallin"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658400,
@@ -1170,17 +1045,13 @@
                     "race_id": 605093
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658400,
                     "character_id": 1436605,
                     "race_id": 605093
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1436608,
@@ -1218,8 +1089,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658404,
@@ -1238,8 +1107,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658404,
@@ -1295,8 +1162,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 658388,
@@ -1304,17 +1169,13 @@
                     "race_id": 605088
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 658388,
                     "character_id": 1436630,
                     "race_id": 605088
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1438180,
@@ -1336,8 +1197,6 @@
                 "type_id": 1,
                 "name": "Sskar Vossk"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659237,
@@ -1356,8 +1215,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659237,
@@ -1397,8 +1254,6 @@
                 "type_id": 1,
                 "name": "Jexa Korr"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659238,
@@ -1417,8 +1272,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659238,
@@ -1458,8 +1311,6 @@
                 "type_id": 1,
                 "name": "Vela Nari"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659239,
@@ -1478,8 +1329,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659239,
@@ -1519,8 +1368,6 @@
                 "type_id": 1,
                 "name": "Grond"
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 659240,
@@ -1539,8 +1386,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 659240,
@@ -1605,8 +1450,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 675854,
@@ -1614,17 +1457,13 @@
                     "race_id": 605091
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 675854,
                     "character_id": 1472962,
                     "race_id": 605091
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1472963,
@@ -1664,8 +1503,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 675856,
@@ -1673,17 +1510,13 @@
                     "race_id": 625018
                 }
             ],
-            "organisation_memberships": [],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 675856,
                     "character_id": 1472963,
                     "race_id": 625018
                 }
-            ],
-            "organisationMemberships": []
+            ]
         },
         {
             "id": 1472982,
@@ -1737,8 +1570,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 675869,
@@ -1757,8 +1588,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 675869,
@@ -1823,8 +1652,6 @@
                     }
                 ]
             },
-            "character_traits": [],
-            "character_families": [],
             "character_races": [
                 {
                     "id": 675871,
@@ -1843,8 +1670,6 @@
                     "parent_id": null
                 }
             ],
-            "characterTraits": [],
-            "characterFamilies": [],
             "characterRaces": [
                 {
                     "id": 675871,
@@ -1902,9 +1727,7 @@
                 "entity_id": 21933,
                 "type_id": 8,
                 "name": "Great Resynchronization"
-            },
-            "calendar_weather": [],
-            "calendarWeather": []
+            }
         }
     ],
     "items": [
@@ -2639,8 +2462,7 @@
                 "entity_id": 281497,
                 "type_id": 4,
                 "name": "The Republic"
-            },
-            "members": []
+            }
         },
         {
             "id": 281498,
@@ -2716,8 +2538,7 @@
                 "entity_id": 281502,
                 "type_id": 4,
                 "name": "Confederacy of Independent Systems"
-            },
-            "members": []
+            }
         }
     ],
     "races": [
@@ -2733,9 +2554,7 @@
                 "entity_id": 605078,
                 "type_id": 9,
                 "name": "Rodian"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605080,
@@ -2749,9 +2568,7 @@
                 "entity_id": 605080,
                 "type_id": 9,
                 "name": "Chiss"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605088,
@@ -2765,9 +2582,7 @@
                 "entity_id": 605088,
                 "type_id": 9,
                 "name": "Devaronian"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605091,
@@ -2781,9 +2596,7 @@
                 "entity_id": 605091,
                 "type_id": 9,
                 "name": "Jawa"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605092,
@@ -2797,9 +2610,7 @@
                 "entity_id": 605092,
                 "type_id": 9,
                 "name": "Gamorrean"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605093,
@@ -2813,9 +2624,7 @@
                 "entity_id": 605093,
                 "type_id": 9,
                 "name": "Human"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605094,
@@ -2829,9 +2638,7 @@
                 "entity_id": 605094,
                 "type_id": 9,
                 "name": "Droid"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605096,
@@ -2845,9 +2652,7 @@
                 "entity_id": 605096,
                 "type_id": 9,
                 "name": "Shistavanen"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605097,
@@ -2861,9 +2666,7 @@
                 "entity_id": 605097,
                 "type_id": 9,
                 "name": "Trandoshan"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605098,
@@ -2877,9 +2680,7 @@
                 "entity_id": 605098,
                 "type_id": 9,
                 "name": "Verpine"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605100,
@@ -2893,9 +2694,7 @@
                 "entity_id": 605100,
                 "type_id": 9,
                 "name": "Falleen"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605958,
@@ -2909,9 +2708,7 @@
                 "entity_id": 605958,
                 "type_id": 9,
                 "name": "Twil'lek"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 605959,
@@ -2925,9 +2722,7 @@
                 "entity_id": 605959,
                 "type_id": 9,
                 "name": "Gand"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         },
         {
             "id": 625018,
@@ -2941,9 +2736,7 @@
                 "entity_id": 625018,
                 "type_id": 9,
                 "name": "Duros"
-            },
-            "pivot_locations": [],
-            "pivotLocations": []
+            }
         }
     ]
 }
