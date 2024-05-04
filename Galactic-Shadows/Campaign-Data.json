@@ -1,9 +1,9 @@
 {
     "": [
         {
-            "kanka_version": "2.2",
+            "kanka_version": "2.3",
             "export_version": "3.0.0",
-            "started": "2024-02-23 20:10:10"
+            "started": "2024-05-04 20:26:52"
         },
         {
             "id": 233607,
@@ -11,7 +11,7 @@
             "locale": null,
             "image": null,
             "entry": "",
-            "export_date": "2024-02-23T00:00:00.000000Z",
+            "export_date": "2024-05-04T00:00:00.000000Z",
             "entity_visibility": 0,
             "featured_until": null,
             "featured_reason": null,
@@ -84,22 +84,12 @@
             },
             "character_races": [
                 {
-                    "id": 658389,
-                    "character_id": 1435519,
-                    "race_id": 605090
-                },
-                {
                     "id": 675866,
                     "character_id": 1435519,
                     "race_id": 605093
                 }
             ],
             "characterRaces": [
-                {
-                    "id": 658389,
-                    "character_id": 1435519,
-                    "race_id": 605090
-                },
                 {
                     "id": 675866,
                     "character_id": 1435519,
@@ -305,22 +295,12 @@
             },
             "character_races": [
                 {
-                    "id": 658396,
-                    "character_id": 1435524,
-                    "race_id": 605090
-                },
-                {
                     "id": 675867,
                     "character_id": 1435524,
                     "race_id": 605093
                 }
             ],
             "characterRaces": [
-                {
-                    "id": 658396,
-                    "character_id": 1435524,
-                    "race_id": 605090
-                },
                 {
                     "id": 675867,
                     "character_id": 1435524,
@@ -576,22 +556,12 @@
             },
             "character_races": [
                 {
-                    "id": 658398,
-                    "character_id": 1435540,
-                    "race_id": 605090
-                },
-                {
                     "id": 675868,
                     "character_id": 1435540,
                     "race_id": 605093
                 }
             ],
             "characterRaces": [
-                {
-                    "id": 658398,
-                    "character_id": 1435540,
-                    "race_id": 605090
-                },
                 {
                     "id": 675868,
                     "character_id": 1435540,
@@ -1036,7 +1006,16 @@
                 "id": 5663527,
                 "entity_id": 1436605,
                 "type_id": 1,
-                "name": "McCallin"
+                "name": "McCallin",
+                "relationships": [
+                    {
+                        "id": 619925,
+                        "owner_id": 5663527,
+                        "target_id": 6102609,
+                        "relation": "Business Partner",
+                        "attitude": null
+                    }
+                ]
             },
             "character_races": [
                 {
@@ -1366,7 +1345,30 @@
                 "id": 5668731,
                 "entity_id": 1438183,
                 "type_id": 1,
-                "name": "Grond"
+                "name": "Grond",
+                "posts": [
+                    {
+                        "id": 644930,
+                        "name": "Hacked memory banks",
+                        "entry": "<p>Zilgik hacked Grond's memory banks on the 3rd of Banthaar and got the following information:<br></p><ol style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Operational Data</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Past Missions</span>: Detailed records of past operations performed by the Desert Fangs, including employer information, mission parameters, and outcomes. This could reveal patterns or expose significant underworld connections and the political landscape that the Desert Fangs have been involved with.</li><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Tactics and Strategies</span>: Insights into the combat tactics, escape routes, and contingency plans used by the Desert Fangs. This could provide the party with advanced knowledge of mercenary tactics that could be useful in future encounters.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Client List</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">A comprehensive list of past and current clients, which may include influential figures on Tatooine and beyond. This could lead to new allies or enemies, depending on how the party uses this information.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Communications</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Archived communications between the Desert Fangs and their clients, as well as internal communications within the group. This might reveal not only who hired them for what jobs but also potential vulnerabilities or secrets that clients believed were safe.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Financial Records</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Details about the financial dealings of the Desert Fangs, including how they are paid, who funds them, and perhaps even where they stash their earnings. This could be leveraged for bribery, blackmail, or to disrupt their operations financially.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Technical Specifications and Upgrades</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Specifications of the modifications and upgrades made to Grond, potentially including blueprints or software that could be replicated or adapted for the party’s own use.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Navigation Logs</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Data about routes taken by the Desert Fangs, including hidden hyperspace routes or safe houses they might use across the galaxy. This could help the party travel unnoticed or find significant locations related to their quests.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Encryption Keys and Security Protocols</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Access to any encrypted files and an understanding of the security protocols used by the Desert Fangs, potentially allowing the party to infiltrate secured communications or locations associated with the mercenary group.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Potential Blackmail Material</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Compromising information about individuals or organizations that could be used for leverage or blackmail by the party.</li></ul></li></ol>",
+                        "entity_id": 5668731,
+                        "position": 1,
+                        "settings": {
+                            "collapsed": "0"
+                        },
+                        "location_id": null,
+                        "layout_id": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 5668731,
+                        "post_id": 644930,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663523
+                    }
+                ]
             },
             "character_races": [
                 {
@@ -1688,6 +1690,152 @@
                     "parent_id": null
                 }
             ]
+        },
+        {
+            "id": 1545540,
+            "name": "Zorba The Hutt",
+            "entry": null,
+            "age": null,
+            "sex": null,
+            "pronouns": null,
+            "location_id": null,
+            "title": null,
+            "family_id": null,
+            "type": null,
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6098836,
+                "entity_id": 1545540,
+                "type_id": 1,
+                "name": "Zorba The Hutt"
+            },
+            "organisation_memberships": [
+                {
+                    "id": 733716,
+                    "organisation_id": 294246,
+                    "character_id": 1545540,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ],
+            "organisationMemberships": [
+                {
+                    "id": 733716,
+                    "organisation_id": 294246,
+                    "character_id": 1545540,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ]
+        },
+        {
+            "id": 1545568,
+            "name": "Jabba The Hutt",
+            "entry": null,
+            "age": null,
+            "sex": null,
+            "pronouns": null,
+            "location_id": null,
+            "title": null,
+            "family_id": null,
+            "type": null,
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6098917,
+                "entity_id": 1545568,
+                "type_id": 1,
+                "name": "Jabba The Hutt"
+            },
+            "organisation_memberships": [
+                {
+                    "id": 733718,
+                    "organisation_id": 294246,
+                    "character_id": 1545568,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ],
+            "organisationMemberships": [
+                {
+                    "id": 733718,
+                    "organisation_id": 294246,
+                    "character_id": 1545568,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ]
+        },
+        {
+            "id": 1546638,
+            "name": "Selana Korr",
+            "entry": "<p>runs a covert network that helps refugees escape from dangerous territories,currently residing on Nar Shaddaa.</p><p> met McCallin during a joint operation where their objectives aligned—rescuing a group of political prisoners. McCallin's tactical skills and moral compass, combined with Selana's local knowledge and espionage expertise, made them effective partners.\n\nNature of Relationship:\n\nProfessional Respect: Both recognize and respect each other's skills and commitments to their causes. This mutual respect has laid a strong foundation for their relationship.\nShared Ideals: They share a deep-seated belief in justice and the protection of innocents, driving them to collaborate on various missions.\nPotential for Deeper Bond: Depending on the direction of your campaign, their relationship could evolve from professional to a more personal connection, as they find in each other a rare combination of understanding, shared purpose, and trust.\nCurrent Dynamics: Whenever McCallin is on Nar Shaddaa, he knows he can rely on Selana for intelligence and assistance. Selana, in turn, values McCallin’s perspective and the broader reach he provides to her network. They regularly exchange information and coordinate on wider scale operations that benefit from McCallin’s connections and Selana’s assets on the ground.<br></p>",
+            "age": "60",
+            "sex": "Male",
+            "pronouns": null,
+            "location_id": 1373557,
+            "title": null,
+            "family_id": null,
+            "type": "NPC",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6102609,
+                "entity_id": 1546638,
+                "type_id": 1,
+                "name": "Selana Korr",
+                "relationships": [
+                    {
+                        "id": 619924,
+                        "owner_id": 6102609,
+                        "target_id": 5663527,
+                        "relation": "Business Partner",
+                        "attitude": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6102609,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098897
+                    },
+                    {
+                        "entity_id": 6102609,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663527
+                    }
+                ]
+            },
+            "character_races": [
+                {
+                    "id": 709490,
+                    "character_id": 1546638,
+                    "race_id": 605958
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 709490,
+                    "character_id": 1546638,
+                    "race_id": 605958
+                }
+            ]
         }
     ],
     "calendars": [
@@ -1695,7 +1843,7 @@
             "id": 21933,
             "name": "Great Resynchronization",
             "type": null,
-            "entry": "",
+            "entry": "<p>The Great Resynchronization was established in 35 BBY as a means to standardize the calendar across the Galactic Republic. Since the Clone Wars began in 22 BBY, this would be 13 years after the Great Resynchronization, making it year 13 in the Great Resynchronization calendar.</p><p>The Clone Wars lasted from 22 BBY (Before the Battle of Yavin) to 19 BBY, spanning roughly three years in the Star Wars galaxy. This conflict saw the Galactic Republic, aided by the Jedi Order, fighting against the Separatist Alliance, led by Count Dooku and his droid armies.</p><p>This would make it GR 13 to GR 16.</p><div class=\"w-full text-token-text-primary\" style=\"border-color:rgb(227,227,227);width:1244px;\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\" style=\"border-color:rgb(227,227,227);margin:auto;\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group\" style=\"border-color:rgb(227,227,227);max-width:48rem;padding-left:1.25rem;\"><div class=\"relative flex w-full flex-col agent-turn\" style=\"border-color:rgb(227,227,227);width:692px;\"><div class=\"flex-col gap-1 md:gap-3\" style=\"border-color:rgb(227,227,227);\"><div class=\"mt-1 flex justify-start gap-3 empty:hidden\" style=\"border-color:rgb(227,227,227);\"><div class=\"text-gray-400 flex self-end lg:self-center items-center justify-center lg:justify-start mt-0 -ml-1 h-7 gap-[2px] visible\" style=\"border-color:rgb(227,227,227);margin-left:-0.25rem;\"><span style=\"border-color:rgb(227,227,227);\"></span><span style=\"border-color:rgb(227,227,227);\"></span><div class=\"flex\" style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"></span></div></div></div><div class=\"pr-2 lg:pr-0\" style=\"border-color:rgb(227,227,227);\"></div></div><div class=\"absolute\" style=\"border-color:rgb(227,227,227);width:432px;height:20px;\"><span style=\"border-color:rgb(227,227,227);\"></span><div class=\"flex w-full gap-2 items-center justify-center\" style=\"border-color:rgb(227,227,227);width:18px;\"></div></div></div></div></div></div><div class=\"w-full text-token-text-primary\" style=\"border-color:rgb(227,227,227);width:1244px;\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\" style=\"border-color:rgb(227,227,227);margin:auto;\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group\" style=\"border-color:rgb(227,227,227);max-width:48rem;padding-left:1.25rem;\"><div class=\"flex-shrink-0 flex flex-col relative items-end\" style=\"border-color:rgb(227,227,227);\"><div style=\"border-color:rgb(227,227,227);\"><div class=\"pt-0.5\" style=\"border-color:rgb(227,227,227);\"><div class=\"gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full\" style=\"border-color:rgb(227,227,227);\"></div></div></div></div></div></div></div>",
             "parameters": {
                 "layout": null
             },
@@ -1730,6 +1878,53 @@
             }
         }
     ],
+    "events": [
+        {
+            "id": 148136,
+            "name": "Showdown with the Howling Bantha Tribe",
+            "type": "Encounter",
+            "entry": "<h3 style=\"border-color:rgb(227,227,227);\">1. <span style=\"border-color:rgb(227,227,227);\">Sandstorm Surge</span></h3><p style=\"border-color:rgb(227,227,227);\">A sudden, fierce sandstorm sweeps across the battlefield, reducing visibility and complicating combat.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: At the start of every round, roll a d20. On a roll of 15 or higher, a sandstorm surge occurs, imposing a -2 penalty on attack rolls, Perception checks, and any skill checks involving sight for that round.</li></ul><h3 style=\"border-color:rgb(227,227,227);\">2. <span style=\"border-color:rgb(227,227,227);\">Quicksand Pits</span></h3><p style=\"border-color:rgb(227,227,227);\">Hidden beneath the surface, several areas around the compound are actually dangerous quicksand pits that can trap the unwary.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: Mark several areas on the battlefield as quicksand pits. If a character enters a pit (knowingly or unknowingly), they must succeed on a DC 15 Strength or Acrobatics check to avoid sinking. Characters who fail sink 1 square (5 feet) and must make the check again each turn to escape or be freed by others.</li></ul><h3 style=\"border-color:rgb(227,227,227);\">3. <span style=\"border-color:rgb(227,227,227);\">Unstable Dune</span></h3><p style=\"border-color:rgb(227,227,227);\">A large dune near the compound is unstable and prone to collapse, potentially burying anyone on or below it.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: If combatants engage on the unstable dune, roll a d20 whenever a character takes a standard action that involves significant movement or force. On a roll of 5 or lower, the dune collapses, requiring everyone on the dune to make a DC 15 Reflex save or be buried under the sand. Buried characters are considered restrained and must make a DC 20 Strength check to free themselves or be dug out by allies.</li></ul><h3 style=\"border-color:rgb(227,227,227);\">4. <span style=\"border-color:rgb(227,227,227);\">Salvaged Defense Turrets</span></h3><p style=\"border-color:rgb(227,227,227);\">Aldair's compound is equipped with salvaged, semi-functional defense turrets that can be activated for additional firepower.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: Characters near a turret can spend a standard action to attempt a DC 20 Mechanics check to activate it. On success, the turret can make ranged attacks with a +10 attack bonus, dealing 3d8+2 damage to targets within a 30-square range. Each turret has a 25% chance of malfunctioning each time it's used, rendering it inoperable.</li></ul><h3 style=\"border-color:rgb(227,227,227);\">5. <span style=\"border-color:rgb(227,227,227);\">Solar Mirrors</span></h3><p style=\"border-color:rgb(227,227,227);\">Reflective solar mirrors around the compound can be adjusted to blind opponents or signal for help.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: As a standard action, a character can attempt a DC 15 Use Computer or Mechanics check to adjust a mirror. Successfully adjusted mirrors can be used to impose a -5 penalty on attack rolls for enemies starting their turn in a specified 3-square radius due to blinding light (lasts for 1 round) or signal distant allies or ships for assistance.</li></ul><h3 style=\"border-color:rgb(227,227,227);\">6. <span style=\"border-color:rgb(227,227,227);\">Emergency Supply Caches</span></h3><p style=\"border-color:rgb(227,227,227);\">Hidden caches around the compound contain emergency supplies, including medical kits, energy cells, and explosive devices.</p><ul style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);margin:0px;padding-left:0.375em;\"><span style=\"border-color:rgb(227,227,227);\">Mechanics</span>: Characters can spend a move action to search for a cache, requiring a DC 15 Perception check. Finding a cache allows the character to retrieve an item, such as a medpac (immediately restores 1d8+5 hit points), an energy cell (can be used to power a weapon or device), or a thermal detonator (deals 6d6 damage in a 4-square radius, DC 18 Reflex save for half damage).</li></ul>",
+            "date": null,
+            "location_id": 1337152,
+            "event_id": null,
+            "entity": {
+                "id": 5915860,
+                "entity_id": 148136,
+                "type_id": 7,
+                "name": "Showdown with the Howling Bantha Tribe",
+                "events": [
+                    {
+                        "id": 216456,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": null,
+                        "is_recurring": 0,
+                        "recurring_until": null,
+                        "recurring_periodicity": null,
+                        "day": 2,
+                        "month": 1,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": 148138,
+            "name": "Party's Visit to Jabba's Skiff",
+            "type": null,
+            "entry": "<ol style=\"border-color:rgb(227,227,227);list-style-type:none;padding-left:0px;color:rgb(24,26,42);\"><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">People of note at the palace:</span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Nol Kinta</span> (Age: 34, Race: Sullustan, Physical Description: Short and stout with large, dark eyes and a friendly smile, often seen wearing mechanic overalls. Brief Backstory: A skilled mechanic who once ran a successful repair shop on Nar Shaddaa. Reason: Indebted to Jabba after a business deal gone wrong, now works on maintaining the vehicles and tech in the palace.)</p><p style=\"border-color:rgb(227,227,227);\"><br></p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Tessix Greel</span> (Age: 29, Race: Zabrak, Physical Description: Tall and muscular with olive-green skin and a crown of short, sharp horns. Tattoos cover her arms. Brief Backstory: A former bounty hunter known for her ruthlessness. Reason: Came to Jabba seeking protection from a rival Hutt she betrayed.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Gan Lodo</span> (Age: 52, Race: Rodian, Physical Description: Lean with bright green skin, large eyes, and a perpetual sneer. Wears lavish, if not tacky, clothing. Brief Backstory: A gambler with an unmatched lucky streak that finally ended. Reason: Owes Jabba a significant debt and is trying to gamble his way out of it.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><br></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Yilma Zane</span> (Age: 43, Race: Twi'lek, Physical Description: Slender with deep blue skin and long, graceful lekku. Dresses elegantly. Brief Backstory: Formerly a respected opera singer on Ryloth, she fell from grace due to scandal. Reason: Seeking patronage from Jabba to fund her comeback tour.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Drub McKracken</span> (Age: 38, Race: Human, Physical Description: Rugged with a scar across his left eye, short-cropped hair, and a permanent scowl. Brief Backstory: A pirate captain whose crew mutinied, leaving him stranded. Reason: Looking for Jabba's support to reclaim his ship and exact revenge.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Finnak Tar</span> (Age: 24, Race: Duros, Physical Description: Tall and slim with red eyes and smooth blue skin, always seen with a datapad in hand. Brief Backstory: A brilliant slicer who got caught hacking into Imperial databases. Reason: Hides in Jabba's palace, offering his services in exchange for protection.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Vessra Hentz</span> (Age: 47, Race: Nautolan, Physical Description: Has vibrant green skin and a head full of tentacles that she decorates with beads. Wears a mix of combat and ceremonial attire. Brief Backstory: A mercenary leader whose last mission went disastrously wrong. Reason: Jabba offers sanctuary in return for her skills when needed.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Ollix Boon</span> (Age: 31, Race: Bith, Physical Description: Pale skin with large, dome-shaped head and big, round eyes. Typically dressed in a sleek suit. Brief Backstory: A musician who played in the wrong cantina and offended a powerful figure. Reason: Now plays exclusively for Jabba, his life depending on the Hutt's favor.)</p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Quor Talla</span> (Age: 59, Race: Devaronian, Physical Description: Tall with red skin, sharp horns, and a devilish grin. Wears outdated but well-maintained armor. Brief Backstory: A retired smuggler who’s seen it all. Reason: Lives in Jabba’s palace sharing tales of his adventures, serving as an informal advisor.)</p><p style=\"border-color:rgb(227,227,227);\"><br></p><p style=\"border-color:rgb(227,227,227);\">Molar the Hutt<br></p></li><li style=\"border-color:rgb(227,227,227);padding-left:1.25rem;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\"><br></span></p><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Ayy Vida</span> (Age: 27, Race: Twi'lek, Physical Description: Striking purple skin with eyes that seem to look right through you. Wears luxurious, form-fitting attire. Brief Backstory: Once a high-ranking courtesan with connections in Coruscant's upper echelons. Reason: Fled to Tatooine after learning too many secrets of the Republic’s elite, now seeks Jabba’s protection.)</p></li></ol>",
+            "date": null,
+            "location_id": 1337163,
+            "event_id": null,
+            "entity": {
+                "id": 5915923,
+                "entity_id": 148138,
+                "type_id": 7,
+                "name": "Party's Visit to Jabba's Skiff"
+            }
+        }
+    ],
     "items": [
         {
             "id": 401126,
@@ -1756,6 +1951,40 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 420990,
+            "name": "Mentari Disk",
+            "type": null,
+            "entry": null,
+            "item_id": null,
+            "price": null,
+            "size": null,
+            "location_id": null,
+            "character_id": null,
+            "entity": {
+                "id": 6102652,
+                "entity_id": 420990,
+                "type_id": 5,
+                "name": "Mentari Disk"
+            }
+        },
+        {
+            "id": 420991,
+            "name": "Ten'Shin's Ship",
+            "type": "Starship",
+            "entry": "<h2 style=\"padding:6px 0px;\"><span class=\"mw-headline\" style=\"margin:0px;padding:0px;\">ARC-170 Starfighter Statistics (CL 11)</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=3\" class=\"mw-editsection-visualeditor\" title=\"Edit section: ARC-170 Starfighter Statistics (CL 11)\" style=\"margin:0px;padding:0px;\"></a></span></h2><p style=\"padding:0px;\">Gargantuan <a href=\"https://swse.fandom.com/wiki/Starfighter\" class=\"mw-redirect\" title=\"Starfighter\" style=\"margin:0px;padding:0px;\">Starfighter</a></p><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Initiative\" title=\"Initiative\" style=\"margin:0px;padding:0px;\">Initiative</a><span>:</span> +5; <span>Senses:</span> <a href=\"https://swse.fandom.com/wiki/Perception\" title=\"Perception\" style=\"margin:0px;padding:0px;\">Perception</a> +6</p><h3 style=\"padding:0px;\"><span class=\"mw-headline\" id=\"Defenses\" style=\"margin:0px;padding:0px;\">Defenses</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=4\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Defenses\" style=\"margin:0px;padding:0px;\"></a></span></h3><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Reflex_Defense_(Vehicles)\" class=\"mw-redirect\" title=\"Reflex Defense (Vehicles)\" style=\"margin:0px;padding:0px;\">Reflex Defense</a>: 17 (<a href=\"https://swse.fandom.com/wiki/Flat-Footed\" class=\"mw-redirect\" title=\"Flat-Footed\" style=\"margin:0px;padding:0px;\">Flat-Footed</a>: 13), <a href=\"https://swse.fandom.com/wiki/Fortitude_Defense_(Vehicles)\" class=\"mw-redirect\" title=\"Fortitude Defense (Vehicles)\" style=\"margin:0px;padding:0px;\">Fortitude Defense</a>: 28; +8 Armor, <a href=\"https://swse.fandom.com/wiki/Vehicular_Combat\" title=\"Vehicular Combat\" style=\"margin:0px;padding:0px;\">Vehicular Combat</a></p><p style=\"padding:0px;\">Hit Points: 150; <a href=\"https://swse.fandom.com/wiki/Damage_Reduction\" title=\"Damage Reduction\" style=\"margin:0px;padding:0px;\">Damage Reduction</a>: 10; <a href=\"https://swse.fandom.com/wiki/Shield_Rating\" title=\"Shield Rating\" style=\"margin:0px;padding:0px;\">Shield Rating</a>: 25; <a href=\"https://swse.fandom.com/wiki/Damage_Threshold_(Vehicles)\" class=\"mw-redirect\" title=\"Damage Threshold (Vehicles)\" style=\"margin:0px;padding:0px;\">Damage Threshold</a>: 48</p><h3 style=\"padding:0px;\"><span class=\"mw-headline\" id=\"Offense\" style=\"margin:0px;padding:0px;\">Offense</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=5\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Offense\" style=\"margin:0px;padding:0px;\"></a></span></h3><p style=\"padding:0px;\"><span>Speed:</span> Fly 16 Squares (<a href=\"https://swse.fandom.com/wiki/Character_Scale\" class=\"mw-redirect\" title=\"Character Scale\" style=\"margin:0px;padding:0px;\">Character Scale</a>), Fly 4 Squares (<a href=\"https://swse.fandom.com/wiki/Starship_Scale\" class=\"mw-redirect\" title=\"Starship Scale\" style=\"margin:0px;padding:0px;\">Starship Scale</a>); (Maximum Velocity 1,050 km/h)</p><p style=\"padding:0px;\"><span>Ranged:</span> <a href=\"https://swse.fandom.com/wiki/Laser_Cannons\" class=\"mw-redirect\" title=\"Laser Cannons\" style=\"margin:0px;padding:0px;\">Laser Cannons</a> +4 (See Below)</p><p style=\"padding:0px;\"><span>Ranged:</span> <a href=\"https://swse.fandom.com/wiki/Medium_Laser_Cannons\" class=\"mw-redirect\" title=\"Medium Laser Cannons\" style=\"margin:0px;padding:0px;\">Medium Laser Cannons</a> +4 (See Below)</p><p style=\"padding:0px;\"><span>Ranged:</span> <a href=\"https://swse.fandom.com/wiki/Proton_Torpedoes\" class=\"mw-redirect\" title=\"Proton Torpedoes\" style=\"margin:0px;padding:0px;\">Proton Torpedoes</a> +6 (See Below)</p><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Fighting_Space\" title=\"Fighting Space\" style=\"margin:0px;padding:0px;\">Fighting Space</a><span>:</span> 4x4 Squares (<a href=\"https://swse.fandom.com/wiki/Character_Scale\" class=\"mw-redirect\" title=\"Character Scale\" style=\"margin:0px;padding:0px;\">Character Scale</a>), 1 Square (<a href=\"https://swse.fandom.com/wiki/Starship_Scale\" class=\"mw-redirect\" title=\"Starship Scale\" style=\"margin:0px;padding:0px;\">Starship Scale</a>); <a href=\"https://swse.fandom.com/wiki/Total_Cover\" class=\"mw-redirect\" title=\"Total Cover\" style=\"margin:0px;padding:0px;\">Total Cover</a><span> (Crew), +5 </span><a href=\"https://swse.fandom.com/wiki/Crew_Cover\" title=\"Crew Cover\" style=\"margin:0px;padding:0px;\">Crew Cover</a> (Astromech Droid)</p><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Base_Attack_Bonus\" class=\"mw-redirect\" title=\"Base Attack Bonus\" style=\"margin:0px;padding:0px;\">Base Attack Bonus</a><span>:</span> +2; <a href=\"https://swse.fandom.com/wiki/Grapple\" title=\"Grapple\" style=\"margin:0px;padding:0px;\">Grapple</a><span>:</span> +35</p><p style=\"padding:0px;\"><span>Attack Options:</span> <a href=\"https://swse.fandom.com/wiki/Autofire_(Vehicle_Combat)\" title=\"Autofire (Vehicle Combat)\" style=\"margin:0px;padding:0px;\">Autofire</a> (<a href=\"https://swse.fandom.com/wiki/Laser_Cannon\" title=\"Laser Cannon\" style=\"margin:0px;padding:0px;\">Laser Cannons</a>, <a href=\"https://swse.fandom.com/wiki/Medium_Laser_Cannons\" class=\"mw-redirect\" title=\"Medium Laser Cannons\" style=\"margin:0px;padding:0px;\">Medium Laser Cannons</a>), <a href=\"https://swse.fandom.com/wiki/Fire-Link\" class=\"mw-redirect\" title=\"Fire-Link\" style=\"margin:0px;padding:0px;\">Fire-Link</a> (<a href=\"https://swse.fandom.com/wiki/Proton_Torpedoes\" class=\"mw-redirect\" title=\"Proton Torpedoes\" style=\"margin:0px;padding:0px;\">Proton Torpedoes</a>)</p><h3 style=\"padding:0px;\"><span class=\"mw-headline\" id=\"Abilities\" style=\"margin:0px;padding:0px;\">Abilities</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=6\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Abilities\" style=\"margin:0px;padding:0px;\"></a></span></h3><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Strength\" title=\"Strength\" style=\"margin:0px;padding:0px;\">Strength</a>: 46, <a href=\"https://swse.fandom.com/wiki/Dexterity\" title=\"Dexterity\" style=\"margin:0px;padding:0px;\">Dexterity</a>: 18, <a href=\"https://swse.fandom.com/wiki/Constitution\" title=\"Constitution\" style=\"margin:0px;padding:0px;\">Constitution</a>: -, <a href=\"https://swse.fandom.com/wiki/Intelligence\" title=\"Intelligence\" style=\"margin:0px;padding:0px;\">Intelligence</a>: 14</p><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Skills\" title=\"Skills\" style=\"margin:0px;padding:0px;\">Skills</a><span>:</span> <a href=\"https://swse.fandom.com/wiki/Initiative\" title=\"Initiative\" style=\"margin:0px;padding:0px;\">Initiative</a> +5, <a href=\"https://swse.fandom.com/wiki/Mechanics\" title=\"Mechanics\" style=\"margin:0px;padding:0px;\">Mechanics</a> +6 (+13*), <a href=\"https://swse.fandom.com/wiki/Perception\" title=\"Perception\" style=\"margin:0px;padding:0px;\">Perception</a> +6, <a href=\"https://swse.fandom.com/wiki/Pilot\" title=\"Pilot\" style=\"margin:0px;padding:0px;\">Pilot</a> +5, <a href=\"https://swse.fandom.com/wiki/Use_Computer\" title=\"Use Computer\" style=\"margin:0px;padding:0px;\">Use Computer</a> +6 (+13*)</p><p style=\"padding:0px;\"><span>*If the ship has an Astromech Droid, use these </span><a href=\"https://swse.fandom.com/wiki/Skill\" class=\"mw-redirect\" title=\"Skill\" style=\"margin:0px;padding:0px;\">Skill</a> modifiers instead.</p><h3 style=\"padding:0px;\"><span class=\"mw-headline\" id=\"Ship_Statistics\" style=\"margin:0px;padding:0px;\">Ship Statistics</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=7\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Ship Statistics\" style=\"margin:0px;padding:0px;\"></a></span></h3><p style=\"padding:0px;\"><span>Crew:</span> 3 plus Astromech Droid (Skilled <a href=\"https://swse.fandom.com/wiki/Crew_Quality\" title=\"Crew Quality\" style=\"margin:0px;padding:0px;\">Crew Quality</a>); <span>Passengers:</span> None</p><p style=\"padding:0px;\"><span>Cargo:</span> 110 Kilograms; <span>Consumables:</span> 5 Days; <span>Carried Craft:</span> None</p><p style=\"padding:0px;\"><span>Payload:</span> 6 <a href=\"https://swse.fandom.com/wiki/Proton_Torpedoes\" class=\"mw-redirect\" title=\"Proton Torpedoes\" style=\"margin:0px;padding:0px;\">Proton Torpedoes</a></p><p style=\"padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Hyperdrive\" title=\"Hyperdrive\" style=\"margin:0px;padding:0px;\">Hyperdrive</a><span>:</span> Class 1.5, 10 Jump Memory (Astromech Droid)</p><p style=\"padding:0px;\"><span>Availability:</span> <a href=\"https://swse.fandom.com/wiki/Military\" class=\"mw-redirect\" title=\"Military\" style=\"margin:0px;padding:0px;\">Military</a>; <span>Cost:</span> 155,000 (70,000 <a href=\"https://swse.fandom.com/wiki/Used\" class=\"mw-redirect\" title=\"Used\" style=\"margin:0px;padding:0px;\">Used</a>)</p><h3 style=\"padding:0px;\"><span class=\"mw-headline\" id=\"Weapon_Systems\" style=\"margin:0px;padding:0px;\">Weapon Systems</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=8\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Weapon Systems\" style=\"margin:0px;padding:0px;\"></a></span></h3><h4 style=\"padding:0px;\"><span id=\"Laser_Cannons_.28Gunner.29\" style=\"margin:0px;padding:0px;\"></span><span class=\"mw-headline\" style=\"margin:0px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Laser_Cannons\" class=\"mw-redirect\" title=\"Laser Cannons\" style=\"margin:0px;padding:0px;\">Laser Cannons</a><span> (</span><a href=\"https://swse.fandom.com/wiki/Gunner\" title=\"Gunner\" style=\"margin:0px;padding:0px;\">Gunner</a>)</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=9\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Laser Cannons (Gunner)\" style=\"margin:0px;padding:0px;\"></a></span></h4><p style=\"padding:0px;\"><span>Attack Bonus:</span> +4 (-1 <a href=\"https://swse.fandom.com/wiki/Autofire_(Vehicle_Combat)\" title=\"Autofire (Vehicle Combat)\" style=\"margin:0px;padding:0px;\">Autofire</a>), <span>Damage:</span> 5d10x2</p><h4 style=\"padding:0px;\"><span id=\"Medium_Laser_Cannons_.28Gunner.29\" style=\"margin:0px;padding:0px;\"></span><span class=\"mw-headline\" style=\"margin:0px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Medium_Laser_Cannons\" class=\"mw-redirect\" title=\"Medium Laser Cannons\" style=\"margin:0px;padding:0px;\">Medium Laser Cannons</a><span> (</span><a href=\"https://swse.fandom.com/wiki/Gunner\" title=\"Gunner\" style=\"margin:0px;padding:0px;\">Gunner</a>)</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=10\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Medium Laser Cannons (Gunner)\" style=\"margin:0px;padding:0px;\"></a></span></h4><p style=\"padding:0px;\"><span>Attack Bonus:</span> +4 (-1 <a href=\"https://swse.fandom.com/wiki/Autofire_(Vehicle_Combat)\" title=\"Autofire (Vehicle Combat)\" style=\"margin:0px;padding:0px;\">Autofire</a>), <span>Damage:</span> 6d10x2</p><h4 style=\"padding:0px;\"><span id=\"Proton_Torpedoes_.28Pilot.29\" style=\"margin:0px;padding:0px;\"></span><span class=\"mw-headline\" style=\"margin:0px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/Proton_Torpedoes\" class=\"mw-redirect\" title=\"Proton Torpedoes\" style=\"margin:0px;padding:0px;\">Proton Torpedoes</a><span> (</span><a href=\"https://swse.fandom.com/wiki/Pilot_(Vehicle_Combat)\" title=\"Pilot (Vehicle Combat)\" style=\"margin:0px;padding:0px;\">Pilot</a>)</span><span class=\"mw-editsection\" style=\"margin:0px 0px 0px 12px;padding:0px;\"><a href=\"https://swse.fandom.com/wiki/ARC-170_Starfighter?veaction=edit&amp;section=11\" class=\"mw-editsection-visualeditor\" title=\"Edit section: Proton Torpedoes (Pilot)\" style=\"margin:0px;padding:0px;\"></a></span></h4><p style=\"padding:0px;\">Attack Bonus: +6, Damage: 9d10x2, 4-Square <a href=\"https://swse.fandom.com/wiki/Splash\" class=\"mw-redirect\" title=\"Splash\" style=\"margin:0px;padding:0px;\">Splash</a></p>",
+            "item_id": null,
+            "price": null,
+            "size": null,
+            "location_id": null,
+            "character_id": null,
+            "entity": {
+                "id": 6102703,
+                "entity_id": 420991,
+                "type_id": 5,
+                "name": "Ten'Shin's Ship"
+            }
         }
     ],
     "journals": [
@@ -1777,18 +2006,18 @@
         },
         {
             "id": 105669,
-            "name": "Session 1/20/24",
+            "name": "Session 1",
             "type": "Session",
             "entry": "<p style=\"color:rgb(24,26,42);\">The party met in the Mos Eisley Cantina. All began to get to know each other.</p><p style=\"color:rgb(24,26,42);\">At one point Ten'Shin managed to steal the comlink of Greef Teeka and the party determined he is working for someone called [character:5663465|Zan] and is actively looking for Aldair Tallon. There was much nonsense. Ten'Shin also tried and, initially failed, to steal the speederbike of a trandoshan.</p><p style=\"color:rgb(24,26,42);\">Zilgik also stole a speeder, but did so quietly by hotwiring it.</p><p style=\"color:rgb(24,26,42);\">They party has decided to head for the Power Station in an attempt to \"borrow\" some equipment to scan for Aldair Tallon in addition to continuing to listen to Greef Teeka to see if his group has located Aldair Tallon.</p>",
             "author_id": null,
             "location_id": 1284877,
-            "date": null,
+            "date": "2024-01-20",
             "journal_id": 105667,
             "entity": {
                 "id": 5668801,
                 "entity_id": 105669,
                 "type_id": 11,
-                "name": "Session 1/20/24",
+                "name": "Session 1",
                 "posts": [
                     {
                         "id": 571102,
@@ -2015,6 +2244,198 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 113501,
+            "name": "Session 3",
+            "type": "Session",
+            "entry": "<p>Party defended an attack on Aldair Tallon's outpost by a group of Tusken Raiders.<span style=\"background-color:rgb(157,223,251);\"> </span>Jabba The Hutt showed up at the end of the fight and called out McCallin. The rest of the party learned that McCallin owed Jabba a favor, and Jabba was intent on calling in that favor. The party has been tasked with traveling to Nar Shaddaa to Zorba The Hutt's compound to retreive the device.</p>",
+            "author_id": null,
+            "location_id": 1284876,
+            "date": "2024-03-16",
+            "journal_id": 105667,
+            "entity": {
+                "id": 6098837,
+                "entity_id": 113501,
+                "type_id": 11,
+                "name": "Session 3",
+                "events": [
+                    {
+                        "id": 222144,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": "",
+                        "is_recurring": 0,
+                        "recurring_until": null,
+                        "recurring_periodicity": null,
+                        "day": 2,
+                        "month": 1,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6098837,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5658517
+                    },
+                    {
+                        "entity_id": 6098837,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663527
+                    },
+                    {
+                        "entity_id": 6098837,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098836
+                    },
+                    {
+                        "entity_id": 6098837,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098897
+                    },
+                    {
+                        "entity_id": 6098837,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098917
+                    }
+                ]
+            }
+        },
+        {
+            "id": 113551,
+            "name": "Session 4",
+            "type": "Session",
+            "entry": "<p>Party approaches and traded with the Desert Fangs to get Ten'Shin's ship back, and return the remains of Grond and Sskar Vossk's speederbike. Before returning Grond, Zilgik managed to copy his memory banks. This will lead to a massive amount of information on the group:<br></p><ol style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Operational Data</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Past Missions</span>: Detailed records of past operations performed by the Desert Fangs, including employer information, mission parameters, and outcomes. This could reveal patterns or expose significant underworld connections and the political landscape that the Desert Fangs have been involved with.</li><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Tactics and Strategies</span>: Insights into the combat tactics, escape routes, and contingency plans used by the Desert Fangs. This could provide the party with advanced knowledge of mercenary tactics that could be useful in future encounters.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Client List</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">A comprehensive list of past and current clients, which may include influential figures on Tatooine and beyond. This could lead to new allies or enemies, depending on how the party uses this information.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Communications</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Archived communications between the Desert Fangs and their clients, as well as internal communications within the group. This might reveal not only who hired them for what jobs but also potential vulnerabilities or secrets that clients believed were safe.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Financial Records</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Details about the financial dealings of the Desert Fangs, including how they are paid, who funds them, and perhaps even where they stash their earnings. This could be leveraged for bribery, blackmail, or to disrupt their operations financially.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Technical Specifications and Upgrades</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Specifications of the modifications and upgrades made to Grond, potentially including blueprints or software that could be replicated or adapted for the party’s own use.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Navigation Logs</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Data about routes taken by the Desert Fangs, including hidden hyperspace routes or safe houses they might use across the galaxy. This could help the party travel unnoticed or find significant locations related to their quests.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Encryption Keys and Security Protocols</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Access to any encrypted files and an understanding of the security protocols used by the Desert Fangs, potentially allowing the party to infiltrate secured communications or locations associated with the mercenary group.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Potential Blackmail Material</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Compromising information about individuals or organizations that could be used for leverage or blackmail by the party.</li></ul></li></ol><p><br>Then they made their way to Dantooine to drop off Aldair Tallon who plans to vanish into obscurity. They then continued on their way to Nar Shaddaa (arrived on the 23 of Banthaar) so they can attempt to infiltrate Zorba The Hutt's compound in an attempt to find the Mentari Disk. McCallin and Nom Drexx met up with Selana Korr to get some information about Zorba's compound. </p><p>She provided a rough sketch of the compound itself, a vague estimate of the security personnel and a couple of inside contacts that she has with people that are in and out of the compound regularly, but stressed she doesn't know these contacts well and their trustworthiness is questionable.</p>",
+            "author_id": null,
+            "location_id": null,
+            "date": "2024-04-26",
+            "journal_id": 105667,
+            "entity": {
+                "id": 6102653,
+                "entity_id": 113551,
+                "type_id": 11,
+                "name": "Session 4",
+                "events": [
+                    {
+                        "id": 222243,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": "",
+                        "is_recurring": 0,
+                        "recurring_until": null,
+                        "recurring_periodicity": null,
+                        "day": 23,
+                        "month": 1,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5668722
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663490
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5668731
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5668723
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6102651
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5658517
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098897
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098836
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6102652
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663527
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663531
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6102609
+                    },
+                    {
+                        "entity_id": 6102653,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663523
+                    }
+                ]
+            }
         }
     ],
     "locations": [
@@ -2168,6 +2589,84 @@
                 "type_id": 3,
                 "name": "Vikra's Vanguard &amp; Repair"
             }
+        },
+        {
+            "id": 1337150,
+            "name": "The Dune Sea",
+            "type": "Region",
+            "entry": "",
+            "location_id": 1284876,
+            "entity": {
+                "id": 5915854,
+                "entity_id": 1337150,
+                "type_id": 3,
+                "name": "The Dune Sea"
+            }
+        },
+        {
+            "id": 1337152,
+            "name": "Aldair's Dune Compound",
+            "type": "Compound",
+            "entry": "",
+            "location_id": 1337150,
+            "entity": {
+                "id": 5915856,
+                "entity_id": 1337152,
+                "type_id": 3,
+                "name": "Aldair's Dune Compound"
+            }
+        },
+        {
+            "id": 1337156,
+            "name": "Nal Hutta",
+            "type": "Planet",
+            "entry": null,
+            "location_id": null,
+            "entity": {
+                "id": 5915882,
+                "entity_id": 1337156,
+                "type_id": 3,
+                "name": "Nal Hutta"
+            }
+        },
+        {
+            "id": 1337163,
+            "name": "Jabba's Palace",
+            "type": "Compound",
+            "entry": "",
+            "location_id": 1337150,
+            "entity": {
+                "id": 5915915,
+                "entity_id": 1337163,
+                "type_id": 3,
+                "name": "Jabba's Palace"
+            }
+        },
+        {
+            "id": 1373557,
+            "name": "Nar Shaddaa",
+            "type": null,
+            "entry": null,
+            "location_id": null,
+            "entity": {
+                "id": 6098897,
+                "entity_id": 1373557,
+                "type_id": 3,
+                "name": "Nar Shaddaa"
+            }
+        },
+        {
+            "id": 1374381,
+            "name": "Dantooine",
+            "type": null,
+            "entry": null,
+            "location_id": null,
+            "entity": {
+                "id": 6102651,
+                "entity_id": 1374381,
+                "type_id": 3,
+                "name": "Dantooine"
+            }
         }
     ],
     "organisations": [
@@ -2285,13 +2784,6 @@
                         "post_id": null,
                         "timeline_element_id": null,
                         "quest_element_id": null,
-                        "target_id": 5663585
-                    },
-                    {
-                        "entity_id": 5668722,
-                        "post_id": null,
-                        "timeline_element_id": null,
-                        "quest_element_id": null,
                         "target_id": 5668726
                     },
                     {
@@ -2356,7 +2848,7 @@
             "entry": "",
             "location_id": 1284877,
             "is_defunct": 0,
-            "organisation_id": null,
+            "organisation_id": 286064,
             "entity": {
                 "id": 5671989,
                 "entity_id": 275503,
@@ -2539,6 +3031,56 @@
                 "type_id": 4,
                 "name": "Confederacy of Independent Systems"
             }
+        },
+        {
+            "id": 286064,
+            "name": "Grand Hutt Council",
+            "type": "Council",
+            "entry": "",
+            "location_id": 1337156,
+            "is_defunct": 0,
+            "organisation_id": null,
+            "entity": {
+                "id": 5915884,
+                "entity_id": 286064,
+                "type_id": 4,
+                "name": "Grand Hutt Council"
+            }
+        },
+        {
+            "id": 294246,
+            "name": "Desilijic Tiure clan",
+            "type": "Clan",
+            "entry": "<p><b>Desilijic</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-absolutely-8\" style=\"margin:0px;padding:0px;text-decoration:none;\">[8]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> also known as the </span><b>Desilijic Tiure clan</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-BMF_94-9\" style=\"margin:0px;padding:0px;text-decoration:none;\">[9]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> or the </span><b>Tiure family</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-Super_Graphic-10\" style=\"margin:0px;padding:0px;text-decoration:none;\">[10]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> was an influential</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-BMF_94-9\" style=\"margin:0px;padding:0px;text-decoration:none;\">[9]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> </span><a href=\"https://starwars.fandom.com/wiki/Hutt\" title=\"Hutt\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">Hutt</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> </span><a href=\"https://starwars.fandom.com/wiki/Kajidic\" title=\"Kajidic\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">kajidic</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">. </span><a href=\"https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure\" title=\"Jabba Desilijic Tiure\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">Jabba Desilijic Tiure</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">, head of </span><a href=\"https://starwars.fandom.com/wiki/Gender\" title=\"Gender\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">his</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> crime family, had the Desilijic's </span><a href=\"https://starwars.fandom.com/wiki/Tattoo\" title=\"Tattoo\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">tattoo</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> carved on his </span><a href=\"https://starwars.fandom.com/wiki/Limb\" title=\"Limb\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">right arm</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">.</span><br></p>",
+            "location_id": null,
+            "is_defunct": 0,
+            "organisation_id": 286064,
+            "entity": {
+                "id": 6098910,
+                "entity_id": 294246,
+                "type_id": 4,
+                "name": "Desilijic Tiure clan"
+            },
+            "members": [
+                {
+                    "id": 733716,
+                    "organisation_id": 294246,
+                    "character_id": 1545540,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                },
+                {
+                    "id": 733718,
+                    "organisation_id": 294246,
+                    "character_id": 1545568,
+                    "role": null,
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ]
         }
     ],
     "races": [
