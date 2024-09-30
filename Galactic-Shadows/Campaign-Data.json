@@ -1,9 +1,9 @@
 {
     "": [
         {
-            "kanka_version": "2.3",
+            "kanka_version": "2.7",
             "export_version": "3.0.0",
-            "started": "2024-05-04 20:26:52"
+            "started": "2024-09-30 22:19:04"
         },
         {
             "id": 233607,
@@ -11,16 +11,10 @@
             "locale": null,
             "image": null,
             "entry": "",
-            "export_date": "2024-05-04T00:00:00.000000Z",
             "entity_visibility": 0,
-            "featured_until": null,
-            "featured_reason": null,
-            "system": null,
             "entity_personality_visibility": 0,
             "excerpt": "",
-            "visible_entity_count": 56,
             "theme_id": null,
-            "boost_count": null,
             "ui_settings": {
                 "hide_members": "0",
                 "hide_history": "0",
@@ -35,7 +29,78 @@
                 "default_visibility": null
             },
             "is_open": 0,
-            "follower": 0
+            "deleted_at": null,
+            "deleted_by": null
+        }
+    ],
+    "settings": [
+        {
+            "characters": {
+                "enabled": 1
+            },
+            "events": {
+                "enabled": 1
+            },
+            "families": {
+                "enabled": 1
+            },
+            "items": {
+                "enabled": 1
+            },
+            "journals": {
+                "enabled": 1
+            },
+            "locations": {
+                "enabled": 1
+            },
+            "notes": {
+                "enabled": 1
+            },
+            "organisations": {
+                "enabled": 1
+            },
+            "quests": {
+                "enabled": 1
+            },
+            "calendars": {
+                "enabled": 1
+            },
+            "tags": {
+                "enabled": 1
+            },
+            "dice_rolls": {
+                "enabled": 0
+            },
+            "bookmarks": {
+                "enabled": 1
+            },
+            "conversations": {
+                "enabled": 0
+            },
+            "races": {
+                "enabled": 1
+            },
+            "abilities": {
+                "enabled": 1
+            },
+            "maps": {
+                "enabled": 1
+            },
+            "timelines": {
+                "enabled": 1
+            },
+            "inventories": {
+                "enabled": 1
+            },
+            "creatures": {
+                "enabled": 1
+            },
+            "entity_attributes": {
+                "enabled": 1
+            },
+            "assets": {
+                "enabled": 1
+            }
         }
     ],
     "characters": [
@@ -86,14 +151,34 @@
                 {
                     "id": 675866,
                     "character_id": 1435519,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 675866,
                     "character_id": 1435519,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -130,14 +215,34 @@
                 {
                     "id": 659242,
                     "character_id": 1435520,
-                    "race_id": 605959
+                    "race_id": 605959,
+                    "race": {
+                        "id": 605959,
+                        "name": "Gand",
+                        "entity": {
+                            "id": 5668733,
+                            "name": "Gand",
+                            "entity_id": 605959,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 659242,
                     "character_id": 1435520,
-                    "race_id": 605959
+                    "race_id": 605959,
+                    "race": {
+                        "id": 605959,
+                        "name": "Gand",
+                        "entity": {
+                            "id": 5668733,
+                            "name": "Gand",
+                            "entity_id": 605959,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -174,14 +279,34 @@
                 {
                     "id": 658397,
                     "character_id": 1435521,
-                    "race_id": 605097
+                    "race_id": 605097,
+                    "race": {
+                        "id": 605097,
+                        "name": "Trandoshan",
+                        "entity": {
+                            "id": 5663600,
+                            "name": "Trandoshan",
+                            "entity_id": 605097,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658397,
                     "character_id": 1435521,
-                    "race_id": 605097
+                    "race_id": 605097,
+                    "race": {
+                        "id": 605097,
+                        "name": "Trandoshan",
+                        "entity": {
+                            "id": 5663600,
+                            "name": "Trandoshan",
+                            "entity_id": 605097,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -227,14 +352,34 @@
                 {
                     "id": 659568,
                     "character_id": 1435522,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 659568,
                     "character_id": 1435522,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -262,14 +407,34 @@
                 {
                     "id": 658394,
                     "character_id": 1435523,
-                    "race_id": 605094
+                    "race_id": 605094,
+                    "race": {
+                        "id": 605094,
+                        "name": "Droid",
+                        "entity": {
+                            "id": 5663591,
+                            "name": "Droid",
+                            "entity_id": 605094,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658394,
                     "character_id": 1435523,
-                    "race_id": 605094
+                    "race_id": 605094,
+                    "race": {
+                        "id": 605094,
+                        "name": "Droid",
+                        "entity": {
+                            "id": 5663591,
+                            "name": "Droid",
+                            "entity_id": 605094,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -297,14 +462,34 @@
                 {
                     "id": 675867,
                     "character_id": 1435524,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 675867,
                     "character_id": 1435524,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -374,7 +559,17 @@
                 {
                     "id": 658390,
                     "character_id": 1435527,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -392,7 +587,17 @@
                 {
                     "id": 658390,
                     "character_id": 1435527,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -431,7 +636,17 @@
                 {
                     "id": 658392,
                     "character_id": 1435528,
-                    "race_id": 605092
+                    "race_id": 605092,
+                    "race": {
+                        "id": 605092,
+                        "name": "Gamorrean",
+                        "entity": {
+                            "id": 5663589,
+                            "name": "Gamorrean",
+                            "entity_id": 605092,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -449,7 +664,17 @@
                 {
                     "id": 658392,
                     "character_id": 1435528,
-                    "race_id": 605092
+                    "race_id": 605092,
+                    "race": {
+                        "id": 605092,
+                        "name": "Gamorrean",
+                        "entity": {
+                            "id": 5663589,
+                            "name": "Gamorrean",
+                            "entity_id": 605092,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -488,14 +713,34 @@
                 {
                     "id": 658399,
                     "character_id": 1435536,
-                    "race_id": 605096
+                    "race_id": 605096,
+                    "race": {
+                        "id": 605096,
+                        "name": "Shistavanen",
+                        "entity": {
+                            "id": 5663594,
+                            "name": "Shistavanen",
+                            "entity_id": 605096,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658399,
                     "character_id": 1435536,
-                    "race_id": 605096
+                    "race_id": 605096,
+                    "race": {
+                        "id": 605096,
+                        "name": "Shistavanen",
+                        "entity": {
+                            "id": 5663594,
+                            "name": "Shistavanen",
+                            "entity_id": 605096,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -523,14 +768,34 @@
                 {
                     "id": 658395,
                     "character_id": 1435537,
-                    "race_id": 605096
+                    "race_id": 605096,
+                    "race": {
+                        "id": 605096,
+                        "name": "Shistavanen",
+                        "entity": {
+                            "id": 5663594,
+                            "name": "Shistavanen",
+                            "entity_id": 605096,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658395,
                     "character_id": 1435537,
-                    "race_id": 605096
+                    "race_id": 605096,
+                    "race": {
+                        "id": 605096,
+                        "name": "Shistavanen",
+                        "entity": {
+                            "id": 5663594,
+                            "name": "Shistavanen",
+                            "entity_id": 605096,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -558,14 +823,34 @@
                 {
                     "id": 675868,
                     "character_id": 1435540,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 675868,
                     "character_id": 1435540,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -593,7 +878,17 @@
                 {
                     "id": 658393,
                     "character_id": 1435541,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -611,7 +906,17 @@
                 {
                     "id": 658393,
                     "character_id": 1435541,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -787,7 +1092,17 @@
                 {
                     "id": 658363,
                     "character_id": 1436579,
-                    "race_id": 605078
+                    "race_id": 605078,
+                    "race": {
+                        "id": 605078,
+                        "name": "Rodian",
+                        "entity": {
+                            "id": 5663461,
+                            "name": "Rodian",
+                            "entity_id": 605078,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -805,7 +1120,17 @@
                 {
                     "id": 658363,
                     "character_id": 1436579,
-                    "race_id": 605078
+                    "race_id": 605078,
+                    "race": {
+                        "id": 605078,
+                        "name": "Rodian",
+                        "entity": {
+                            "id": 5663461,
+                            "name": "Rodian",
+                            "entity_id": 605078,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -867,7 +1192,17 @@
                 {
                     "id": 658364,
                     "character_id": 1436580,
-                    "race_id": 605080
+                    "race_id": 605080,
+                    "race": {
+                        "id": 605080,
+                        "name": "Chiss",
+                        "entity": {
+                            "id": 5663464,
+                            "name": "Chiss",
+                            "entity_id": 605080,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -885,7 +1220,17 @@
                 {
                     "id": 658364,
                     "character_id": 1436580,
-                    "race_id": 605080
+                    "race_id": 605080,
+                    "race": {
+                        "id": 605080,
+                        "name": "Chiss",
+                        "entity": {
+                            "id": 5663464,
+                            "name": "Chiss",
+                            "entity_id": 605080,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -933,14 +1278,34 @@
                 {
                     "id": 658402,
                     "character_id": 1436590,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658402,
                     "character_id": 1436590,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -977,14 +1342,34 @@
                 {
                     "id": 658401,
                     "character_id": 1436603,
-                    "race_id": 605098
+                    "race_id": 605098,
+                    "race": {
+                        "id": 605098,
+                        "name": "Verpine",
+                        "entity": {
+                            "id": 5663605,
+                            "name": "Verpine",
+                            "entity_id": 605098,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658401,
                     "character_id": 1436603,
-                    "race_id": 605098
+                    "race_id": 605098,
+                    "race": {
+                        "id": 605098,
+                        "name": "Verpine",
+                        "entity": {
+                            "id": 5663605,
+                            "name": "Verpine",
+                            "entity_id": 605098,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -1021,14 +1406,34 @@
                 {
                     "id": 658400,
                     "character_id": 1436605,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658400,
                     "character_id": 1436605,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -1072,7 +1477,17 @@
                 {
                     "id": 658404,
                     "character_id": 1436608,
-                    "race_id": 605100
+                    "race_id": 605100,
+                    "race": {
+                        "id": 605100,
+                        "name": "Falleen",
+                        "entity": {
+                            "id": 5663607,
+                            "name": "Falleen",
+                            "entity_id": 605100,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1090,7 +1505,17 @@
                 {
                     "id": 658404,
                     "character_id": 1436608,
-                    "race_id": 605100
+                    "race_id": 605100,
+                    "race": {
+                        "id": 605100,
+                        "name": "Falleen",
+                        "entity": {
+                            "id": 5663607,
+                            "name": "Falleen",
+                            "entity_id": 605100,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1145,14 +1570,34 @@
                 {
                     "id": 658388,
                     "character_id": 1436630,
-                    "race_id": 605088
+                    "race_id": 605088,
+                    "race": {
+                        "id": 605088,
+                        "name": "Devaronian",
+                        "entity": {
+                            "id": 5663582,
+                            "name": "Devaronian",
+                            "entity_id": 605088,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 658388,
                     "character_id": 1436630,
-                    "race_id": 605088
+                    "race_id": 605088,
+                    "race": {
+                        "id": 605088,
+                        "name": "Devaronian",
+                        "entity": {
+                            "id": 5663582,
+                            "name": "Devaronian",
+                            "entity_id": 605088,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -1180,7 +1625,17 @@
                 {
                     "id": 659237,
                     "character_id": 1438180,
-                    "race_id": 605097
+                    "race_id": 605097,
+                    "race": {
+                        "id": 605097,
+                        "name": "Trandoshan",
+                        "entity": {
+                            "id": 5663600,
+                            "name": "Trandoshan",
+                            "entity_id": 605097,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1198,7 +1653,17 @@
                 {
                     "id": 659237,
                     "character_id": 1438180,
-                    "race_id": 605097
+                    "race_id": 605097,
+                    "race": {
+                        "id": 605097,
+                        "name": "Trandoshan",
+                        "entity": {
+                            "id": 5663600,
+                            "name": "Trandoshan",
+                            "entity_id": 605097,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1237,7 +1702,17 @@
                 {
                     "id": 659238,
                     "character_id": 1438181,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1255,7 +1730,17 @@
                 {
                     "id": 659238,
                     "character_id": 1438181,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1294,7 +1779,17 @@
                 {
                     "id": 659239,
                     "character_id": 1438182,
-                    "race_id": 605958
+                    "race_id": 605958,
+                    "race": {
+                        "id": 605958,
+                        "name": "Twil'lek",
+                        "entity": {
+                            "id": 5668726,
+                            "name": "Twil'lek",
+                            "entity_id": 605958,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1312,7 +1807,17 @@
                 {
                     "id": 659239,
                     "character_id": 1438182,
-                    "race_id": 605958
+                    "race_id": 605958,
+                    "race": {
+                        "id": 605958,
+                        "name": "Twil'lek",
+                        "entity": {
+                            "id": 5668726,
+                            "name": "Twil'lek",
+                            "entity_id": 605958,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1357,7 +1862,9 @@
                             "collapsed": "0"
                         },
                         "location_id": null,
-                        "layout_id": null
+                        "layout_id": null,
+                        "deleted_at": null,
+                        "deleted_by": null
                     }
                 ],
                 "mentions": [
@@ -1374,7 +1881,17 @@
                 {
                     "id": 659240,
                     "character_id": 1438183,
-                    "race_id": 605094
+                    "race_id": 605094,
+                    "race": {
+                        "id": 605094,
+                        "name": "Droid",
+                        "entity": {
+                            "id": 5663591,
+                            "name": "Droid",
+                            "entity_id": 605094,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1392,7 +1909,17 @@
                 {
                     "id": 659240,
                     "character_id": 1438183,
-                    "race_id": 605094
+                    "race_id": 605094,
+                    "race": {
+                        "id": 605094,
+                        "name": "Droid",
+                        "entity": {
+                            "id": 5663591,
+                            "name": "Droid",
+                            "entity_id": 605094,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1456,14 +1983,34 @@
                 {
                     "id": 675854,
                     "character_id": 1472962,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 675854,
                     "character_id": 1472962,
-                    "race_id": 605091
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -1509,14 +2056,34 @@
                 {
                     "id": 675856,
                     "character_id": 1472963,
-                    "race_id": 625018
+                    "race_id": 625018,
+                    "race": {
+                        "id": 625018,
+                        "name": "Duros",
+                        "entity": {
+                            "id": 5814085,
+                            "name": "Duros",
+                            "entity_id": 625018,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 675856,
                     "character_id": 1472963,
-                    "race_id": 625018
+                    "race_id": 625018,
+                    "race": {
+                        "id": 625018,
+                        "name": "Duros",
+                        "entity": {
+                            "id": 5814085,
+                            "name": "Duros",
+                            "entity_id": 625018,
+                            "type_id": 9
+                        }
+                    }
                 }
             ]
         },
@@ -1576,7 +2143,17 @@
                 {
                     "id": 675869,
                     "character_id": 1472982,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1594,7 +2171,17 @@
                 {
                     "id": 675869,
                     "character_id": 1472982,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1658,7 +2245,17 @@
                 {
                     "id": 675871,
                     "character_id": 1472984,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisation_memberships": [
@@ -1676,7 +2273,17 @@
                 {
                     "id": 675871,
                     "character_id": 1472984,
-                    "race_id": 605093
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "organisationMemberships": [
@@ -1694,11 +2301,11 @@
         {
             "id": 1545540,
             "name": "Zorba The Hutt",
-            "entry": null,
+            "entry": "",
             "age": null,
             "sex": null,
             "pronouns": null,
-            "location_id": null,
+            "location_id": 1373557,
             "title": null,
             "family_id": null,
             "type": null,
@@ -1826,14 +2433,476 @@
                 {
                     "id": 709490,
                     "character_id": 1546638,
-                    "race_id": 605958
+                    "race_id": 605958,
+                    "race": {
+                        "id": 605958,
+                        "name": "Twil'lek",
+                        "entity": {
+                            "id": 5668726,
+                            "name": "Twil'lek",
+                            "entity_id": 605958,
+                            "type_id": 9
+                        }
+                    }
                 }
             ],
             "characterRaces": [
                 {
                     "id": 709490,
                     "character_id": 1546638,
-                    "race_id": 605958
+                    "race_id": 605958,
+                    "race": {
+                        "id": 605958,
+                        "name": "Twil'lek",
+                        "entity": {
+                            "id": 5668726,
+                            "name": "Twil'lek",
+                            "entity_id": 605958,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1602794,
+            "name": "Elia Vane",
+            "entry": "<h4>Appearance</h4><p>Elia is a petite woman with a shock of red hair often tied back in a practical ponytail. Her green eyes are sharp and intelligent, always scanning her surroundings with keen awareness. She typically wears mechanic's coveralls smeared with oil, reflecting her hands-on approach to her work.</p><h4>Background</h4><p>Elia Vane was born and raised on Corellia, a planet known for its advanced shipyards and skilled engineers. From a young age, Elia showed a natural aptitude for mechanics and engineering, often helping her father in his small repair shop. Her talent did not go unnoticed, and she earned a scholarship to study at one of Corellia's top engineering academies.</p><h4>Career at Corthon Dynamics</h4><p>After graduating with honors, Elia was quickly recruited by <strong>Corthon Dynamics</strong>, a powerful mega-corporation known for its cutting-edge starship technology. Her innovative ideas and exceptional skills earned her a position on several high-profile projects, where she contributed to the development of state-of-the-art starships and advanced weaponry.</p><p><br></p><p>Elia was previously employed by Corthan Dynamics</p><p><br></p><p><strong>Past Employment</strong>:</p><ul><li><strong>Corellian Genius</strong>: Elia Vane was once a rising star at Corthon Dynamics, recognized for her exceptional skills in starship engineering and innovation. She contributed to several high-profile projects, earning both admiration and envy from her colleagues.</li><li><strong>Conflict</strong>: Elia uncovered unethical practices and covert operations within the company, leading to a confrontation with her superiors. Refusing to comply with these practices, she became a target for retribution.</li></ul><p><strong>Betrayal and Flight</strong>:</p><ul><li><strong>Framed</strong>: The corporation framed Elia for corporate espionage and theft of proprietary technology, forcing her to flee Corellia to avoid prosecution and likely imprisonment.</li><li><strong>Pursuit</strong>: Determined to silence her and retrieve the stolen technology they falsely accused her of taking, Corthon Dynamics dispatched enforcers and hired bounty hunters to track her down across the galaxy.</li></ul><p><strong>Current Threat</strong>:</p><ul><li><strong>Relentless Hunt</strong>: The corporation’s pursuit of Elia has not waned. They have discovered her hiding on Nar Shaddaa and are using every resource at their disposal to capture or eliminate her, including coercing her into skimming credits for them under the threat of harming her family.</li></ul>",
+            "age": "24",
+            "sex": "Female",
+            "pronouns": null,
+            "location_id": 1373557,
+            "title": null,
+            "family_id": null,
+            "type": "NPC",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6318731,
+                "entity_id": 1602794,
+                "type_id": 1,
+                "name": "Elia Vane",
+                "mentions": [
+                    {
+                        "entity_id": 6318731,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318739
+                    }
+                ]
+            },
+            "character_families": [
+                {
+                    "id": 288160,
+                    "character_id": 1602794,
+                    "family_id": 173680,
+                    "family": {
+                        "id": 173680,
+                        "name": "Vane",
+                        "entity": {
+                            "id": 6318744,
+                            "name": "Vane",
+                            "entity_id": 173680,
+                            "type_id": 2
+                        }
+                    }
+                }
+            ],
+            "character_races": [
+                {
+                    "id": 733221,
+                    "character_id": 1602794,
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "organisation_memberships": [
+                {
+                    "id": 749912,
+                    "organisation_id": 304272,
+                    "character_id": 1602794,
+                    "role": "Former Employee",
+                    "pin_id": null,
+                    "status_id": 1,
+                    "parent_id": null
+                }
+            ],
+            "characterFamilies": [
+                {
+                    "character_id": 1602794,
+                    "family_id": 173680
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 733221,
+                    "character_id": 1602794,
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "organisationMemberships": [
+                {
+                    "id": 749912,
+                    "organisation_id": 304272,
+                    "character_id": 1602794,
+                    "role": "Former Employee",
+                    "pin_id": null,
+                    "status_id": 1,
+                    "parent_id": null
+                }
+            ]
+        },
+        {
+            "id": 1602797,
+            "name": "Lyra Vane",
+            "entry": "<p>Lyra Vane is a striking young woman with the same red hair as her sister Elia, though hers is often styled in loose waves that frame her face. Her green eyes, a mirror image of Elia’s, are bright and expressive, showing both resilience and fear. Lyra is of medium height, with a slender build. She typically wears practical, simple clothing suited to her modest lifestyle on Corellia.</p><h3>Background</h3><h4>Early Life</h4><p>Lyra Vane grew up alongside her older sister Elia on Corellia. The two were inseparable during their childhood, often exploring the bustling shipyards and urban centers of their home planet. While Elia was drawn to engineering and mechanics, Lyra pursued a different path, finding her passion in education and helping others.</p><h4>Education and Career</h4><p>Lyra excelled in her studies, showing a particular talent for languages and communication. After completing her education, she became a teacher at a local school in Coronet City, where she dedicated herself to educating and mentoring young students. Her kind and nurturing nature made her a beloved figure in the community.</p><h4>Connection to Elia</h4><p>The bond between the sisters remained strong despite their different career paths. Elia Vane often confided in Lyra about her work at Corthan Dynamics and the ethical dilemmas she faced. When Elia was forced to flee Corellia, she left Lyra behind, believing it would keep her safe from the corporation’s reach.</p><h4>Hostage Situation</h4><p>Unfortunately, Corthon Dynamics discovered Lyra’s connection to Elia and decided to use her as leverage. The rival faction working for Corthon Dynamics captured Lyra, keeping her as a hostage to ensure Elia’s compliance in their schemes. They threatened her safety to coerce Elia into skimming credits from Zorba the Hutt’s accounts.</p><h4>Current Situation</h4><p>Lyra is being held in a secure facility on Nar Shaddaa, guarded by enforcers of the rival faction. Despite the fear and uncertainty, she remains hopeful that Elia will find a way to rescue her. Lyra’s intelligence and resilience have helped her endure the captivity, but the constant threat to her life weighs heavily on her.</p>",
+            "age": "20",
+            "sex": "Female",
+            "pronouns": null,
+            "location_id": 1373557,
+            "title": null,
+            "family_id": null,
+            "type": "NPC",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6318751,
+                "entity_id": 1602797,
+                "type_id": 1,
+                "name": "Lyra Vane",
+                "mentions": [
+                    {
+                        "entity_id": 6318751,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318731
+                    },
+                    {
+                        "entity_id": 6318751,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318739
+                    }
+                ]
+            },
+            "character_families": [
+                {
+                    "id": 288161,
+                    "character_id": 1602797,
+                    "family_id": 173680,
+                    "family": {
+                        "id": 173680,
+                        "name": "Vane",
+                        "entity": {
+                            "id": 6318744,
+                            "name": "Vane",
+                            "entity_id": 173680,
+                            "type_id": 2
+                        }
+                    }
+                }
+            ],
+            "character_races": [
+                {
+                    "id": 733223,
+                    "character_id": 1602797,
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "characterFamilies": [
+                {
+                    "character_id": 1602797,
+                    "family_id": 173680
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 733223,
+                    "character_id": 1602797,
+                    "race_id": 605093,
+                    "race": {
+                        "id": 605093,
+                        "name": "Human",
+                        "entity": {
+                            "id": 5663590,
+                            "name": "Human",
+                            "entity_id": 605093,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1604239,
+            "name": "Ri'jek",
+            "entry": "<p>Ten'Shin's follower</p><p><span>Ri'jek is a petite Jawa with bright yellow eyes that shine with intelligence and curiosity. Her brown hooded robe is tattered and patched from years of wear and scavenging, and it hangs loosely around her small frame. Unlike most Jawas, Ri'jek has a distinctive mark on her robe, a small, hand-sewn patch in the shape of a star, symbolizing her once-dreamt freedom and adventures beyond Tatooine.</span><br></p><h3>Background</h3><h4>Early Life</h4><p>Ri'jek was born and raised in the deserts of Tatooine, part of a tight-knit Jawa clan known for their scavenging prowess and resourcefulness. Ri'jek dreamt of exploring the galaxy, fascinated by the stories of other worlds and advanced technologies she heard from passing traders.</p><h4>Capture and Enslavement</h4><p>During one of her scavenging missions, Ri'jek's clan was ambushed by a group of slavers working for Zorba the Hutt. The Jawas were captured and taken to Nar Shaddaa, where they were sold into servitude. Ri'jek was forced to work in Zorba's compound, ass Zorba is amused by making her serve him due to diminutive nature.</p><p><br></p><p>Base Attack Bonus: +2</p><p>STR: 10</p><p>DEX: 10</p><p>CON: 10<br>INT: 12<br>WIS: 10<br>CHA: 10</p><p>WILL: +2</p><p>Weapon Proficiency (Pistols)</p><p>Trained In: Perception, Stealth, Treat Injury</p>",
+            "age": "25",
+            "sex": "Female",
+            "pronouns": null,
+            "location_id": null,
+            "title": null,
+            "family_id": null,
+            "type": "Follower",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6327057,
+                "entity_id": 1604239,
+                "type_id": 1,
+                "name": "Ri'jek",
+                "relationships": [
+                    {
+                        "id": 641140,
+                        "owner_id": 6327057,
+                        "target_id": 5663490,
+                        "relation": "Follower",
+                        "attitude": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6327057,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663490
+                    }
+                ]
+            },
+            "character_races": [
+                {
+                    "id": 733818,
+                    "character_id": 1604239,
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 733818,
+                    "character_id": 1604239,
+                    "race_id": 605091,
+                    "race": {
+                        "id": 605091,
+                        "name": "Jawa",
+                        "entity": {
+                            "id": 5663586,
+                            "name": "Jawa",
+                            "entity_id": 605091,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1608425,
+            "name": "Frix Nant",
+            "entry": "<p>Bookeeper for Zorba The Hutt</p>",
+            "age": "38",
+            "sex": "Male",
+            "pronouns": null,
+            "location_id": 1373557,
+            "title": null,
+            "family_id": null,
+            "type": "NPC",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6339935,
+                "entity_id": 1608425,
+                "type_id": 1,
+                "name": "Frix Nant",
+                "mentions": [
+                    {
+                        "entity_id": 6339935,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098836
+                    }
+                ]
+            },
+            "character_races": [
+                {
+                    "id": 735302,
+                    "character_id": 1608425,
+                    "race_id": 684464,
+                    "race": {
+                        "id": 684464,
+                        "name": "Nautolan",
+                        "entity": {
+                            "id": 6339937,
+                            "name": "Nautolan",
+                            "entity_id": 684464,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 735302,
+                    "character_id": 1608425,
+                    "race_id": 684464,
+                    "race": {
+                        "id": 684464,
+                        "name": "Nautolan",
+                        "entity": {
+                            "id": 6339937,
+                            "name": "Nautolan",
+                            "entity_id": 684464,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1608431,
+            "name": "Varnex Krel",
+            "entry": "<p>Varnex Krel is a towering and formidable Zabrak, standing at an imposing 6'4\" with a muscular build that exudes strength and intimidation. His skin is a deep crimson, marked with intricate black tattoos that trace elaborate patterns across his face and down his neck, signifying his Zabrak heritage and high rank within the Black Sun Enforcers. These tattoos give him a fearsome and striking appearance.</p><p>His eyes are a piercing yellow, sharp and calculating, constantly assessing his surroundings and the people within them. Varnex’s horns are prominent and well-maintained, adding to his menacing look. His facial expression is often stern, with a slight hint of a smirk that suggests he is always in control and one step ahead of those around him.</p><p>He wears a suit of dark, battle-worn armor that has been customized with advanced technology for maximum protection and mobility. The armor is a blend of advanced polymers and reinforced durasteel, adorned with the emblem of the Black Sun prominently displayed on the chest plate. His armor bears numerous scars and burn marks, each telling a story of battles fought and won, further enhancing his fearsome reputation.</p><p>Attached to his belt are various weapons, including a modified blaster pistol, a vibroblade, and several thermal detonators, indicating his readiness for combat at any moment. Varnex's presence alone is enough to command respect and fear, making it clear that he is not to be underestimated.</p>",
+            "age": "45",
+            "sex": "Male",
+            "pronouns": null,
+            "location_id": 1373557,
+            "title": null,
+            "family_id": null,
+            "type": "NPC",
+            "is_dead": 0,
+            "race_id": null,
+            "deleted_at": null,
+            "entity": {
+                "id": 6339955,
+                "entity_id": 1608431,
+                "type_id": 1,
+                "name": "Varnex Krel",
+                "posts": [
+                    {
+                        "id": 687972,
+                        "name": "Negotiations with party",
+                        "entry": "<p>Party negotiated with him on the 27th on Firstmonth, completely ripped him off by trading the (now openly public) schematics for the echo drive to him for Lyra Vane. Krel will realized he was duped, and they've made a powerful enemy.</p>",
+                        "entity_id": 6339955,
+                        "position": 1,
+                        "settings": {
+                            "collapsed": "0"
+                        },
+                        "location_id": 1373557,
+                        "layout_id": null,
+                        "deleted_at": null,
+                        "deleted_by": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6339955,
+                        "post_id": 687972,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318751
+                    }
+                ]
+            },
+            "character_races": [
+                {
+                    "id": 735306,
+                    "character_id": 1608431,
+                    "race_id": 684466,
+                    "race": {
+                        "id": 684466,
+                        "name": "Zabrak",
+                        "entity": {
+                            "id": 6339956,
+                            "name": "Zabrak",
+                            "entity_id": 684466,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "organisation_memberships": [
+                {
+                    "id": 751074,
+                    "organisation_id": 305114,
+                    "character_id": 1608431,
+                    "role": "Leader",
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ],
+            "characterRaces": [
+                {
+                    "id": 735306,
+                    "character_id": 1608431,
+                    "race_id": 684466,
+                    "race": {
+                        "id": 684466,
+                        "name": "Zabrak",
+                        "entity": {
+                            "id": 6339956,
+                            "name": "Zabrak",
+                            "entity_id": 684466,
+                            "type_id": 9
+                        }
+                    }
+                }
+            ],
+            "organisationMemberships": [
+                {
+                    "id": 751074,
+                    "organisation_id": 305114,
+                    "character_id": 1608431,
+                    "role": "Leader",
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
                 }
             ]
         }
@@ -1851,7 +2920,7 @@
             "weekdays": "[\"Firstday\",\"Seconday\",\"Thirday\",\"Fourthday\",\"Fifthday\",\"Sixthday\",\"Seventhday\"]",
             "years": "[]",
             "seasons": "[]",
-            "date": "13-1-1",
+            "date": "13-1-27",
             "suffix": null,
             "has_leap_year": 0,
             "leap_year_amount": null,
@@ -1923,6 +2992,63 @@
                 "type_id": 7,
                 "name": "Party's Visit to Jabba's Skiff"
             }
+        },
+        {
+            "id": 156669,
+            "name": "Varnex discovers the teachery",
+            "type": null,
+            "entry": null,
+            "date": "13-2-7",
+            "location_id": null,
+            "event_id": null,
+            "entity": {
+                "id": 6339970,
+                "entity_id": 156669,
+                "type_id": 7,
+                "name": "Varnex discovers the teachery",
+                "events": [
+                    {
+                        "id": 229444,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": "He's pissed",
+                        "is_recurring": 0,
+                        "recurring_until": null,
+                        "recurring_periodicity": null,
+                        "day": 7,
+                        "month": 2,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ]
+            }
+        }
+    ],
+    "families": [
+        {
+            "id": 173680,
+            "name": "Vane",
+            "type": null,
+            "entry": null,
+            "family_id": null,
+            "location_id": null,
+            "is_extinct": 0,
+            "entity": {
+                "id": 6318744,
+                "entity_id": 173680,
+                "type_id": 2,
+                "name": "Vane"
+            },
+            "pivotMembers": [
+                {
+                    "character_id": 1602794,
+                    "family_id": 173680
+                },
+                {
+                    "character_id": 1602797,
+                    "family_id": 173680
+                }
+            ]
         }
     ],
     "items": [
@@ -2008,7 +3134,7 @@
             "id": 105669,
             "name": "Session 1",
             "type": "Session",
-            "entry": "<p style=\"color:rgb(24,26,42);\">The party met in the Mos Eisley Cantina. All began to get to know each other.</p><p style=\"color:rgb(24,26,42);\">At one point Ten'Shin managed to steal the comlink of Greef Teeka and the party determined he is working for someone called [character:5663465|Zan] and is actively looking for Aldair Tallon. There was much nonsense. Ten'Shin also tried and, initially failed, to steal the speederbike of a trandoshan.</p><p style=\"color:rgb(24,26,42);\">Zilgik also stole a speeder, but did so quietly by hotwiring it.</p><p style=\"color:rgb(24,26,42);\">They party has decided to head for the Power Station in an attempt to \"borrow\" some equipment to scan for Aldair Tallon in addition to continuing to listen to Greef Teeka to see if his group has located Aldair Tallon.</p>",
+            "entry": "<p style=\"color:rgb(24,26,42);\">Firstday, 1st of Firstmonth GR 13</p><p style=\"color:rgb(24,26,42);\">The party met in the Mos Eisley Cantina. All began to get to know each other.</p><p style=\"color:rgb(24,26,42);\">At one point Ten'Shin managed to steal the comlink of Greef Teeka and the party determined he is working for someone called [character:5663465|Zan] and is actively looking for Aldair Tallon. There was much nonsense. Ten'Shin also tried and, initially failed, to steal the speederbike of a trandoshan.</p><p style=\"color:rgb(24,26,42);\">Zilgik also stole a speeder, but did so quietly by hotwiring it.</p><p style=\"color:rgb(24,26,42);\">They party has decided to head for the Power Station in an attempt to \"borrow\" some equipment to scan for Aldair Tallon in addition to continuing to listen to Greef Teeka to see if his group has located Aldair Tallon.</p>",
             "author_id": null,
             "location_id": 1284877,
             "date": "2024-01-20",
@@ -2029,7 +3155,9 @@
                             "collapsed": "0"
                         },
                         "location_id": null,
-                        "layout_id": null
+                        "layout_id": null,
+                        "deleted_at": null,
+                        "deleted_by": null
                     }
                 ],
                 "events": [
@@ -2038,9 +3166,9 @@
                         "calendar_id": 21933,
                         "length": 1,
                         "comment": null,
-                        "is_recurring": 0,
+                        "is_recurring": 1,
                         "recurring_until": null,
-                        "recurring_periodicity": null,
+                        "recurring_periodicity": "year",
                         "day": 1,
                         "month": 1,
                         "year": 13,
@@ -2103,27 +3231,6 @@
                         "timeline_element_id": null,
                         "quest_element_id": null,
                         "target_id": 5663490
-                    },
-                    {
-                        "entity_id": 5668801,
-                        "post_id": 571102,
-                        "timeline_element_id": null,
-                        "quest_element_id": null,
-                        "target_id": 5668723
-                    },
-                    {
-                        "entity_id": 5668801,
-                        "post_id": 571102,
-                        "timeline_element_id": null,
-                        "quest_element_id": null,
-                        "target_id": 5668722
-                    },
-                    {
-                        "entity_id": 5668801,
-                        "post_id": 571102,
-                        "timeline_element_id": null,
-                        "quest_element_id": null,
-                        "target_id": 5663527
                     }
                 ]
             }
@@ -2132,7 +3239,7 @@
             "id": 108473,
             "name": "Session 2",
             "type": "Session",
-            "entry": "<p>Party continued in their search for Aldair Tallon in Mos Eisley. They hit up the charging center on the edge of town, spotting Grond watching them there while pretending to be charging and offline. Eventually they stole the parts they needed to create a mishmash of sensors in an attempt to detect the echo drive being used in the deep desert of Tatooine. They also geared up for an assault on Grond with Ten'Shin borrowing an ion blaster from Sivvi, the leader of the tribe of Jawa living in the center of Mos Eisley. Zilgik \"borrowed\" an ion grenade from her employer Tanno Vikra. The party was able to attack and disable Grond in two rounds, causing mostly ion damage to the droid. They then gathered the disabled droid up, fled to McCallin's ship Yojimbo. After leaving the tracking beacon from Sskar Vossk's speederbike in the docking bay, they took off and began using the sensor mishmash Zilgik cobbled together. They were able to pick up a signal in the deep desert, land, and make contact with Aldair Tallon. They had a brief conversation before alarms began sounding in Aldair Tallon's lair. The session ended there.  <span style=\"background-color:rgb(157,223,251);\"></span></p>",
+            "entry": "<p>Seconday, 2nd of Firstmonth GR 13</p><p>Party continued in their search for Aldair Tallon in Mos Eisley. They hit up the charging center on the edge of town, spotting Grond watching them there while pretending to be charging and offline. Eventually they stole the parts they needed to create a mishmash of sensors in an attempt to detect the echo drive being used in the deep desert of Tatooine. They also geared up for an assault on Grond with Ten'Shin borrowing an ion blaster from Sivvi, the leader of the tribe of Jawa living in the center of Mos Eisley. Zilgik \"borrowed\" an ion grenade from her employer Tanno Vikra. The party was able to attack and disable Grond in two rounds, causing mostly ion damage to the droid. They then gathered the disabled droid up, fled to McCallin's ship Yojimbo. After leaving the tracking beacon from Sskar Vossk's speederbike in the docking bay, they took off and began using the sensor mishmash Zilgik cobbled together. They were able to pick up a signal in the deep desert, land, and make contact with Aldair Tallon. They had a brief conversation before alarms began sounding in Aldair Tallon's lair. The session ended there.  <span style=\"background-color:rgb(157,223,251);\"></span></p>",
             "author_id": null,
             "location_id": null,
             "date": "2024-02-18",
@@ -2147,10 +3254,10 @@
                         "id": 212930,
                         "calendar_id": 21933,
                         "length": 1,
-                        "comment": "",
-                        "is_recurring": 0,
+                        "comment": null,
+                        "is_recurring": 1,
                         "recurring_until": null,
-                        "recurring_periodicity": null,
+                        "recurring_periodicity": "year",
                         "day": 2,
                         "month": 1,
                         "year": 13,
@@ -2249,7 +3356,7 @@
             "id": 113501,
             "name": "Session 3",
             "type": "Session",
-            "entry": "<p>Party defended an attack on Aldair Tallon's outpost by a group of Tusken Raiders.<span style=\"background-color:rgb(157,223,251);\"> </span>Jabba The Hutt showed up at the end of the fight and called out McCallin. The rest of the party learned that McCallin owed Jabba a favor, and Jabba was intent on calling in that favor. The party has been tasked with traveling to Nar Shaddaa to Zorba The Hutt's compound to retreive the device.</p>",
+            "entry": "<p><span style=\"color:rgb(24,26,42);\">Seconday, 2nd of Firstmonth GR 13</span><br>Party defended an attack on Aldair Tallon's outpost by a group of Tusken Raiders.<span style=\"background-color:rgb(157,223,251);\"> </span>Jabba The Hutt showed up at the end of the fight and called out McCallin. The rest of the party learned that McCallin owed Jabba a favor, and Jabba was intent on calling in that favor. The party has been tasked with traveling to Nar Shaddaa to Zorba The Hutt's compound to retreive the device.</p>",
             "author_id": null,
             "location_id": 1284876,
             "date": "2024-03-16",
@@ -2264,10 +3371,10 @@
                         "id": 222144,
                         "calendar_id": 21933,
                         "length": 1,
-                        "comment": "",
-                        "is_recurring": 0,
+                        "comment": null,
+                        "is_recurring": 1,
                         "recurring_until": null,
-                        "recurring_periodicity": null,
+                        "recurring_periodicity": "year",
                         "day": 2,
                         "month": 1,
                         "year": 13,
@@ -2317,7 +3424,7 @@
             "id": 113551,
             "name": "Session 4",
             "type": "Session",
-            "entry": "<p>Party approaches and traded with the Desert Fangs to get Ten'Shin's ship back, and return the remains of Grond and Sskar Vossk's speederbike. Before returning Grond, Zilgik managed to copy his memory banks. This will lead to a massive amount of information on the group:<br></p><ol style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Operational Data</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Past Missions</span>: Detailed records of past operations performed by the Desert Fangs, including employer information, mission parameters, and outcomes. This could reveal patterns or expose significant underworld connections and the political landscape that the Desert Fangs have been involved with.</li><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Tactics and Strategies</span>: Insights into the combat tactics, escape routes, and contingency plans used by the Desert Fangs. This could provide the party with advanced knowledge of mercenary tactics that could be useful in future encounters.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Client List</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">A comprehensive list of past and current clients, which may include influential figures on Tatooine and beyond. This could lead to new allies or enemies, depending on how the party uses this information.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Communications</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Archived communications between the Desert Fangs and their clients, as well as internal communications within the group. This might reveal not only who hired them for what jobs but also potential vulnerabilities or secrets that clients believed were safe.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Financial Records</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Details about the financial dealings of the Desert Fangs, including how they are paid, who funds them, and perhaps even where they stash their earnings. This could be leveraged for bribery, blackmail, or to disrupt their operations financially.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Technical Specifications and Upgrades</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Specifications of the modifications and upgrades made to Grond, potentially including blueprints or software that could be replicated or adapted for the party’s own use.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Navigation Logs</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Data about routes taken by the Desert Fangs, including hidden hyperspace routes or safe houses they might use across the galaxy. This could help the party travel unnoticed or find significant locations related to their quests.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Encryption Keys and Security Protocols</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Access to any encrypted files and an understanding of the security protocols used by the Desert Fangs, potentially allowing the party to infiltrate secured communications or locations associated with the mercenary group.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Potential Blackmail Material</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">Compromising information about individuals or organizations that could be used for leverage or blackmail by the party.</li></ul></li></ol><p><br>Then they made their way to Dantooine to drop off Aldair Tallon who plans to vanish into obscurity. They then continued on their way to Nar Shaddaa (arrived on the 23 of Banthaar) so they can attempt to infiltrate Zorba The Hutt's compound in an attempt to find the Mentari Disk. McCallin and Nom Drexx met up with Selana Korr to get some information about Zorba's compound. </p><p>She provided a rough sketch of the compound itself, a vague estimate of the security personnel and a couple of inside contacts that she has with people that are in and out of the compound regularly, but stressed she doesn't know these contacts well and their trustworthiness is questionable.</p>",
+            "entry": "<p>Seconday, 23rd of Firstmonth GR 13<br>Party approaches and traded with the Desert Fangs to get Ten'Shin's ship back, and return the remains of Grond and Sskar Vossk's speederbike. Before returning Grond, Zilgik managed to copy his memory banks. This will lead to a massive amount of information on the group:<br></p><ol style=\"border-color:rgb(227,227,227);padding-left:0px;\"><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Operational Data</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Past Missions</span>: Detailed records of past operations performed by the Desert Fangs, including employer information, mission parameters, and outcomes. This could reveal patterns or expose significant underworld connections and the political landscape that the Desert Fangs have been involved with.</li><li style=\"border-color:rgb(227,227,227);padding-left:0px;\"><span style=\"border-color:rgb(227,227,227);\">Tactics and Strategies</span>: Insights into the combat tactics, escape routes, and contingency plans used by the Desert Fangs. This could provide the party with advanced knowledge of mercenary tactics that could be useful in future encounters.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><span style=\"border-color:rgb(227,227,227);\">Client List</span>:</p><ul style=\"border-color:rgb(227,227,227);margin-left:1rem;padding-left:1rem;\"><li style=\"border-color:rgb(227,227,227);padding-left:0px;\">A comprehensive list of past and current clients, which may include influential figures on Tatooine and beyond. This could lead to new allies or enemies, depending on how the party uses this information.</li></ul></li><li style=\"border-color:rgb(227,227,227);padding-left:0.375em;\"><p style=\"border-color:rgb(227,227,227);\"><br></p></li></ol><p><br>Then they made their way to Dantooine to drop off Aldair Tallon who plans to vanish into obscurity. They then continued on their way to Nar Shaddaa (arrived on the 23 of Banthaar) so they can attempt to infiltrate Zorba The Hutt's compound in an attempt to find the Mentari Disk. McCallin and Nom Drexx met up with Selana Korr to get some information about Zorba's compound. </p><p>She provided a rough sketch of the compound itself, a vague estimate of the security personnel and a couple of inside contacts that she has with people that are in and out of the compound regularly, but stressed she doesn't know these contacts well and their trustworthiness is questionable.</p>",
             "author_id": null,
             "location_id": null,
             "date": "2024-04-26",
@@ -2332,10 +3439,10 @@
                         "id": 222243,
                         "calendar_id": 21933,
                         "length": 1,
-                        "comment": "",
-                        "is_recurring": 0,
+                        "comment": null,
+                        "is_recurring": 1,
                         "recurring_until": null,
-                        "recurring_periodicity": null,
+                        "recurring_periodicity": "year",
                         "day": 23,
                         "month": 1,
                         "year": 13,
@@ -2436,6 +3543,163 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 118085,
+            "name": "Session 5",
+            "type": null,
+            "entry": "<p>Sixthday, the 26th of Firstmonth GR 13</p><p>Characters communicated with Frix Nant and found out he had discovered there was descrepancies with the books for Zorba The Hutt. They were pointed in Elia Vane's direction.</p><p><br></p>",
+            "author_id": null,
+            "location_id": 1373557,
+            "date": "2024-06-08",
+            "journal_id": 105667,
+            "entity": {
+                "id": 6339936,
+                "entity_id": 118085,
+                "type_id": 11,
+                "name": "Session 5",
+                "events": [
+                    {
+                        "id": 229438,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": "",
+                        "is_recurring": 1,
+                        "recurring_until": null,
+                        "recurring_periodicity": "year",
+                        "day": 27,
+                        "month": 1,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6339936,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6339935
+                    },
+                    {
+                        "entity_id": 6339936,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098836
+                    },
+                    {
+                        "entity_id": 6339936,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318731
+                    }
+                ]
+            }
+        },
+        {
+            "id": 118086,
+            "name": "Session 6",
+            "type": "Session",
+            "entry": "<p><span style=\"color:rgb(24,26,42);\">Sixthday, the 26th of Firstmonth GR 13</span><br></p><p>Characters tracked down Elia Vane, found out she was being blackmailed by Corthan Dynamics to steal from Zorba The Hutt. Corthan Dynamics had hired the Black Sun Enforcers to kidnap Elia Vane's sister Lyra Vane. The party went to the hideout of the Black Sun Enforcers, located in the lower levels of Nar Shaddaa. There they negotiated with Varnex Krel the leader of the group. In the mean time, Ten'Shin was able to retrive the Mentari Disk from Zorba The Hutt's throne room, and the party left Nar Shaddaa in quite the hurry. The current plan is to drop off the Vane sisters somewhere, then deliver the Mentari Disk to Jabba The Hutt.</p>",
+            "author_id": null,
+            "location_id": 1373557,
+            "date": "2024-06-15",
+            "journal_id": 105667,
+            "entity": {
+                "id": 6339946,
+                "entity_id": 118086,
+                "type_id": 11,
+                "name": "Session 6",
+                "events": [
+                    {
+                        "id": 229439,
+                        "calendar_id": 21933,
+                        "length": 1,
+                        "comment": "",
+                        "is_recurring": 1,
+                        "recurring_until": null,
+                        "recurring_periodicity": "year",
+                        "day": 27,
+                        "month": 1,
+                        "year": 13,
+                        "type_id": null
+                    }
+                ],
+                "mentions": [
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318731
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318739
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098836
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6339945
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6318751
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098897
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6339955
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 5663490
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6102652
+                    },
+                    {
+                        "entity_id": 6339946,
+                        "post_id": null,
+                        "timeline_element_id": null,
+                        "quest_element_id": null,
+                        "target_id": 6098917
+                    }
+                ]
+            }
         }
     ],
     "locations": [
@@ -2444,6 +3708,7 @@
             "name": "Tatooine",
             "type": "Planet",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": null,
             "entity": {
                 "id": 5658512,
@@ -2457,6 +3722,7 @@
             "name": "Mos Eisley",
             "type": "Spaceport",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1284876,
             "entity": {
                 "id": 5658514,
@@ -2470,6 +3736,7 @@
             "name": "Mos Eisley Cantina",
             "type": "Cantina",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658546,
@@ -2483,6 +3750,7 @@
             "name": "General Store",
             "type": "Store",
             "entry": "<p>Run by Tar Lup and his wife Kal</p><p><span style=\"color:rgb(0,0,0);font-family:Verdana;font-size:8px;\">Despite their fearsome</span><br></p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">appearance, both Tar and Kal are friendly and helpful.</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Their store carries provisions, supplies, and some</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">machinery. They don't know anyone who matches <span>Tallon's description, but few settlers ever travel all the</span></p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">way to Mos Eisley for the items they carry. Most of their</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">dealings are with space travelers.</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Many settlers do come into the city for weapons and</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">landspeeders, however. Tar directs sociable PCs to those</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">stores. He comments on the unusually high number of</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">visitors for this time of year, eager to find out why the</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Rebels are on Tatooine. PCs can buy supplies here if they</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">wish, including medpacs. Tar has three of these highly-</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">sought items left, and he is only charging 200 credits for</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">each. He's also pushing a miniature vaporator/water</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">convertor. It only costs 2,000 credits and it actually</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">works.</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Before this encounter ends, Akkik and Gorrt (see</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">pullout) arrive to collect Jabba's portion of this week's</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">sales. They dump a few shelves, break some</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">merchandise, and threaten loudly. Tar quickly moves to</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">get them the credits. If the PCs go to Tar's defense, the</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">wolf-alien thanks them but begs they stay out of it. Then</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">he pays Akkik. If the Rebels press to stop Jabba's goons,</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Akkik and Gorrt back down and leave, but not before</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">assuring the storekeepers that they'll be back.</p>",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658549,
@@ -2512,6 +3780,7 @@
             "name": "Power Station",
             "type": null,
             "entry": "<p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">This station provides power for speeders and other</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">repulsorlift vehicles. A large, square labor Droid, named</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">4-LB, operates the station. Four-el has information about</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">someone matching Tallon's description. He lives out on</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">the old Lank settlement and comes by twice a month. But</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Four-el has confused Bels Lank with Tallon.</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">While the PCs talk with Four-el, the assassin Droid IG-</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">72 plugs into the station to power up. The Droid ignores</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">them and seems totally uninterested in their discussion.</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Once the PCs leave, the assassin Droid trashes Four-el</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">and the station. Then it heads out toward the Lank</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">farmstead to finish its mission. See the pullout for IG-</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">72's statistics.</p>",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658553,
@@ -2525,6 +3794,7 @@
             "name": "Jabba's Town House",
             "type": "Estate",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658555,
@@ -2538,6 +3808,7 @@
             "name": "Weapon Shop",
             "type": "Shop",
             "entry": "<p>Run by Kayson</p><p><br></p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">Kayson's Weapon Shop sells personal weapons, both</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">ranged and melee. Kayson has lots of standard items,</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">including non-powered clubs, swords, and gaffi sticks,</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">and powered weapons like blasters. No explosives are</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">available, though, and no heavy weapons (Puggles</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">bought up all the detonite Kayson had on hand). All</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">prices are doubled due to the heavy demand the bounty</p><p class=\"p1\" style=\"font-size:8px;font-family:Verdana;color:rgb(0,0,0);\">hunters have created.</p>",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658557,
@@ -2560,6 +3831,7 @@
             "name": "Souvenir Shop",
             "type": "Shop",
             "entry": "<p>Run by Heff</p>",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5658565,
@@ -2582,6 +3854,7 @@
             "name": "Vikra's Vanguard &amp; Repair",
             "type": "Shop",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1284877,
             "entity": {
                 "id": 5814093,
@@ -2595,6 +3868,7 @@
             "name": "The Dune Sea",
             "type": "Region",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1284876,
             "entity": {
                 "id": 5915854,
@@ -2608,6 +3882,7 @@
             "name": "Aldair's Dune Compound",
             "type": "Compound",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1337150,
             "entity": {
                 "id": 5915856,
@@ -2621,6 +3896,7 @@
             "name": "Nal Hutta",
             "type": "Planet",
             "entry": null,
+            "is_destroyed": 0,
             "location_id": null,
             "entity": {
                 "id": 5915882,
@@ -2634,6 +3910,7 @@
             "name": "Jabba's Palace",
             "type": "Compound",
             "entry": "",
+            "is_destroyed": 0,
             "location_id": 1337150,
             "entity": {
                 "id": 5915915,
@@ -2647,6 +3924,7 @@
             "name": "Nar Shaddaa",
             "type": null,
             "entry": null,
+            "is_destroyed": 0,
             "location_id": null,
             "entity": {
                 "id": 6098897,
@@ -2660,12 +3938,27 @@
             "name": "Dantooine",
             "type": null,
             "entry": null,
+            "is_destroyed": 0,
             "location_id": null,
             "entity": {
                 "id": 6102651,
                 "entity_id": 1374381,
                 "type_id": 3,
                 "name": "Dantooine"
+            }
+        },
+        {
+            "id": 1421738,
+            "name": "Corellia",
+            "type": null,
+            "entry": null,
+            "is_destroyed": 0,
+            "location_id": null,
+            "entity": {
+                "id": 6318735,
+                "entity_id": 1421738,
+                "type_id": 3,
+                "name": "Corellia"
             }
         }
     ],
@@ -2675,7 +3968,6 @@
             "name": "Oldster",
             "type": null,
             "entry": "<p>Group of original colony ship members to Tatooine</p>",
-            "location_id": 1284877,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -2721,6 +4013,11 @@
                     "status_id": 0,
                     "parent_id": null
                 }
+            ],
+            "pivotLocations": [
+                {
+                    "location_id": 1284877
+                }
             ]
         },
         {
@@ -2728,7 +4025,6 @@
             "name": "Desert Fangs",
             "type": "Gang",
             "entry": "<p>Group of mercenaries operating out of Mos Eisley.</p><ul><li>Sskar Vossk Trandoshan Leader of the group.</li><li style=\"border-color:rgb(217,217,227);margin:0px;padding-left:0.375em;\">Jexa Korr [race:5663585] The brains behind explosives and technical challenges. Can set traps for the party or provide tactical support.</li><li style=\"border-color:rgb(217,217,227);margin:0px;padding-left:0.375em;\">Vela Nari: Twil'lek Skilled in escape and chase sequences, especially involving spacecraft. Can engage in dogfights or rapid pursuits.</li><li style=\"border-color:rgb(217,217,227);margin:0px;padding-left:0.375em;\">Grond<span style=\"border-color:rgb(217,217,227);\"></span>: Droid The muscle of the group, ideal for direct combat encounters. A formidable opponent in physical confrontations.</li></ul><p style=\"border-color:rgb(217,217,227);margin:0px;padding-left:0.375em;\"><br></p><p style=\"border-color:rgb(217,217,227);margin:0px;padding-left:0.375em;\">Ten'Shin stole Sskar Vossk's speederbike in Mos Eisley.</p><p></p>",
-            "location_id": 1284877,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -2839,6 +4135,11 @@
                     "status_id": 0,
                     "parent_id": null
                 }
+            ],
+            "pivotLocations": [
+                {
+                    "location_id": 1284877
+                }
             ]
         },
         {
@@ -2846,7 +4147,6 @@
             "name": "Jabba's Crime Syndicate",
             "type": "Gang",
             "entry": "",
-            "location_id": 1284877,
             "is_defunct": 0,
             "organisation_id": 286064,
             "entity": {
@@ -2874,6 +4174,11 @@
                     "status_id": 0,
                     "parent_id": null
                 }
+            ],
+            "pivotLocations": [
+                {
+                    "location_id": 1284877
+                }
             ]
         },
         {
@@ -2881,7 +4186,6 @@
             "name": "Eclipse Trackers",
             "type": "Gang",
             "entry": "<p>Bounty hunting group.</p>",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -2900,7 +4204,9 @@
                             "collapsed": "0"
                         },
                         "location_id": null,
-                        "layout_id": null
+                        "layout_id": null,
+                        "deleted_at": null,
+                        "deleted_by": null
                     }
                 ],
                 "mentions": [
@@ -2946,7 +4252,6 @@
             "name": "The Republic",
             "type": null,
             "entry": "",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -2961,7 +4266,6 @@
             "name": "Supply and Requisition",
             "type": "Department",
             "entry": "",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": 281497,
             "entity": {
@@ -2987,7 +4291,6 @@
             "name": "The Judicial Forces",
             "type": "Department",
             "entry": "",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": 281497,
             "entity": {
@@ -3022,7 +4325,6 @@
             "name": "Confederacy of Independent Systems",
             "type": null,
             "entry": "",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -3037,7 +4339,6 @@
             "name": "Grand Hutt Council",
             "type": "Council",
             "entry": "",
-            "location_id": 1337156,
             "is_defunct": 0,
             "organisation_id": null,
             "entity": {
@@ -3045,14 +4346,18 @@
                 "entity_id": 286064,
                 "type_id": 4,
                 "name": "Grand Hutt Council"
-            }
+            },
+            "pivotLocations": [
+                {
+                    "location_id": 1337156
+                }
+            ]
         },
         {
             "id": 294246,
             "name": "Desilijic Tiure clan",
             "type": "Clan",
             "entry": "<p><b>Desilijic</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-absolutely-8\" style=\"margin:0px;padding:0px;text-decoration:none;\">[8]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> also known as the </span><b>Desilijic Tiure clan</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-BMF_94-9\" style=\"margin:0px;padding:0px;text-decoration:none;\">[9]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> or the </span><b>Tiure family</b><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">,</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-Super_Graphic-10\" style=\"margin:0px;padding:0px;text-decoration:none;\">[10]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> was an influential</span><sup><a href=\"https://starwars.fandom.com/wiki/Desilijic#cite_note-BMF_94-9\" style=\"margin:0px;padding:0px;text-decoration:none;\">[9]</a></sup><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> </span><a href=\"https://starwars.fandom.com/wiki/Hutt\" title=\"Hutt\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">Hutt</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> </span><a href=\"https://starwars.fandom.com/wiki/Kajidic\" title=\"Kajidic\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">kajidic</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">. </span><a href=\"https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure\" title=\"Jabba Desilijic Tiure\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">Jabba Desilijic Tiure</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">, head of </span><a href=\"https://starwars.fandom.com/wiki/Gender\" title=\"Gender\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">his</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> crime family, had the Desilijic's </span><a href=\"https://starwars.fandom.com/wiki/Tattoo\" title=\"Tattoo\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">tattoo</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\"> carved on his </span><a href=\"https://starwars.fandom.com/wiki/Limb\" title=\"Limb\" style=\"margin:0px;padding:0px;font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">right arm</a><span style=\"color:rgb(58,58,58);font-family:rubik, helvetica, arial, sans-serif;font-size:16px;\">.</span><br></p>",
-            "location_id": null,
             "is_defunct": 0,
             "organisation_id": 286064,
             "entity": {
@@ -3081,6 +4386,61 @@
                     "parent_id": null
                 }
             ]
+        },
+        {
+            "id": 304272,
+            "name": "Corthan Dynamics",
+            "type": null,
+            "entry": "<p>Corthon Dynamics is a powerful and influential mega-corporation based in the Core Worlds, known for its advancements in starship engineering, weapons development, and high-tech security systems. The corporation has a reputation for ruthless business practices, employing a combination of legal maneuvering and covert operations to eliminate competitors and protect its interests.</p><h4>History and Operations</h4><ol><li><p><strong>Founding</strong>:</p><ul><li><strong>Established</strong>: Corthon Dynamics was founded several decades ago by the ambitious and visionary industrialist <strong>Braylen Corthon</strong>. He transformed a modest starship repair company into a technological powerhouse through aggressive expansion and innovative engineering.</li><li><strong>Headquarters</strong>: The corporate headquarters is located on the prosperous and heavily industrialized planet of <strong>Corellia</strong>, a hub of shipbuilding and advanced technology.</li></ul></li><li><p><strong>Business Interests</strong>:</p><ul><li><strong>Starship Engineering</strong>: The corporation is renowned for its state-of-the-art starships, ranging from sleek private vessels to formidable military cruisers.</li><li><strong>Weapons Development</strong>: Corthon Dynamics produces advanced weaponry for both private security forces and governmental contracts, including blasters, ion cannons, and defensive systems.</li><li><strong>Security Systems</strong>: The corporation designs and implements high-tech security solutions, including surveillance systems, droids, and automated defense networks.</li></ul></li><li><p><strong>Controversies</strong>:</p><ul><li><strong>Corporate Espionage</strong>: Corthon Dynamics has been implicated in numerous cases of industrial espionage, accused of stealing trade secrets from rivals and using covert tactics to undermine competition.</li><li><strong>Labor Practices</strong>: There are persistent rumors of harsh working conditions, unethical labor practices, and exploitation of workers within their manufacturing plants and research facilities.</li><li><strong>Blackmail and Coercion</strong>: The corporation has been known to use blackmail, coercion, and even outright violence to maintain its dominance and control over valuable assets and individuals.</li></ul></li></ol>",
+            "is_defunct": 0,
+            "organisation_id": null,
+            "entity": {
+                "id": 6318739,
+                "entity_id": 304272,
+                "type_id": 4,
+                "name": "Corthan Dynamics"
+            },
+            "members": [
+                {
+                    "id": 749912,
+                    "organisation_id": 304272,
+                    "character_id": 1602794,
+                    "role": "Former Employee",
+                    "pin_id": null,
+                    "status_id": 1,
+                    "parent_id": null
+                }
+            ],
+            "pivotLocations": [
+                {
+                    "location_id": 1421738
+                }
+            ]
+        },
+        {
+            "id": 305114,
+            "name": "Black Sun Enforcers",
+            "type": null,
+            "entry": null,
+            "is_defunct": 0,
+            "organisation_id": null,
+            "entity": {
+                "id": 6339945,
+                "entity_id": 305114,
+                "type_id": 4,
+                "name": "Black Sun Enforcers"
+            },
+            "members": [
+                {
+                    "id": 751074,
+                    "organisation_id": 305114,
+                    "character_id": 1608431,
+                    "role": "Leader",
+                    "pin_id": null,
+                    "status_id": 0,
+                    "parent_id": null
+                }
+            ]
         }
     ],
     "races": [
@@ -3089,8 +4449,8 @@
             "name": "Rodian",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663461,
                 "entity_id": 605078,
@@ -3103,8 +4463,8 @@
             "name": "Chiss",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663464,
                 "entity_id": 605080,
@@ -3117,8 +4477,8 @@
             "name": "Devaronian",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663582,
                 "entity_id": 605088,
@@ -3131,8 +4491,8 @@
             "name": "Jawa",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663586,
                 "entity_id": 605091,
@@ -3145,8 +4505,8 @@
             "name": "Gamorrean",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663589,
                 "entity_id": 605092,
@@ -3159,8 +4519,8 @@
             "name": "Human",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663590,
                 "entity_id": 605093,
@@ -3173,8 +4533,8 @@
             "name": "Droid",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663591,
                 "entity_id": 605094,
@@ -3187,8 +4547,8 @@
             "name": "Shistavanen",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663594,
                 "entity_id": 605096,
@@ -3201,8 +4561,8 @@
             "name": "Trandoshan",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663600,
                 "entity_id": 605097,
@@ -3215,8 +4575,8 @@
             "name": "Verpine",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663605,
                 "entity_id": 605098,
@@ -3229,8 +4589,8 @@
             "name": "Falleen",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5663607,
                 "entity_id": 605100,
@@ -3243,8 +4603,8 @@
             "name": "Twil'lek",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5668726,
                 "entity_id": 605958,
@@ -3257,8 +4617,8 @@
             "name": "Gand",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5668733,
                 "entity_id": 605959,
@@ -3271,13 +4631,41 @@
             "name": "Duros",
             "type": null,
             "entry": null,
+            "is_extinct": 0,
             "race_id": null,
-            "deleted_at": null,
             "entity": {
                 "id": 5814085,
                 "entity_id": 625018,
                 "type_id": 9,
                 "name": "Duros"
+            }
+        },
+        {
+            "id": 684464,
+            "name": "Nautolan",
+            "type": null,
+            "entry": null,
+            "is_extinct": 0,
+            "race_id": null,
+            "entity": {
+                "id": 6339937,
+                "entity_id": 684464,
+                "type_id": 9,
+                "name": "Nautolan"
+            }
+        },
+        {
+            "id": 684466,
+            "name": "Zabrak",
+            "type": null,
+            "entry": null,
+            "is_extinct": 0,
+            "race_id": null,
+            "entity": {
+                "id": 6339956,
+                "entity_id": 684466,
+                "type_id": 9,
+                "name": "Zabrak"
             }
         }
     ]
